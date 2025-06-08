@@ -1,0 +1,980 @@
+[
+    {
+        "Character": "",
+        "ID": "c010",
+        "skin_code": "00",
+        "hashed_name": "858e784e7c1169afe78b7dfc8c73e1b9"
+    },
+    {
+        "Character": "",
+        "ID": "c011",
+        "skin_code": "00",
+        "hashed_name": "2efcf974404bd625194890be18bf369c"
+    },
+    {
+        "Character": "",
+        "ID": "c012",
+        "skin_code": "00",
+        "hashed_name": "3a72fdb17e6c933b7d25edeead1a94a2"
+    },
+    {
+        "Character": "",
+        "ID": "c013",
+        "skin_code": "00",
+        "hashed_name": "72f8c831ae3f4ed18ae5c7f2255fcaa7"
+    },
+    {
+        "Character": "",
+        "ID": "c014",
+        "skin_code": "00",
+        "hashed_name": "18b3d164ebac6762d6f3292690e5f98d"
+    },
+    {
+        "Character": "",
+        "ID": "c015",
+        "skin_code": "00",
+        "hashed_name": "c79f3920e70076f87ec09f2528346f52"
+    },
+    {
+        "Character": "",
+        "ID": "c016",
+        "skin_code": "00",
+        "hashed_name": "9b639fc3250c1831465a697449981c02"
+    },
+    {
+        "Character": "",
+        "ID": "c022",
+        "skin_code": "00",
+        "hashed_name": "b047404ea6a4dc44392db7159c25018f"
+    },
+    {
+        "Character": "",
+        "ID": "c030",
+        "skin_code": "00",
+        "hashed_name": "7a902b779bb8c0a96c69acb9915f9cf6"
+    },
+    {
+        "Character": "",
+        "ID": "c032",
+        "skin_code": "00",
+        "hashed_name": "30dd0c59876da5b7ca47d6a048f0eea5"
+    },
+    {
+        "Character": "",
+        "ID": "c033",
+        "skin_code": "00",
+        "hashed_name": "91a3a6cd4386ac1246c2b2ddb4937617"
+    },
+    {
+        "Character": "",
+        "ID": "c040",
+        "skin_code": "00",
+        "hashed_name": "a014de2a29846f5091326c53e78df5f3"
+    },
+    {
+        "Character": "",
+        "ID": "c041",
+        "skin_code": "00",
+        "hashed_name": "ad9eeeddc70a6f44b5c139f543f77139"
+    },
+    {
+        "Character": "",
+        "ID": "c043",
+        "skin_code": "00",
+        "hashed_name": "6c46c3b2ecf52b0892e46273603afbee"
+    },
+    {
+        "Character": "",
+        "ID": "c062",
+        "skin_code": "00",
+        "hashed_name": "1fd04cf3b798bf4488fd5439c21c08d0"
+    },
+    {
+        "Character": "",
+        "ID": "c070",
+        "skin_code": "00",
+        "hashed_name": "c4e6c984151d572ac4f450356f24ee11"
+    },
+    {
+        "Character": "",
+        "ID": "c071",
+        "skin_code": "00",
+        "hashed_name": "18a7754e63b63530ec1f54b9a8ad0b33"
+    },
+    {
+        "Character": "",
+        "ID": "c072",
+        "skin_code": "00",
+        "hashed_name": "53a91cf442644bde41a123a0f10cd264"
+    },
+    {
+        "Character": "",
+        "ID": "c080",
+        "skin_code": "00",
+        "hashed_name": "1501859d4f7d753a0df6b5cd2eb9091a"
+    },
+    {
+        "Character": "",
+        "ID": "c082",
+        "skin_code": "00",
+        "hashed_name": "4aa6bb9cee32f95a5f3862fdeef59f2c"
+    },
+    {
+        "Character": "",
+        "ID": "c090",
+        "skin_code": "00",
+        "hashed_name": "a50b1226b04e201c643203e77151644d"
+    },
+    {
+        "Character": "",
+        "ID": "c091",
+        "skin_code": "00",
+        "hashed_name": "5015f20903821c555c9de32a9acca908"
+    },
+    {
+        "Character": "",
+        "ID": "c092",
+        "skin_code": "00",
+        "hashed_name": "9d8c192f7a76a58c3f76a1f0cb733828"
+    },
+    {
+        "Character": "",
+        "ID": "c100",
+        "skin_code": "00",
+        "hashed_name": "2d2be3233a1dca8fe7ce10e9a79ce90c"
+    },
+    {
+        "Character": "",
+        "ID": "c101",
+        "skin_code": "00",
+        "hashed_name": "72c709c19aae43264a1922f2faebd29d"
+    },
+    {
+        "Character": "",
+        "ID": "c101",
+        "skin_code": "01",
+        "hashed_name": "aeda6ebf88e981d873f2a6106e7498b9"
+    },
+    {
+        "Character": "",
+        "ID": "c102",
+        "skin_code": "00",
+        "hashed_name": "081101f098ba4d40c01cc0bdc946dd30"
+    },
+    {
+        "Character": "",
+        "ID": "c110",
+        "skin_code": "00",
+        "hashed_name": "3d2ebb92456fa07dcb7bdf1ee23c68d5"
+    },
+    {
+        "Character": "",
+        "ID": "c111",
+        "skin_code": "00",
+        "hashed_name": "4e2570c540c8524d2c90328456ab37e8"
+    },
+    {
+        "Character": "",
+        "ID": "c112",
+        "skin_code": "00",
+        "hashed_name": "a827f55392e16f53cd94dde03ed834a4"
+    },
+    {
+        "Character": "",
+        "ID": "c112",
+        "skin_code": "02",
+        "hashed_name": "8523e96e571677c81705954808a23145"
+    },
+    {
+        "Character": "",
+        "ID": "c121",
+        "skin_code": "00",
+        "hashed_name": "ee9ac658ae61059c174c4571010fb175"
+    },
+    {
+        "Character": "",
+        "ID": "c130",
+        "skin_code": "00",
+        "hashed_name": "d3ff352a130bfbf20904fced33246f20"
+    },
+    {
+        "Character": "",
+        "ID": "c131",
+        "skin_code": "00",
+        "hashed_name": "8cd9076cb0a3ae80b92520e1caf4552b"
+    },
+    {
+        "Character": "",
+        "ID": "c132",
+        "skin_code": "00",
+        "hashed_name": "6b119ec4859493b293b84712a38627c2"
+    },
+    {
+        "Character": "",
+        "ID": "c140",
+        "skin_code": "00",
+        "hashed_name": "302fcfcab0cda631f9d114a794a37619"
+    },
+    {
+        "Character": "",
+        "ID": "c141",
+        "skin_code": "00",
+        "hashed_name": "3da86effede396f75d81f04ff164e151"
+    },
+    {
+        "Character": "",
+        "ID": "c142",
+        "skin_code": "00",
+        "hashed_name": "3c5173f0baa8e30f8cf00e5289fabdde"
+    },
+    {
+        "Character": "",
+        "ID": "c150",
+        "skin_code": "00",
+        "hashed_name": "e9d77ac0cf2c0acc1ef77b8817b6b72a"
+    },
+    {
+        "Character": "",
+        "ID": "c160",
+        "skin_code": "00",
+        "hashed_name": "16e41e684b3fc9142bb91edaf5844014"
+    },
+    {
+        "Character": "",
+        "ID": "c162",
+        "skin_code": "00",
+        "hashed_name": "3284e7eec39d0599d60bc310de201687"
+    },
+    {
+        "Character": "",
+        "ID": "c162",
+        "skin_code": "01",
+        "hashed_name": "cc300595d40070ccb147781611811e02"
+    },
+    {
+        "Character": "",
+        "ID": "c170",
+        "skin_code": "00",
+        "hashed_name": "4b323be61b8d206eb7e1dde0b4629c03"
+    },
+    {
+        "Character": "",
+        "ID": "c171",
+        "skin_code": "00",
+        "hashed_name": "695baa35096eff6b1b1a7a8a7a0d5709"
+    },
+    {
+        "Character": "",
+        "ID": "c172",
+        "skin_code": "00",
+        "hashed_name": "b52f1c1cf5d73a114227281a8b107377"
+    },
+    {
+        "Character": "",
+        "ID": "c180",
+        "skin_code": "00",
+        "hashed_name": "e08961875c2ea2118ec4b23b4ca85cc7"
+    },
+    {
+        "Character": "",
+        "ID": "c181",
+        "skin_code": "00",
+        "hashed_name": "e1076e5164d19db328268dae567fdc0f"
+    },
+    {
+        "Character": "",
+        "ID": "c182",
+        "skin_code": "00",
+        "hashed_name": "9da44ce5514d60ad10abe409c2485cf2"
+    },
+    {
+        "Character": "",
+        "ID": "c183",
+        "skin_code": "00",
+        "hashed_name": "c0e970aaad75f37730411b855c72513c"
+    },
+    {
+        "Character": "",
+        "ID": "c190",
+        "skin_code": "00",
+        "hashed_name": "34d4a2bc67d9054f795a38b852a967ee"
+    },
+    {
+        "Character": "",
+        "ID": "c191",
+        "skin_code": "00",
+        "hashed_name": "3dd8ab7c10ad79c1df91d5ff49c0fdf5"
+    },
+    {
+        "Character": "",
+        "ID": "c192",
+        "skin_code": "00",
+        "hashed_name": "b4b433f0cffb1c780d2acb6f215775e7"
+    },
+    {
+        "Character": "",
+        "ID": "c194",
+        "skin_code": "00",
+        "hashed_name": "57b97df7a9d242cf11d749f122fbf136"
+    },
+    {
+        "Character": "",
+        "ID": "c195",
+        "skin_code": "00",
+        "hashed_name": "8581219f6c00acc43b84fe60eeda85e3"
+    },
+    {
+        "Character": "",
+        "ID": "c200",
+        "skin_code": "00",
+        "hashed_name": "83489a8663ed9ff1f8607590cd2c4723"
+    },
+    {
+        "Character": "",
+        "ID": "c200",
+        "skin_code": "01",
+        "hashed_name": "46a97a3aa80fecf0603b46bf4b3612cf"
+    },
+    {
+        "Character": "",
+        "ID": "c201",
+        "skin_code": "00",
+        "hashed_name": "8c5886dc27ae305bcd928585701648e4"
+    },
+    {
+        "Character": "",
+        "ID": "c202",
+        "skin_code": "00",
+        "hashed_name": "71df6ea85e2f5f5419cf34c3f7b532d2"
+    },
+    {
+        "Character": "",
+        "ID": "c203",
+        "skin_code": "00",
+        "hashed_name": "ad36491f7354d9dca30032f97b7451be"
+    },
+    {
+        "Character": "",
+        "ID": "c210",
+        "skin_code": "00",
+        "hashed_name": "af8afcab294e61f1159f8a575e3a6cd8"
+    },
+    {
+        "Character": "",
+        "ID": "c212",
+        "skin_code": "00",
+        "hashed_name": "acfd4e7bb5e9c364df4c0e0837550595"
+    },
+    {
+        "Character": "",
+        "ID": "c220",
+        "skin_code": "00",
+        "hashed_name": "d78487e3e4b8c20ef552aa86646b6ea1"
+    },
+    {
+        "Character": "",
+        "ID": "c221",
+        "skin_code": "00",
+        "hashed_name": "471a0bcf5ab4ecf0a7ae65ce1075a697"
+    },
+    {
+        "Character": "",
+        "ID": "c222",
+        "skin_code": "00",
+        "hashed_name": "948fc32f2c5f856829cf125d056e8f83"
+    },
+    {
+        "Character": "",
+        "ID": "c224",
+        "skin_code": "00",
+        "hashed_name": "115186f1f67d28f19daac47c1ab69eb8"
+    },
+    {
+        "Character": "",
+        "ID": "c225",
+        "skin_code": "00",
+        "hashed_name": "9c40974f82af8b91be6a423ab7df5bf4"
+    },
+    {
+        "Character": "",
+        "ID": "c225",
+        "skin_code": "01",
+        "hashed_name": "7f180458f8323702ff53c336d5604d81"
+    },
+    {
+        "Character": "",
+        "ID": "c226",
+        "skin_code": "00",
+        "hashed_name": "34612d58c489bfd5f10d67985ac1c8c7"
+    },
+    {
+        "Character": "",
+        "ID": "c230",
+        "skin_code": "00",
+        "hashed_name": "83b3789ac2d0e7abe4b5e97b607f0da8"
+    },
+    {
+        "Character": "",
+        "ID": "c231",
+        "skin_code": "00",
+        "hashed_name": "bb672504165ab6450af77ef62cb6df12"
+    },
+    {
+        "Character": "",
+        "ID": "c232",
+        "skin_code": "00",
+        "hashed_name": "727904d810fd1e434165fee7cc4dc0ed"
+    },
+    {
+        "Character": "",
+        "ID": "c233",
+        "skin_code": "00",
+        "hashed_name": "f70a540398b1948a0322ebe3e8aa1986"
+    },
+    {
+        "Character": "",
+        "ID": "c233",
+        "skin_code": "01",
+        "hashed_name": "7fa6ec3d08740eb6b067b728e06c2f5a"
+    },
+    {
+        "Character": "",
+        "ID": "c240",
+        "skin_code": "00",
+        "hashed_name": "4989e728f9862634bae646479a4433ea"
+    },
+    {
+        "Character": "",
+        "ID": "c241",
+        "skin_code": "00",
+        "hashed_name": "c230193b78a0e3378994ca63756cf2e5"
+    },
+    {
+        "Character": "",
+        "ID": "c242",
+        "skin_code": "00",
+        "hashed_name": "82aecd4a72081f51ba5d741a88caeefc"
+    },
+    {
+        "Character": "",
+        "ID": "c260",
+        "skin_code": "00",
+        "hashed_name": "f828e98fcbcae033ca241f41900af305"
+    },
+    {
+        "Character": "",
+        "ID": "c260",
+        "skin_code": "01",
+        "hashed_name": "7dc90dea84802ecc3b8ede6b5bd567fe"
+    },
+    {
+        "Character": "",
+        "ID": "c260",
+        "skin_code": "02",
+        "hashed_name": "e904a1df76f5449e6023a1da96d7f374"
+    },
+    {
+        "Character": "",
+        "ID": "c261",
+        "skin_code": "00",
+        "hashed_name": "dc6eaa04c9daf81257f798968ea484be"
+    },
+    {
+        "Character": "",
+        "ID": "c270",
+        "skin_code": "00",
+        "hashed_name": "3497031d0a6a8468337e7ad922375ede"
+    },
+    {
+        "Character": "",
+        "ID": "c271",
+        "skin_code": "00",
+        "hashed_name": "23618dd286f47a83540488b3466c5375"
+    },
+    {
+        "Character": "",
+        "ID": "c272",
+        "skin_code": "00",
+        "hashed_name": "8b471090a66101c26e0f8540a3617959"
+    },
+    {
+        "Character": "",
+        "ID": "c280",
+        "skin_code": "00",
+        "hashed_name": "6d30b1366a7329286454d5faa5b789a1"
+    },
+    {
+        "Character": "",
+        "ID": "c281",
+        "skin_code": "00",
+        "hashed_name": "2bcfe53a4acbdbcfcf401780a050571c"
+    },
+    {
+        "Character": "",
+        "ID": "c282",
+        "skin_code": "00",
+        "hashed_name": "a212279d074ce7cfba10ebc33852ba29"
+    },
+    {
+        "Character": "",
+        "ID": "c283",
+        "skin_code": "00",
+        "hashed_name": "b06404464157284835ed932c82d895cf"
+    },
+    {
+        "Character": "",
+        "ID": "c284",
+        "skin_code": "00",
+        "hashed_name": "de1065196a303d3413b16ffb015e1f22"
+    },
+    {
+        "Character": "",
+        "ID": "c290",
+        "skin_code": "00",
+        "hashed_name": "625ac10d4281c03be9e6efbb5049dd7f"
+    },
+    {
+        "Character": "",
+        "ID": "c310",
+        "skin_code": "00",
+        "hashed_name": "c25ebcbff7e115d439ae41104f6fa55b"
+    },
+    {
+        "Character": "",
+        "ID": "c311",
+        "skin_code": "00",
+        "hashed_name": "a55c26c1a6b6cd2aecc525a3df750c01"
+    },
+    {
+        "Character": "",
+        "ID": "c312",
+        "skin_code": "00",
+        "hashed_name": "8f1f7b75c10648d8fb6e52c36a6e54b6"
+    },
+    {
+        "Character": "",
+        "ID": "c313",
+        "skin_code": "00",
+        "hashed_name": "4089275b052c453bcdab48fe0af1d8ff"
+    },
+    {
+        "Character": "",
+        "ID": "c314",
+        "skin_code": "00",
+        "hashed_name": "299d8d12cc0fd75a4ca80442a46bf41c"
+    },
+    {
+        "Character": "",
+        "ID": "c321",
+        "skin_code": "00",
+        "hashed_name": "a71fe848995fcfd18a8f9f2e1052ad63"
+    },
+    {
+        "Character": "",
+        "ID": "c321",
+        "skin_code": "01",
+        "hashed_name": "636c8343d9b0ac7cde7632561a2bf28f"
+    },
+    {
+        "Character": "",
+        "ID": "c330",
+        "skin_code": "00",
+        "hashed_name": "2b552ea9b996b467025ec28716a993da"
+    },
+    {
+        "Character": "",
+        "ID": "c330",
+        "skin_code": "01",
+        "hashed_name": "2547165dc42d5f1e2482ec682b4d438c"
+    },
+    {
+        "Character": "",
+        "ID": "c350",
+        "skin_code": "00",
+        "hashed_name": "5677b26eb3192d176ff4a3a28aa9bb19"
+    },
+    {
+        "Character": "",
+        "ID": "c351",
+        "skin_code": "00",
+        "hashed_name": "c758b98c23c149a14c45f33ceaabc0f3"
+    },
+    {
+        "Character": "",
+        "ID": "c352",
+        "skin_code": "00",
+        "hashed_name": "c8c4fc709ec0e083d9b9ef59a4bdb111"
+    },
+    {
+        "Character": "",
+        "ID": "c352",
+        "skin_code": "02",
+        "hashed_name": "9b2c10c1bd22b3b067d1aacaa0a7f87b"
+    },
+    {
+        "Character": "",
+        "ID": "c353",
+        "skin_code": "00",
+        "hashed_name": "ef7265849b3bdb967b76d9a27aed66e6"
+    },
+    {
+        "Character": "",
+        "ID": "c354",
+        "skin_code": "00",
+        "hashed_name": "92486d9a0487a3222313357e6a08b5d8"
+    },
+    {
+        "Character": "",
+        "ID": "c355",
+        "skin_code": "00",
+        "hashed_name": "d53e924d22e210a27b13625af82197e4"
+    },
+    {
+        "Character": "",
+        "ID": "c361",
+        "skin_code": "00",
+        "hashed_name": "8240c318855cfaa32f494bae36142290"
+    },
+    {
+        "Character": "",
+        "ID": "c380",
+        "skin_code": "00",
+        "hashed_name": "52ddd1ff41cc2cec0a8063f5c27259ac"
+    },
+    {
+        "Character": "",
+        "ID": "c381",
+        "skin_code": "00",
+        "hashed_name": "0c3c5db4e40c490af74cd1ce2de9b511"
+    },
+    {
+        "Character": "",
+        "ID": "c382",
+        "skin_code": "00",
+        "hashed_name": "5d0c85eeb08a28c139e3b94401db5f65"
+    },
+    {
+        "Character": "",
+        "ID": "c390",
+        "skin_code": "00",
+        "hashed_name": "cd0fd52b43c69122dcd546a63506fa15"
+    },
+    {
+        "Character": "",
+        "ID": "c391",
+        "skin_code": "00",
+        "hashed_name": "0c47a3906a7023e0e97dcb88a8df3a3a"
+    },
+    {
+        "Character": "",
+        "ID": "c392",
+        "skin_code": "00",
+        "hashed_name": "712b010bc9b63d9e495d477581e5e0c3"
+    },
+    {
+        "Character": "",
+        "ID": "c400",
+        "skin_code": "00",
+        "hashed_name": "58e28b8603c1c556545853c2ce12afdc"
+    },
+    {
+        "Character": "",
+        "ID": "c401",
+        "skin_code": "00",
+        "hashed_name": "53f0d2fb4cb0959977c1e1e1be7efaff"
+    },
+    {
+        "Character": "",
+        "ID": "c402",
+        "skin_code": "00",
+        "hashed_name": "313dd400170c3b8d638995120172f633"
+    },
+    {
+        "Character": "",
+        "ID": "c403",
+        "skin_code": "00",
+        "hashed_name": "f9a59ed0d12fd11e5cf63a58e8945d9a"
+    },
+    {
+        "Character": "",
+        "ID": "c411",
+        "skin_code": "00",
+        "hashed_name": "17067e380001b448c47f6940ae063439"
+    },
+    {
+        "Character": "",
+        "ID": "c412",
+        "skin_code": "00",
+        "hashed_name": "0caf70908754605848478c39b8bfa163"
+    },
+    {
+        "Character": "",
+        "ID": "c430",
+        "skin_code": "00",
+        "hashed_name": "e6fc5d8590cedb21c0567de2a8d46a6a"
+    },
+    {
+        "Character": "",
+        "ID": "c430",
+        "skin_code": "02",
+        "hashed_name": "1693c56fe9b4d414df97db567b2e416c"
+    },
+    {
+        "Character": "",
+        "ID": "c431",
+        "skin_code": "00",
+        "hashed_name": "47be67ec9c5b8c4badf2eb9f5736bf7c"
+    },
+    {
+        "Character": "",
+        "ID": "c432",
+        "skin_code": "00",
+        "hashed_name": "7e6be2c75f648dfc762e17b32188a54b"
+    },
+    {
+        "Character": "",
+        "ID": "c450",
+        "skin_code": "00",
+        "hashed_name": "faeba05ab8fa04913eeb13b8a408c6c9"
+    },
+    {
+        "Character": "",
+        "ID": "c450",
+        "skin_code": "02",
+        "hashed_name": "3378d982b61fc1b1547b871cddafb755"
+    },
+    {
+        "Character": "",
+        "ID": "c451",
+        "skin_code": "00",
+        "hashed_name": "ecc92e4eacb4391209646424e338964d"
+    },
+    {
+        "Character": "",
+        "ID": "c470",
+        "skin_code": "00",
+        "hashed_name": "b142d02e0eed1e4ba4af87c8cfae188a"
+    },
+    {
+        "Character": "",
+        "ID": "c470",
+        "skin_code": "01",
+        "hashed_name": "93df4eb214e0f709bc9281536b87dca2"
+    },
+    {
+        "Character": "",
+        "ID": "c500",
+        "skin_code": "00",
+        "hashed_name": "29f9b5e9e7e0c508fb933ac0f2c7c69d"
+    },
+    {
+        "Character": "",
+        "ID": "c501",
+        "skin_code": "00",
+        "hashed_name": "bcd953b6abe10fb01c7f537de756f6ce"
+    },
+    {
+        "Character": "",
+        "ID": "c511",
+        "skin_code": "00",
+        "hashed_name": "da71076c1f12a35004387a8a66e46794"
+    },
+    {
+        "Character": "",
+        "ID": "c511",
+        "skin_code": "01",
+        "hashed_name": "8603cbfb6adfb2a477e3b2eb8d583419"
+    },
+    {
+        "Character": "",
+        "ID": "c513",
+        "skin_code": "00",
+        "hashed_name": "e46f464ea6bdf2cde6a15d3d95b4f4e9"
+    },
+    {
+        "Character": "",
+        "ID": "c513",
+        "skin_code": "01",
+        "hashed_name": "9322d6fc23b5a36005ee25fd3365bbb1"
+    },
+    {
+        "Character": "",
+        "ID": "c514",
+        "skin_code": "00",
+        "hashed_name": "bf92b71694a3944c7a3a3c93cf490d1f"
+    },
+    {
+        "Character": "",
+        "ID": "c520",
+        "skin_code": "00",
+        "hashed_name": "40c7a412b62cfc73e3dc4e24320448a9"
+    },
+    {
+        "Character": "",
+        "ID": "c521",
+        "skin_code": "00",
+        "hashed_name": "9818194b9f928d358088bb329d50a1c3"
+    },
+    {
+        "Character": "",
+        "ID": "c550",
+        "skin_code": "00",
+        "hashed_name": "294031e81e532eba592a5ed27cf3d5ba"
+    },
+    {
+        "Character": "",
+        "ID": "c551",
+        "skin_code": "00",
+        "hashed_name": "87fbe5d1d7e483b7ad0bc279aded2c4b"
+    },
+    {
+        "Character": "",
+        "ID": "c580",
+        "skin_code": "00",
+        "hashed_name": "1ea357d668bc6d0071bf31871e056e27"
+    },
+    {
+        "Character": "",
+        "ID": "c581",
+        "skin_code": "00",
+        "hashed_name": "ae921790bccf17b1d4afab6ccc826b8a"
+    },
+    {
+        "Character": "",
+        "ID": "c590",
+        "skin_code": "00",
+        "hashed_name": "723dc23fb4db8f64608d1e915679bc67"
+    },
+    {
+        "Character": "",
+        "ID": "c800",
+        "skin_code": "00",
+        "hashed_name": "b456042f90ac76b6940a6215dbdc8574"
+    },
+    {
+        "Character": "",
+        "ID": "c801",
+        "skin_code": "00",
+        "hashed_name": "10b90902652c77f421aec77345b570f7"
+    },
+    {
+        "Character": "",
+        "ID": "c802",
+        "skin_code": "00",
+        "hashed_name": "f1aed91afdc96f2b60df2597224f6053"
+    },
+    {
+        "Character": "",
+        "ID": "c810",
+        "skin_code": "00",
+        "hashed_name": "ac4083734823698945acdfe8e03bcbc4"
+    },
+    {
+        "Character": "",
+        "ID": "c810",
+        "skin_code": "02",
+        "hashed_name": "703bef0340f1b7debaf6a87d392b89a1"
+    },
+    {
+        "Character": "",
+        "ID": "c811",
+        "skin_code": "00",
+        "hashed_name": "b8ea956a3ccaa4e0d748f3207a38153d"
+    },
+    {
+        "Character": "",
+        "ID": "c812",
+        "skin_code": "00",
+        "hashed_name": "68fb67b9b05e11440de9143bb275cd4b"
+    },
+    {
+        "Character": "",
+        "ID": "c820",
+        "skin_code": "00",
+        "hashed_name": "82988407865c146ece977057dd3023a5"
+    },
+    {
+        "Character": "",
+        "ID": "c821",
+        "skin_code": "00",
+        "hashed_name": "c437f29f59b7143411f8282bc7e103ed"
+    },
+    {
+        "Character": "",
+        "ID": "c821",
+        "skin_code": "01",
+        "hashed_name": "90ec91c6712ae50d2ec57dbe6cf00353"
+    },
+    {
+        "Character": "",
+        "ID": "c822",
+        "skin_code": "00",
+        "hashed_name": "bf37ab2a61016fa5c0bf3319b4da66f9"
+    },
+    {
+        "Character": "",
+        "ID": "c830",
+        "skin_code": "00",
+        "hashed_name": "8734132b72dac132ecada54e747c51c1"
+    },
+    {
+        "Character": "",
+        "ID": "c830",
+        "skin_code": "03",
+        "hashed_name": "68c686ad5ebd17b80677275876b7067a"
+    },
+    {
+        "Character": "",
+        "ID": "c831",
+        "skin_code": "00",
+        "hashed_name": "ccf96cfe0fbd19cf2a8973ae258c17aa"
+    },
+    {
+        "Character": "",
+        "ID": "c832",
+        "skin_code": "00",
+        "hashed_name": "ef1679f361d8a1981d20fe4dde524283"
+    },
+    {
+        "Character": "",
+        "ID": "c833",
+        "skin_code": "00",
+        "hashed_name": "79a75d004aa404367945ed13a449b301"
+    },
+    {
+        "Character": "",
+        "ID": "c834",
+        "skin_code": "00",
+        "hashed_name": "9f32a0adf5ecf57d0b601826bd5af12f"
+    },
+    {
+        "Character": "",
+        "ID": "c835",
+        "skin_code": "00",
+        "hashed_name": "24af4ae5e00626fd6a5ca4cd1236dd6c"
+    },
+    {
+        "Character": "",
+        "ID": "c836",
+        "skin_code": "00",
+        "hashed_name": "b9027688e7dfd29ce6a15f3199233377"
+    },
+    {
+        "Character": "",
+        "ID": "c901",
+        "skin_code": "00",
+        "hashed_name": "e7aa67aeba5b1b73316e827fa1c3eef0"
+    },
+    {
+        "Character": "",
+        "ID": "c907",
+        "skin_code": "00",
+        "hashed_name": "7d48b93131fb56acf5248bbd4a0336f5"
+    },
+    {
+        "Character": "",
+        "ID": "c993",
+        "skin_code": "00",
+        "hashed_name": "18c4de390fb5e4b28ab2e9aba41d7e2e"
+    }
+]
