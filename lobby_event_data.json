@@ -35,6 +35,11 @@
         "lobby_id": "6938db60b3704d97b1ab3d3492b430af"
     },
     {
+        "Character": "BOOMTheGhost",
+        "ID": "eventscene_boomtheghost_01",
+        "lobby_id": "c8fea4f79aa764613b5a323b58d376f8"
+    },
+    {
         "Character": "BowWowParadise",
         "ID": "eventscene_bowwowparadise_01",
         "lobby_id": "fe727ad0ab9a0bd927fad735be346ca6"
