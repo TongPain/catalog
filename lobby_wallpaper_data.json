@@ -42,6 +42,12 @@
         "hashed_name": "92c5c3f5b7e61d460f111ad54efd205b"
     },
     {
+        "Character": "Rapi Red Hood",
+        "ID": "c016",
+        "skin_code": "01",
+        "hashed_name": "ce7ae821b1682b9eb4aaf82bc671f5b0"
+    },
+    {
         "Character": "Signal",
         "ID": "c022",
         "skin_code": "00",
@@ -444,6 +450,12 @@
         "hashed_name": "5dd123c3b45f9bc7e87fe4c340cc198a"
     },
     {
+        "Character": "Dorothy Serendipity",
+        "ID": "c234",
+        "skin_code": "00",
+        "hashed_name": "924689fec527cf9907ad9d9db40ff4e4"
+    },
+    {
         "Character": "Rumani",
         "ID": "c240",
         "skin_code": "00",
@@ -778,6 +790,12 @@
         "ID": "c501",
         "skin_code": "00",
         "hashed_name": "a2c72e8a835254c4491f438da791ba66"
+    },
+    {
+        "Character": "Elegg Boom and Shock",
+        "ID": "c502",
+        "skin_code": "00",
+        "hashed_name": "7fce834ec3948fb67ce1ba7f906247c1"
     },
     {
         "Character": "Cinderella",
