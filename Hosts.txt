@@ -8,7 +8,8 @@
 43.174.250.69 global-match.nikke-kr.com #UHE_
 43.174.250.69 sea-match.nikke-kr.com #UHE_
 43.174.250.69 hmt-match.nikke-kr.com #UHE_
-13.32.54.139 cloud.nikke-kr.com #UHE_
+13.33.183.74 cloud.nikke-kr.com #UHE_
 43.175.115.189 nikke-en.com #UHE_
 43.175.115.189 nikke-jp.com #UHE_
 43.175.115.189 nikke-kr.com #UHE_
+
