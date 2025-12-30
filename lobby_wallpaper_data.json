@@ -99,7 +99,7 @@
         "Character": "",
         "ID": "c043",
         "skin_code": "02",
-        "hashed_name": "13fac2ee170a8b110773f9cc3b473ab8"
+        "hashed_name": "62f05d8d05a40342524d3377bff5d588"
     },
     {
         "Character": "",
@@ -189,7 +189,7 @@
         "Character": "",
         "ID": "c094",
         "skin_code": "00",
-        "hashed_name": "cdacbddcec97a097fff252d6b90b18a4"
+        "hashed_name": "f57d71f4dcb6c33f4fc95047d4415c9a"
     },
     {
         "Character": "",
@@ -368,6 +368,12 @@
     {
         "Character": "",
         "ID": "c191",
+        "skin_code": "02",
+        "hashed_name": "4819d178c0bae028f4af983352e70345"
+    },
+    {
+        "Character": "",
+        "ID": "c191",
         "skin_code": "00",
         "hashed_name": "674eb9ef8dcbbdd48360ad22d16f43e6"
     },
@@ -465,7 +471,7 @@
         "Character": "",
         "ID": "c223",
         "skin_code": "00",
-        "hashed_name": "6d00be2c714441d09873e2b448691307"
+        "hashed_name": "c1de142be94cd431e61fb14859fa2b17"
     },
     {
         "Character": "",
@@ -573,7 +579,7 @@
         "Character": "",
         "ID": "c262",
         "skin_code": "00",
-        "hashed_name": "9a83de5ef801298b8b4535d0ba08c172"
+        "hashed_name": "dc38d367f51f798b7f2970e4ca30dbc8"
     },
     {
         "Character": "",
@@ -879,13 +885,19 @@
         "Character": "",
         "ID": "c470",
         "skin_code": "02",
-        "hashed_name": "2ecdbf659ceb32f9702643304855d9c0"
+        "hashed_name": "5360ef0bbd6cbe0dd12793b299192a69"
     },
     {
         "Character": "",
         "ID": "c470",
         "skin_code": "00",
         "hashed_name": "f1bf7e2d668a6a88b73aece62af664a9"
+    },
+    {
+        "Character": "",
+        "ID": "c471",
+        "skin_code": "00",
+        "hashed_name": "fbf1e231e5df962595ff4c5760954707"
     },
     {
         "Character": "",
@@ -927,7 +939,7 @@
         "Character": "",
         "ID": "c513",
         "skin_code": "00",
-        "hashed_name": "81915a1753ae1f7925602d26cf348bf3"
+        "hashed_name": "327395bbec7c0f3b843dac248efb8832"
     },
     {
         "Character": "",
@@ -945,7 +957,7 @@
         "Character": "",
         "ID": "c521",
         "skin_code": "00",
-        "hashed_name": "67056d3eae54c49570754c57ebc2177d"
+        "hashed_name": "94e5378b63caee1f92f08b58cb349cfb"
     },
     {
         "Character": "",
@@ -1119,7 +1131,7 @@
         "Character": "",
         "ID": "c850",
         "skin_code": "03",
-        "hashed_name": "d7f7213be73f06962e653c78ebd5d873"
+        "hashed_name": "a5fb14e5ec030f89968e52e9b122c019"
     },
     {
         "Character": "",
