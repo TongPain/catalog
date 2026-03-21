@@ -1,14 +1,14 @@
-﻿43.174.128.39 nikke-en.com
-43.174.128.39 nikke-kr.com
-43.174.128.39 nikke-jp.com
-13.33.183.83 cloud.nikke-kr.com
-43.152.156.90 jp-lobby.nikke-kr.com #UHE_
-43.152.156.90 kr-lobby.nikke-kr.com #UHE_
-43.152.156.90 global-lobby.nikke-kr.com #UHE_
-43.152.156.90 sea-lobby.nikke-kr.com #UHE_
-43.152.156.90 hmt-lobby.nikke-kr.com #UHE_
-43.152.156.90 jp-match.nikke-kr.com #UHE_
-43.152.156.90 kr-match.nikke-kr.com #UHE_
-43.152.156.90 global-match.nikke-kr.com #UHE_
-43.152.156.90 sea-match.nikke-kr.com #UHE_
-43.152.156.90 hmt-match.nikke-kr.com #UHE_
+43.170.213.16 jp-lobby.nikke-kr.com
+43.170.213.16 kr-lobby.nikke-kr.com
+43.170.213.16 global-lobby.nikke-kr.com
+43.170.213.16 sea-lobby.nikke-kr.com
+43.170.213.16 hmt-lobby.nikke-kr.com
+43.170.213.16 jp-match.nikke-kr.com
+43.170.213.16 kr-match.nikke-kr.com
+43.170.213.16 global-match.nikke-kr.com
+43.170.213.16 sea-match.nikke-kr.com
+43.170.213.16 hmt-match.nikke-kr.com
+43.175.44.52 nikke-en.com
+43.175.44.52 nikke-kr.com
+43.175.44.52 nikke-jp.com
+13.33.183.99 cloud.nikke-kr.com
