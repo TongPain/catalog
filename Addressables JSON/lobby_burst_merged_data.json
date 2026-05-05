@@ -1,0 +1,1479 @@
+[
+    {
+        "Character": "Rapi",
+        "ID": "c010",
+        "skin_code": "00",
+        "burst_id": "ed5dd700b394b94c94889954813d6502",
+        "lobby_id": "7deb98b1a39f78d0296c074f2d405e98"
+    },
+    {
+        "Character": "Neon",
+        "ID": "c011",
+        "skin_code": "00",
+        "burst_id": "cafd009f5b470690bc241a556bc52e7f",
+        "lobby_id": "9ab8e2a8b04e0892ac54093a8839441b"
+    },
+    {
+        "Character": "Anis",
+        "ID": "c012",
+        "skin_code": "00",
+        "burst_id": "06a5f88e690c752501854303b955fe1b",
+        "lobby_id": "1f9211383183187152d1b99c1c7b854c"
+    },
+    {
+        "Character": "Marian",
+        "ID": "c013",
+        "skin_code": "00",
+        "burst_id": "4cb592292a3940abd1795175a0071241",
+        "lobby_id": "37c38f43c78d3ccdcb4d627b09ceca26"
+    },
+    {
+        "Character": "Neon Blue Ocean",
+        "ID": "c014",
+        "skin_code": "00",
+        "burst_id": "819e01b38a4a336ff3ecc4059a33d26f",
+        "lobby_id": "d65ca3d23b851982b8fbdc062576ba3b"
+    },
+    {
+        "Character": "Anis Sparkling Summer",
+        "ID": "c015",
+        "skin_code": "00",
+        "burst_id": "b87a85fc595d4cab5fd762c68860031b",
+        "lobby_id": "6b125ed788345217853bc849f98d2abb"
+    },
+    {
+        "Character": "Rapi Red Hood",
+        "ID": "c016",
+        "skin_code": "00",
+        "burst_id": "94e7f01696756693d26fe0ea5b3805b5",
+        "lobby_id": "82fcc58d1bb7f55b71c538d33e2872b8"
+    },
+    {
+        "Character": "Rapi Red Hood",
+        "ID": "c016",
+        "skin_code": "01",
+        "burst_id": "964130890e86a752db22de1bbb7e97c7",
+        "lobby_id": "09e568a1eac9cd7066d81d4f8c389dd2"
+    },
+    {
+        "Character": "Rapi Red Hood",
+        "ID": "c016",
+        "skin_code": "02",
+        "burst_id": "c67fe97eba063f0b5e569e9a106bfb04",
+        "lobby_id": "222fbb8f3f9e7f46b8d20720f45167c1"
+    },
+    {
+        "Character": "Anis Star",
+        "ID": "c017",
+        "skin_code": "00",
+        "burst_id": "72dcdc95d12506c4607ec30cbbe01326",
+        "lobby_id": "3c4fe4f560a3a2e00d8dac492fe4b7e0"
+    },
+    {
+        "Character": "Anis Star",
+        "ID": "c017",
+        "skin_code": "01",
+        "burst_id": "87d62a44f5fc63ad269e7d8b458c8abd",
+        "lobby_id": "3489ed347e0cb87eaae57d01f33f2219"
+    },
+    {
+        "Character": "Neon Vision Eye",
+        "ID": "c018",
+        "skin_code": "00",
+        "burst_id": "fcf90ca9d76a295e7fe961869227e518",
+        "lobby_id": "47d4116d46396a45cad9a3be4d0dd0ef"
+    },
+    {
+        "Character": "Signal",
+        "ID": "c022",
+        "skin_code": "00",
+        "burst_id": "f50d14f9c587f3884c09205ed7a599cd",
+        "lobby_id": "1d47084d35d74393a430a9e39f28caa6"
+    },
+    {
+        "Character": "Delta Ninja Thief",
+        "ID": "c023",
+        "skin_code": "00",
+        "burst_id": "8d4cd741c04a835a534401537c23410f",
+        "lobby_id": "8646e90728c71b6ff04fd9ed2d3d54d0"
+    },
+    {
+        "Character": "Poli",
+        "ID": "c030",
+        "skin_code": "00",
+        "burst_id": "a8f878b140d21d1ca1b73dd24cc93c16",
+        "lobby_id": "1af6c5051a8429b8af025a1708e78413"
+    },
+    {
+        "Character": "Miranda",
+        "ID": "c032",
+        "skin_code": "00",
+        "burst_id": "98a8170a592a8115b7233edf5e4320be",
+        "lobby_id": "06daae53bdaa3678c579c1024c8872eb"
+    },
+    {
+        "Character": "Quiry",
+        "ID": "c033",
+        "skin_code": "00",
+        "burst_id": "351af8f5a41b5da76bafc9775db10a10",
+        "lobby_id": "6c5895eb9f6a7ef22d4deaa026a50899"
+    },
+    {
+        "Character": "D",
+        "ID": "c040",
+        "skin_code": "00",
+        "burst_id": "ce39d33bc7041ece977c5c5b46b3c7f2",
+        "lobby_id": "1a39370b223b63f24aa6313cb0c22827"
+    },
+    {
+        "Character": "K",
+        "ID": "c041",
+        "skin_code": "00",
+        "burst_id": "f8ef67baf28b2c452bb3310fd77d72e8",
+        "lobby_id": "b77eeabb2c12d9bc0a935dd58f60c7b8"
+    },
+    {
+        "Character": "D Killer Wife",
+        "ID": "c043",
+        "skin_code": "00",
+        "burst_id": "02f7d0011057fb27c2670882e0005b51",
+        "lobby_id": "15b4698921727d6414063637c3ea5c69"
+    },
+    {
+        "Character": "D Killer Wife",
+        "ID": "c043",
+        "skin_code": "02",
+        "burst_id": "cf8ad608cdc54b6dbaf618ed5c230ac9",
+        "lobby_id": "0cf39d1b74d5db22e1f9064756d6c4df"
+    },
+    {
+        "Character": "Mica Snow Buddy",
+        "ID": "c062",
+        "skin_code": "00",
+        "burst_id": "cf171444217f6d048c4b57fe3f1e53e5",
+        "lobby_id": "b33f9f7036b7a82150a91c1bdcb649b5"
+    },
+    {
+        "Character": "Brid",
+        "ID": "c070",
+        "skin_code": "00",
+        "burst_id": "9bcd42ea8bfea9b6ab72f120250a966d",
+        "lobby_id": "7d2661cf62cbee2c6f1d7f5b93324ba7"
+    },
+    {
+        "Character": "Soline",
+        "ID": "c071",
+        "skin_code": "00",
+        "burst_id": "43a20d7ce3a22ab267822c394fa541b6",
+        "lobby_id": "8bee28ac8ebaa29cf79f9723ab1dbf16"
+    },
+    {
+        "Character": "Diesel",
+        "ID": "c072",
+        "skin_code": "00",
+        "burst_id": "09ce95722f1363567fd7fc7b257e51ef",
+        "lobby_id": "752fe77726b14f7a815cbecd63c0bdf5"
+    },
+    {
+        "Character": "Brid Silent Track",
+        "ID": "c073",
+        "skin_code": "00",
+        "burst_id": "10b944e0b2874913973659d574c06bb4",
+        "lobby_id": "4556677f65360a83cb705558b2e95307"
+    },
+    {
+        "Character": "Soline Frost Ticket",
+        "ID": "c074",
+        "skin_code": "00",
+        "burst_id": "4e4f67067a287c008f39b2475f8684d0",
+        "lobby_id": "748cc563ab239fdb3f99b79a61ca8394"
+    },
+    {
+        "Character": "Diesel Winter Sweets",
+        "ID": "c075",
+        "skin_code": "00",
+        "burst_id": "f302a20ab7e4302a0b1062d49e988226",
+        "lobby_id": "12b3a69a58467a193d6d445d33fb8d19"
+    },
+    {
+        "Character": "Centi",
+        "ID": "c080",
+        "skin_code": "00",
+        "burst_id": "fec44db6b109b6cfb0299d5e9d8ec449",
+        "lobby_id": "e31c03ded2aaf1c3e90f8c74a54d7aac"
+    },
+    {
+        "Character": "Liter",
+        "ID": "c082",
+        "skin_code": "00",
+        "burst_id": "35891ac84dbca79652129fcc14119ba2",
+        "lobby_id": "d6eb674b2406a1a04e6100e7ff06ea8d"
+    },
+    {
+        "Character": "Emma",
+        "ID": "c090",
+        "skin_code": "00",
+        "burst_id": "3dd1df6708dd3718278f8dc31775ab38",
+        "lobby_id": "be0a7bab089b5621564f50c234263f2c"
+    },
+    {
+        "Character": "Vesti",
+        "ID": "c091",
+        "skin_code": "00",
+        "burst_id": "f7b1b2329c6151548a5115e1cd301061",
+        "lobby_id": "9a5cff84dac9b750be2a9044422e71ca"
+    },
+    {
+        "Character": "Eunhwa",
+        "ID": "c092",
+        "skin_code": "00",
+        "burst_id": "4571a16e8e9d08ec2370540eaf4a5441",
+        "lobby_id": "9ed40e76e4499d29911caacba3649815"
+    },
+    {
+        "Character": "Emma Tactical Upgrade",
+        "ID": "c093",
+        "skin_code": "00",
+        "burst_id": "550689b0a689af17d740f2e597e9ff6c",
+        "lobby_id": "614f638d6e9484f3989f2169c3400b30"
+    },
+    {
+        "Character": "Vesti Tactical Upgrade",
+        "ID": "c094",
+        "skin_code": "00",
+        "burst_id": "62da2f13d676339588f615b85a68e1e8",
+        "lobby_id": "f57d71f4dcb6c33f4fc95047d4415c9a"
+    },
+    {
+        "Character": "Eunhwa Tactical Upgrade",
+        "ID": "c095",
+        "skin_code": "00",
+        "burst_id": "dd0ff80fe8289ccbf7ff80b5f7b12a42",
+        "lobby_id": "681200518429745a52c77563ca56a5db"
+    },
+    {
+        "Character": "Laplace",
+        "ID": "c100",
+        "skin_code": "00",
+        "burst_id": "0ab7e902f9f35a4ab23245ff8b65dade",
+        "lobby_id": "ee1088e3120f7764bac006fb864d96e4"
+    },
+    {
+        "Character": "Drake",
+        "ID": "c101",
+        "skin_code": "00",
+        "burst_id": "119c843b14b34b87d5a3e3688e839dea",
+        "lobby_id": "594cf78fb13bf2504fe4c3b9cb492eab"
+    },
+    {
+        "Character": "Drake",
+        "ID": "c101",
+        "skin_code": "01",
+        "burst_id": "09ca2e68cb71cf4791059a6e82419cb9",
+        "lobby_id": "e94e3d4dd1031025872f857edff3ae06"
+    },
+    {
+        "Character": "Maxwell",
+        "ID": "c102",
+        "skin_code": "00",
+        "burst_id": "d4fd2a0ca0a6e9758692b19aa0f063fd",
+        "lobby_id": "5dd6ee4456371403371ffe9213c7f709"
+    },
+    {
+        "Character": "Crow",
+        "ID": "c110",
+        "skin_code": "00",
+        "burst_id": "873390e7601a48770ac49b37929fe660",
+        "lobby_id": "8ed217071a60158429b742eaa1be36ee"
+    },
+    {
+        "Character": "Jackal",
+        "ID": "c111",
+        "skin_code": "00",
+        "burst_id": "95c94b0733a1bb0e62d981a47bd8fc2e",
+        "lobby_id": "bd00568b9c7712a6d0ad9ca97a56b128"
+    },
+    {
+        "Character": "Viper",
+        "ID": "c112",
+        "skin_code": "00",
+        "burst_id": "290d05a2428836dbce88dbda78581af8",
+        "lobby_id": "8668072851268e0d0caa1850e04fdd30"
+    },
+    {
+        "Character": "Viper",
+        "ID": "c112",
+        "skin_code": "02",
+        "burst_id": "ddda9063963b7d14aad49eee429a11e4",
+        "lobby_id": "e3517b008da6682214491dc9ebfddc92"
+    },
+    {
+        "Character": "E.H.",
+        "ID": "c113",
+        "skin_code": "00",
+        "burst_id": "2e0ca5c2907b5d022910c0922e81cd32",
+        "lobby_id": "d8ab512baa1ab505c8f033774e048809"
+    },
+    {
+        "Character": "Miracle Fairy Anne",
+        "ID": "c121",
+        "skin_code": "00",
+        "burst_id": "482f063a4f3aa0333a4ae0c2f1f86dc7",
+        "lobby_id": "035e6bb7dbbf060ffada75fa3b7801fe"
+    },
+    {
+        "Character": "Mary",
+        "ID": "c130",
+        "skin_code": "00",
+        "burst_id": "d911f62a44ec233819998c200f1cb889",
+        "lobby_id": "0f546ae82b65205cfad3e6da26b58fca"
+    },
+    {
+        "Character": "Pepper",
+        "ID": "c131",
+        "skin_code": "00",
+        "burst_id": "0b02df9001e4f264c73530372e1b4c64",
+        "lobby_id": "5e8951b4fade72f54d5e3ec1bb709da5"
+    },
+    {
+        "Character": "Mary Bay Goddess",
+        "ID": "c132",
+        "skin_code": "00",
+        "burst_id": "03046d188c28322e27bbe0d2b3ef27a7",
+        "lobby_id": "d791eca4a69070246e59a473e338f5e5"
+    },
+    {
+        "Character": "Sugar",
+        "ID": "c140",
+        "skin_code": "00",
+        "burst_id": "9c1a06f81a9a6c79d1fd83ea744548cf",
+        "lobby_id": "45a87dbb4d505a067889d462766eee8c"
+    },
+    {
+        "Character": "Milk",
+        "ID": "c141",
+        "skin_code": "00",
+        "burst_id": "ce82d0e3c4c080a7ef317b2aab26f833",
+        "lobby_id": "18a0f8148d4e61fb0137dd76b297aec4"
+    },
+    {
+        "Character": "Frima",
+        "ID": "c142",
+        "skin_code": "00",
+        "burst_id": "c49aceff671d06dc56475c4f8795498f",
+        "lobby_id": "72835bce267683d54248b55ab2679473"
+    },
+    {
+        "Character": "Milk Blooming Bunny",
+        "ID": "c143",
+        "skin_code": "00",
+        "burst_id": "5c75a883143ecf62b70d39ca78458ded",
+        "lobby_id": "916e6ca8bd1ebd08b3f6a384047ffc18"
+    },
+    {
+        "Character": "Julia",
+        "ID": "c150",
+        "skin_code": "00",
+        "burst_id": "4456443736fca27e39e5fdb5402d1000",
+        "lobby_id": "b492edb5e997c331aaca29edc9c14410"
+    },
+    {
+        "Character": "Yuni",
+        "ID": "c160",
+        "skin_code": "00",
+        "burst_id": "6c68a71b42388069990ff6393b5a814a",
+        "lobby_id": "65eeba2b39074b80e6186b6c2ed220a5"
+    },
+    {
+        "Character": "Mihara Bonding Chain",
+        "ID": "c162",
+        "skin_code": "00",
+        "burst_id": "6d4cdcde9d3ce1c20062d8a1417d5886",
+        "lobby_id": "381a72c871de8a281bc989309617eac2"
+    },
+    {
+        "Character": "Mihara Bonding Chain",
+        "ID": "c162",
+        "skin_code": "01",
+        "burst_id": "a96e2fef6c55b2695202dcf4cc449c8e",
+        "lobby_id": "14880a0b2e676b0b9bd478a7e4608dd5"
+    },
+    {
+        "Character": "Privaty",
+        "ID": "c170",
+        "skin_code": "00",
+        "burst_id": "15e89c3829f55047492b45ddd810557d",
+        "lobby_id": "c6aaba2522126e6ee1c32237efa9b9f2"
+    },
+    {
+        "Character": "Privaty",
+        "ID": "c170",
+        "skin_code": "04",
+        "burst_id": "12a974cf78a302e76df9a2e98ccc4cf3",
+        "lobby_id": "e48127b15ad74e40dd404c50bd1168f8"
+    },
+    {
+        "Character": "Yulha",
+        "ID": "c171",
+        "skin_code": "00",
+        "burst_id": "a25c075e5ff30d716292faf4c82d8e2a",
+        "lobby_id": "96c5909b9e8e03176234c6f763307cf4"
+    },
+    {
+        "Character": "Admi",
+        "ID": "c172",
+        "skin_code": "00",
+        "burst_id": "c7175723dc0b2c14936391f1a1393ec1",
+        "lobby_id": "6e623b3ae3d956fad04f3f3a1e75848c"
+    },
+    {
+        "Character": "Guillotine",
+        "ID": "c180",
+        "skin_code": "00",
+        "burst_id": "faf444956ebd685b66a0ea6ae082a392",
+        "lobby_id": "3f6c7ae2bbd2713fc86087144c4690c3"
+    },
+    {
+        "Character": "Maiden",
+        "ID": "c181",
+        "skin_code": "00",
+        "burst_id": "39211a6fc69b144275eb823d7e32555b",
+        "lobby_id": "a4ad06e556effa72810f9d5e15dc7080"
+    },
+    {
+        "Character": "Guillotine Winter Slayer",
+        "ID": "c182",
+        "skin_code": "00",
+        "burst_id": "535a0a3a163cfcb0563e62d99157af01",
+        "lobby_id": "2201d432b6bf19927621a1a8dadad89e"
+    },
+    {
+        "Character": "Maiden Ice Rose",
+        "ID": "c183",
+        "skin_code": "00",
+        "burst_id": "ed4e04524d10b46e3467f06ef18d3232",
+        "lobby_id": "57f728d3b37ad964ba63631a82372ba8"
+    },
+    {
+        "Character": "Ludmilla",
+        "ID": "c190",
+        "skin_code": "00",
+        "burst_id": "041e618b798135737bdc7f682527886f",
+        "lobby_id": "b6ca0da8049679b042a4c8c929d96719"
+    },
+    {
+        "Character": "Alice",
+        "ID": "c191",
+        "skin_code": "00",
+        "burst_id": "82f2edc740371252005005caf33a99bf",
+        "lobby_id": "f7a577dcf17c59e0592876ccc69c4ddb"
+    },
+    {
+        "Character": "Alice",
+        "ID": "c191",
+        "skin_code": "02",
+        "burst_id": "b108e417f4ef6d5355e8038566e9c05d",
+        "lobby_id": "74a1b96b34cc604ff4ddadda3f6d1406"
+    },
+    {
+        "Character": "Tove",
+        "ID": "c192",
+        "skin_code": "00",
+        "burst_id": "f9d5e55d8f82dae65a37a91b56ee5218",
+        "lobby_id": "3f3867a4e125d496e2226bf4e3fd83bf"
+    },
+    {
+        "Character": "Ludmilla Winter Owner",
+        "ID": "c194",
+        "skin_code": "00",
+        "burst_id": "8f68c3fd3e67b6544f285bbd2003588e",
+        "lobby_id": "ef9558b1ba7d3b298baa136cf8bf53a6"
+    },
+    {
+        "Character": "Alice Wonderland Bunny",
+        "ID": "c195",
+        "skin_code": "00",
+        "burst_id": "901af398993b173983f3201bd605448a",
+        "lobby_id": "c3d76593eee9a66875f49a4c4f6b95bb"
+    },
+    {
+        "Character": "Rupee",
+        "ID": "c200",
+        "skin_code": "00",
+        "burst_id": "fcfbc96080afa7df7ebf88e7869aab01",
+        "lobby_id": "a2865cdb455fa2a2492004164eab498e"
+    },
+    {
+        "Character": "Rupee",
+        "ID": "c200",
+        "skin_code": "01",
+        "burst_id": "63f88f7c9131e007b9538381917d5ce4",
+        "lobby_id": "009b128009bee3a00c41376773bd904f"
+    },
+    {
+        "Character": "Yan",
+        "ID": "c201",
+        "skin_code": "00",
+        "burst_id": "8865898ed445d3bc4b46b6b087beb411",
+        "lobby_id": "0edcd6fef7a5fdb5850981aea2662a23"
+    },
+    {
+        "Character": "Dolla",
+        "ID": "c202",
+        "skin_code": "00",
+        "burst_id": "122db738610f2f360497aaec13f2058e",
+        "lobby_id": "ef76a2f08933f92f244388514b14d351"
+    },
+    {
+        "Character": "Rupee Winter Shopper",
+        "ID": "c203",
+        "skin_code": "00",
+        "burst_id": "54ee2efe717724e03cf83d82d03f080f",
+        "lobby_id": "8e365b51247ff18b1284cc37205b00b2"
+    },
+    {
+        "Character": "Exia",
+        "ID": "c210",
+        "skin_code": "00",
+        "burst_id": "ac967586cba682a177a305748ca62154",
+        "lobby_id": "f75f4b604eb8ddb6bb8b97568f59ec97"
+    },
+    {
+        "Character": "Novel",
+        "ID": "c212",
+        "skin_code": "00",
+        "burst_id": "cbc5935b8442dc02917a1b15398eaef4",
+        "lobby_id": "4d3d1c7f1adfbecd85a378e4dbc33143"
+    },
+    {
+        "Character": "Snow White",
+        "ID": "c220",
+        "skin_code": "00",
+        "burst_id": "503668084b08365fc1de88f44c5c4b11",
+        "lobby_id": "1ddfe32f7a5f8c34811a8281363ab0eb"
+    },
+    {
+        "Character": "Rapunzel",
+        "ID": "c221",
+        "skin_code": "00",
+        "burst_id": "2180bf6a2907cb281fe0d821c5532d95",
+        "lobby_id": "c19f93ced3566ac9a1efe580197f1730"
+    },
+    {
+        "Character": "Scarlet",
+        "ID": "c222",
+        "skin_code": "00",
+        "burst_id": "3b3f2cd1629032789fad80f8cebb1d5b",
+        "lobby_id": "2e7283c35aa5d301854642393eaa7890"
+    },
+    {
+        "Character": "Scarlet",
+        "ID": "c222",
+        "skin_code": "01",
+        "burst_id": "6d581f769eb9e37d660eab5d4ba8ba65",
+        "lobby_id": "f2bb8036a9fda0319e2a4d11826e883c"
+    },
+    {
+        "Character": "Nayuta",
+        "ID": "c223",
+        "skin_code": "00",
+        "burst_id": "22dbe48b146233a9625e0d4a09792b4c",
+        "lobby_id": "4dacdaa4c796f9562a7ff066a9fe60ef"
+    },
+    {
+        "Character": "Nayuta",
+        "ID": "c223",
+        "skin_code": "01",
+        "burst_id": "7f30e3221452779b8844d6f9e9ac138d",
+        "lobby_id": "d7c8de9cfe1b20374c029e3e1cf61216"
+    },
+    {
+        "Character": "Snow White Innocent Days",
+        "ID": "c224",
+        "skin_code": "00",
+        "burst_id": "f779776a1901ac08849f27f54a54a3db",
+        "lobby_id": "5c879c6b02da46a8e2ee77700b2cf44a"
+    },
+    {
+        "Character": "Scarlet Black Shadow",
+        "ID": "c225",
+        "skin_code": "00",
+        "burst_id": "d57e48e89ad85de2b362c96efc33ce46",
+        "lobby_id": "8753d47d1ac22d022b368d42c89c005f"
+    },
+    {
+        "Character": "Scarlet Black Shadow",
+        "ID": "c225",
+        "skin_code": "01",
+        "burst_id": "e10b73d04d49e1dc28c9a64700f68850",
+        "lobby_id": "f417e8277b55ba49246f83574d0747d3"
+    },
+    {
+        "Character": "Rapunzel Pure Grace",
+        "ID": "c226",
+        "skin_code": "00",
+        "burst_id": "d0052eb7f761e48648440b141671408a",
+        "lobby_id": "7b26a5e6d7c0d15ca009b3675b10ecb8"
+    },
+    {
+        "Character": "Harran",
+        "ID": "c230",
+        "skin_code": "00",
+        "burst_id": "5e6d0f184d0b297e836662404f6024b7",
+        "lobby_id": "6b9036d105b73cb8082633434326fb22"
+    },
+    {
+        "Character": "Isabel",
+        "ID": "c231",
+        "skin_code": "00",
+        "burst_id": "441f4c09429122e8bfe73950983302e1",
+        "lobby_id": "3f8e1bc38bbfa28aa56d014e3f9afd80"
+    },
+    {
+        "Character": "Noah",
+        "ID": "c232",
+        "skin_code": "00",
+        "burst_id": "73400b7e4fe62af2bf2d0218ee2028a6",
+        "lobby_id": "0d58ea7570ac33263282935c15344efa"
+    },
+    {
+        "Character": "Dorothy",
+        "ID": "c233",
+        "skin_code": "00",
+        "burst_id": "17cde27956bc89532cd1e1b86c667825",
+        "lobby_id": "002073e9d7d6dfbaf2dc88317e1b90ac"
+    },
+    {
+        "Character": "Dorothy",
+        "ID": "c233",
+        "skin_code": "01",
+        "burst_id": "09c6a1bfb978dd7073b5c949ca4998e6",
+        "lobby_id": "e0892c085480e164f3a96b0d6329a32e"
+    },
+    {
+        "Character": "Dorothy Serendipity",
+        "ID": "c234",
+        "skin_code": "00",
+        "burst_id": "4195588512f5ee5e0d39a1993e2ba813",
+        "lobby_id": "73dcce41ef677156c77ee42f02dd967e"
+    },
+    {
+        "Character": "Rumani",
+        "ID": "c240",
+        "skin_code": "00",
+        "burst_id": "0fe262ebd6b10bd1a01e77632f7ce44a",
+        "lobby_id": "8bb6496c1d38fe16ad8a710ea23a5115"
+    },
+    {
+        "Character": "Epinel",
+        "ID": "c241",
+        "skin_code": "00",
+        "burst_id": "8cdabfd1b2cfd75e36fd434db9704485",
+        "lobby_id": "acbfe27d0ae84992e9cfbe66ccdde33b"
+    },
+    {
+        "Character": "Folkwang",
+        "ID": "c242",
+        "skin_code": "00",
+        "burst_id": "6f16009c9dc0de0f49b0216459ef6196",
+        "lobby_id": "5ebb8fae333e74389ce2d0bac36f055f"
+    },
+    {
+        "Character": "Modernia",
+        "ID": "c260",
+        "skin_code": "00",
+        "burst_id": "2fde24dc49793a8c6b729186f260d26c",
+        "lobby_id": "e043a09abac623fc5b76eef2040ad108"
+    },
+    {
+        "Character": "Modernia",
+        "ID": "c260",
+        "skin_code": "01",
+        "burst_id": "d0738680e6e1f1fbccac477c17c5b578",
+        "lobby_id": "ef43cb4cedca387c1a74865e36715d59"
+    },
+    {
+        "Character": "Modernia",
+        "ID": "c260",
+        "skin_code": "02",
+        "burst_id": "87cb774e11bf7e719735ab826c9443f8",
+        "lobby_id": "24941368840d749a8a4fbcb1cffa9399"
+    },
+    {
+        "Character": "Nihilister",
+        "ID": "c261",
+        "skin_code": "00",
+        "burst_id": "528a2d8797a3207955aabafe7d6aa8b8",
+        "lobby_id": "bd98a329ce15acfd08d8822067e55ef6"
+    },
+    {
+        "Character": "Liberalio",
+        "ID": "c262",
+        "skin_code": "00",
+        "burst_id": "f8bea6ba4ba1a7b5993a310f8946a0f3",
+        "lobby_id": "0f18671d0dba805de417304c6e92a37f"
+    },
+    {
+        "Character": "Liberalio",
+        "ID": "c262",
+        "skin_code": "01",
+        "burst_id": "017e760642f0af465278e3a98eefa32f",
+        "lobby_id": "19d03676ac9aafdaa3c6b114df30901b"
+    },
+    {
+        "Character": "Blanc",
+        "ID": "c270",
+        "skin_code": "00",
+        "burst_id": "f60c0d008ef6ad3d0635710d193303b8",
+        "lobby_id": "b066cfc5f5ffea4440a133e418099bf8"
+    },
+    {
+        "Character": "Blanc",
+        "ID": "c270",
+        "skin_code": "03",
+        "burst_id": "70f8c8cb644e7ed040836d7857021bb4",
+        "lobby_id": "89d7ba381853424cc78ca31691e10fc7"
+    },
+    {
+        "Character": "Noir",
+        "ID": "c271",
+        "skin_code": "00",
+        "burst_id": "6558006089288440bd892f2232d1e72b",
+        "lobby_id": "24f69c5c106501c8e3272366c3fc54a5"
+    },
+    {
+        "Character": "Rouge",
+        "ID": "c272",
+        "skin_code": "00",
+        "burst_id": "37871de907375b093d46d19d86aaf71c",
+        "lobby_id": "9e7a0eef2f843f67e8394297e568c2c1"
+    },
+    {
+        "Character": "Rouge",
+        "ID": "c272",
+        "skin_code": "01",
+        "burst_id": "901d59e643254d01b2f8364ff5bcf1a6",
+        "lobby_id": "dae51de006e983401e0171840d193a55"
+    },
+    {
+        "Character": "Rosanna",
+        "ID": "c280",
+        "skin_code": "00",
+        "burst_id": "b5808255338e1e7035c5f0330fab5dad",
+        "lobby_id": "1b0b8783cf5a2fa26ba005d8686b737c"
+    },
+    {
+        "Character": "Moran",
+        "ID": "c281",
+        "skin_code": "00",
+        "burst_id": "dbee27084ec03de999c1712ec3852bdb",
+        "lobby_id": "82ef65572bc20b0c6b834cdccc79743f"
+    },
+    {
+        "Character": "Sakura",
+        "ID": "c282",
+        "skin_code": "00",
+        "burst_id": "18f1a993260143c497d47b5d929447d2",
+        "lobby_id": "7d5d64f2f752109e9369cc3025ec2251"
+    },
+    {
+        "Character": "Rosanna Chic Ocean",
+        "ID": "c283",
+        "skin_code": "00",
+        "burst_id": "725548a353ceca2f7454519569976b0a",
+        "lobby_id": "75064ac0d1c58c459cb6218cf68d79e3"
+    },
+    {
+        "Character": "Sakura Bloom In Summer",
+        "ID": "c284",
+        "skin_code": "00",
+        "burst_id": "430b97941d9d821dcb74b2bdb5e07fa5",
+        "lobby_id": "93b87060ea48b7cafa85abed24c5fa37"
+    },
+    {
+        "Character": "Mana",
+        "ID": "c290",
+        "skin_code": "00",
+        "burst_id": "ea0ad254506328f980f242000d3eaed7",
+        "lobby_id": "2cf36b9f1c79d13405cbce0d1b94a8fd"
+    },
+    {
+        "Character": "Ade",
+        "ID": "c310",
+        "skin_code": "00",
+        "burst_id": "2d12fc625687cb8469d75d3af6a35191",
+        "lobby_id": "37c4098fc2554a6d305dcb7a40fcb7bb"
+    },
+    {
+        "Character": "Cocoa",
+        "ID": "c311",
+        "skin_code": "00",
+        "burst_id": "76eb902d7be6c26736846feffb2a2746",
+        "lobby_id": "f7d3ce79eb24ad28880ea7712e57a761"
+    },
+    {
+        "Character": "Soda",
+        "ID": "c312",
+        "skin_code": "00",
+        "burst_id": "a02e910bdb5e08e91b98cdddf3735ec0",
+        "lobby_id": "ed6e18a32d4174b303aeb9ab3bb2fba5"
+    },
+    {
+        "Character": "Privaty Unkind Maid",
+        "ID": "c313",
+        "skin_code": "00",
+        "burst_id": "c0267a08d4775778d1e605573c034d99",
+        "lobby_id": "b71b8548ef6a5876c99c7466b7c94cba"
+    },
+    {
+        "Character": "Soda Twinkling Bunny",
+        "ID": "c314",
+        "skin_code": "00",
+        "burst_id": "2b45746ea87996d7278b57ce6defafe6",
+        "lobby_id": "e766b97e56ca530a201be00bf4ad3ce3"
+    },
+    {
+        "Character": "Ade Agent Bunny",
+        "ID": "c315",
+        "skin_code": "00",
+        "burst_id": "88e1c2889abf8d8bf16fe61d81249f89",
+        "lobby_id": "a36ab5bf056e49e9623526aa560eb04b"
+    },
+    {
+        "Character": "Velvet",
+        "ID": "c316",
+        "skin_code": "00",
+        "burst_id": "17fa5dc164677afe548f2b79da5027e3",
+        "lobby_id": "e445ca6cb2dcebdcdc51c1faa89a0f59"
+    },
+    {
+        "Character": "Marciana",
+        "ID": "c321",
+        "skin_code": "00",
+        "burst_id": "a4f6bc0a310d27dc03911ff17da632be",
+        "lobby_id": "7e72ad06ebca440c6e57b85c130ab18d"
+    },
+    {
+        "Character": "Marciana",
+        "ID": "c321",
+        "skin_code": "01",
+        "burst_id": "c3d321b0592986c8a1703304aefba111",
+        "lobby_id": "452da3ec348481243ff4a01b974aaf13"
+    },
+    {
+        "Character": "Crown",
+        "ID": "c330",
+        "skin_code": "00",
+        "burst_id": "e4f29d34c8f9728c3a6d0697e6d6bb87",
+        "lobby_id": "c9f153ecd7a09f9a2531ad564e65b51d"
+    },
+    {
+        "Character": "Crown",
+        "ID": "c330",
+        "skin_code": "01",
+        "burst_id": "42f1e4b16a0fda343ace1e2226ad6ef4",
+        "lobby_id": "db253ce4c8095e173b1698a5f6a8190a"
+    },
+    {
+        "Character": "Chime",
+        "ID": "c331",
+        "skin_code": "00",
+        "burst_id": "aaf2a7679bbd7d6c77528eccd3fbddb2",
+        "lobby_id": "b1050a3226ea6bd41b170a6834d3552f"
+    },
+    {
+        "Character": "Mast",
+        "ID": "c350",
+        "skin_code": "00",
+        "burst_id": "7dceff10fe2725bfe95727c1e3f2ebbd",
+        "lobby_id": "c912713aa9b50af5bd4fd18aa34fc6c1"
+    },
+    {
+        "Character": "Anchor",
+        "ID": "c351",
+        "skin_code": "00",
+        "burst_id": "71ced51867eaa842cefe7244ba7ad69c",
+        "lobby_id": "a82ac73b97ac4ea4876f61602dc96a0a"
+    },
+    {
+        "Character": "Helm",
+        "ID": "c352",
+        "skin_code": "00",
+        "burst_id": "e10eb410edc5f25e791eb21e4fb1be5a",
+        "lobby_id": "70e304317fde8e4aa8e2d8945db1e0e2"
+    },
+    {
+        "Character": "Helm",
+        "ID": "c352",
+        "skin_code": "02",
+        "burst_id": "f9ad4105d5e699cf11fbd458b1512cd9",
+        "lobby_id": "ba23917c6745ee047bbf45e35432d29d"
+    },
+    {
+        "Character": "Helm Aquamarine",
+        "ID": "c353",
+        "skin_code": "00",
+        "burst_id": "dcd33d66f7f319aafeac37657e361dec",
+        "lobby_id": "445c73239b14bdf991d0875e0a8db248"
+    },
+    {
+        "Character": "Mast Romantic Maid",
+        "ID": "c354",
+        "skin_code": "00",
+        "burst_id": "fcc76618f851d929ff9114abe86f6393",
+        "lobby_id": "882951fe3186ef72ada0e27e4ed3665c"
+    },
+    {
+        "Character": "Mast Romantic Maid",
+        "ID": "c354",
+        "skin_code": "01",
+        "burst_id": "93252fcb3a97cabc97cb61db5eba35b4",
+        "lobby_id": "c61184d7c660746c54be88b027121ab7"
+    },
+    {
+        "Character": "Anchor Innocent Maid",
+        "ID": "c355",
+        "skin_code": "00",
+        "burst_id": "5fa9b7ee33a497e44e5c3cd6fe1824e3",
+        "lobby_id": "e7ad78a313d3e03a432c1954ac859f8b"
+    },
+    {
+        "Character": "Kilo",
+        "ID": "c361",
+        "skin_code": "00",
+        "burst_id": "77887c651f886178988de3f9b95d3963",
+        "lobby_id": "a8d6a69d63b94b3d0c0012cb00d2dbe2"
+    },
+    {
+        "Character": "Nero",
+        "ID": "c380",
+        "skin_code": "00",
+        "burst_id": "06d3c86fe367ef59c652a4f6d37f0084",
+        "lobby_id": "02173b92b3d4ee7088ed295cc34ca13e"
+    },
+    {
+        "Character": "Biscuit",
+        "ID": "c381",
+        "skin_code": "00",
+        "burst_id": "132be874da266d66417b0da7dea3d568",
+        "lobby_id": "d4ea1a9c449b8e9b76b12845faec1c67"
+    },
+    {
+        "Character": "Leona",
+        "ID": "c382",
+        "skin_code": "00",
+        "burst_id": "bdf8dbf53efbb4163629449d71620d84",
+        "lobby_id": "796f4722e8f5f18bf614012600c68268"
+    },
+    {
+        "Character": "Zwei",
+        "ID": "c390",
+        "skin_code": "00",
+        "burst_id": "85366d75ccc263c5cfcdf777f524c0b6",
+        "lobby_id": "bb5be834a66f073cfabfb0e66c215d0b"
+    },
+    {
+        "Character": "Ein",
+        "ID": "c391",
+        "skin_code": "00",
+        "burst_id": "4e87ea1e2b0526e785743a85827bf476",
+        "lobby_id": "4966a3a4ec2b76e48898978a2f782228"
+    },
+    {
+        "Character": "Rei",
+        "ID": "c392",
+        "skin_code": "00",
+        "burst_id": "03fef25eead356b6018a37daeca8321a",
+        "lobby_id": "d7384ed50f1495db7bbc355cb8d31e7a"
+    },
+    {
+        "Character": "Guilty",
+        "ID": "c400",
+        "skin_code": "00",
+        "burst_id": "f4fd1f87ffa47e9cacc0b8a4dcd64d05",
+        "lobby_id": "c8bf93d6c9439fe940a8bb779efa7a24"
+    },
+    {
+        "Character": "Sin",
+        "ID": "c401",
+        "skin_code": "00",
+        "burst_id": "0b1370362f33678f8eabb303a1c85981",
+        "lobby_id": "0b82dc01fdc28fc51a2b80b1bc7d4e64"
+    },
+    {
+        "Character": "Quency",
+        "ID": "c402",
+        "skin_code": "00",
+        "burst_id": "6ad662a26aba46fa784f6ed004bb8f85",
+        "lobby_id": "a7483b65b0060a60095c1c12e03f7e04"
+    },
+    {
+        "Character": "Quency Escape Queen",
+        "ID": "c403",
+        "skin_code": "00",
+        "burst_id": "60b232fcdd926f86133ef0eabca3a31f",
+        "lobby_id": "33a3be70b42682c7d32a8cbe7e94c102"
+    },
+    {
+        "Character": "Flora",
+        "ID": "c411",
+        "skin_code": "00",
+        "burst_id": "a2a31f6db27977680265afdf769591d9",
+        "lobby_id": "1a25bcedb394b11458d7a5e6986f5021"
+    },
+    {
+        "Character": "Trina",
+        "ID": "c412",
+        "skin_code": "00",
+        "burst_id": "f13e5c96bb684645a9258d754656062b",
+        "lobby_id": "d0e258668312bc87f263b8322b1ad047"
+    },
+    {
+        "Character": "Noise",
+        "ID": "c430",
+        "skin_code": "00",
+        "burst_id": "e07b0d0c0cbf1267d248665a9b11c1ba",
+        "lobby_id": "28f4822a5df1895aeacb6e6dfa5de4be"
+    },
+    {
+        "Character": "Noise",
+        "ID": "c430",
+        "skin_code": "02",
+        "burst_id": "4214dd34fa2afcd0c35881f9fb73f625",
+        "lobby_id": "fcda6784c45897426f3cab6a00a4e0a0"
+    },
+    {
+        "Character": "Volume",
+        "ID": "c431",
+        "skin_code": "00",
+        "burst_id": "75aac15e51155cd3fcc27b5e49d6fdeb",
+        "lobby_id": "5bcd937f733902d9117df3fe49d167c8"
+    },
+    {
+        "Character": "Aria",
+        "ID": "c432",
+        "skin_code": "00",
+        "burst_id": "7680480b3c4671ebb1235f4afa663584",
+        "lobby_id": "91f86c63ab5d5fdbb1ddbeb11baf989f"
+    },
+    {
+        "Character": "Avistar",
+        "ID": "c441",
+        "skin_code": "00",
+        "burst_id": "14f95a22573ba3f02795e96a50da2cc1",
+        "lobby_id": "0852b1ec9c31b8e21f8317db2fbfa80a"
+    },
+    {
+        "Character": "Naga",
+        "ID": "c450",
+        "skin_code": "00",
+        "burst_id": "7e75b03732ecbc2bde7826a2838add54",
+        "lobby_id": "c411b60113db32bcca1019c8f77daba8"
+    },
+    {
+        "Character": "Naga",
+        "ID": "c450",
+        "skin_code": "02",
+        "burst_id": "6bd796c74e8fb447cc02364ebfd02bbc",
+        "lobby_id": "7ca1f0b2dd1e059802fddbe8054204f8"
+    },
+    {
+        "Character": "Tia",
+        "ID": "c451",
+        "skin_code": "00",
+        "burst_id": "6f394b80d49fc28514fb357cc9c8dfb7",
+        "lobby_id": "d46f6da8b047f47e5ee41889b5b13116"
+    },
+    {
+        "Character": "Red Hood",
+        "ID": "c470",
+        "skin_code": "00",
+        "burst_id": "c80faa6e1674c86c05e7e37ee7c2d09f",
+        "lobby_id": "2567fe2629f0121ec0f607ebeb86d202"
+    },
+    {
+        "Character": "Red Hood",
+        "ID": "c470",
+        "skin_code": "01",
+        "burst_id": "2ba6a9d047efefa7aee31e62f36c1b89",
+        "lobby_id": "03f777c7b2f77d681eca478edcada8d3"
+    },
+    {
+        "Character": "Red Hood",
+        "ID": "c470",
+        "skin_code": "02",
+        "burst_id": "09cc55bf86959415f9d88850d3c8fdfe",
+        "lobby_id": "51296244e749624d0ae4964800788b1f"
+    },
+    {
+        "Character": "Snow White Heavy Arms",
+        "ID": "c471",
+        "skin_code": "00",
+        "burst_id": "47f629fcb62ebe87e37654edc6230809",
+        "lobby_id": "974c86971584524840cb3133cf2eb91c"
+    },
+    {
+        "Character": "Elegg",
+        "ID": "c500",
+        "skin_code": "00",
+        "burst_id": "690b3ac98c774d6b7658cca5dbe23e63",
+        "lobby_id": "db27343a9dc9ba961208e88548100860"
+    },
+    {
+        "Character": "Trony",
+        "ID": "c501",
+        "skin_code": "00",
+        "burst_id": "9dfb05b95c3b006da15fb01ab1a2668f",
+        "lobby_id": "aaf83423655607329c6587dc7c12098e"
+    },
+    {
+        "Character": "Elegg Boom and Shock",
+        "ID": "c502",
+        "skin_code": "00",
+        "burst_id": "f5ee5bf6cba90bd510e61510498bf453",
+        "lobby_id": "63f3ceb8fba11c583a4db93c65ca7b1e"
+    },
+    {
+        "Character": "Cinderella",
+        "ID": "c511",
+        "skin_code": "00",
+        "burst_id": "c0b24ba1fb9decc63d5d417252601f51",
+        "lobby_id": "3be2fa0627fcc9e674b9add426ae0e68"
+    },
+    {
+        "Character": "Cinderella",
+        "ID": "c511",
+        "skin_code": "01",
+        "burst_id": "2ad8b713314b26b7c5d5382e1581aeeb",
+        "lobby_id": "ec2da8467784ab943a01c3f12ecf063d"
+    },
+    {
+        "Character": "Little Mermaid",
+        "ID": "c513",
+        "skin_code": "00",
+        "burst_id": "e84d3dee47d844462214655ed2df3d1b",
+        "lobby_id": "84be7244a25e4abfe03135e2a848524a"
+    },
+    {
+        "Character": "Little Mermaid",
+        "ID": "c513",
+        "skin_code": "01",
+        "burst_id": "3f22a3ce2e801729c4e016f44fbc401a",
+        "lobby_id": "d9400c3acbef5ae6a01a62d84504db58"
+    },
+    {
+        "Character": "Grave",
+        "ID": "c514",
+        "skin_code": "00",
+        "burst_id": "bcfc076d5627b97db1297c9e4a43f7b7",
+        "lobby_id": "9aebf1265245ca46ff2382cbe8cc6575"
+    },
+    {
+        "Character": "Bready",
+        "ID": "c520",
+        "skin_code": "00",
+        "burst_id": "222de7950b0f0292dbf14a993dac40c6",
+        "lobby_id": "6ca76a3a74e4434bdc20aa263829a27b"
+    },
+    {
+        "Character": "Crust",
+        "ID": "c521",
+        "skin_code": "00",
+        "burst_id": "58910ff3b31565a3559af813e56b9509",
+        "lobby_id": "6a8afa37899e3a20c2477765f9d5795e"
+    },
+    {
+        "Character": "Sora",
+        "ID": "c532",
+        "skin_code": "00",
+        "burst_id": "7f70cd452063929cc12a8ead205dc6d2",
+        "lobby_id": "437183c96daac01f236203f8d1bf3e89"
+    },
+    {
+        "Character": "Bay",
+        "ID": "c550",
+        "skin_code": "00",
+        "burst_id": "e768be2e2edb0a773e2db9bf45e46e40",
+        "lobby_id": "4e6ffd148e74ab5986053ef453e20fc0"
+    },
+    {
+        "Character": "Clay",
+        "ID": "c551",
+        "skin_code": "00",
+        "burst_id": "86f076e376ff694223c714d187f3081e",
+        "lobby_id": "6fbab94ffdfbd2c4247a5c11f4aaaa97"
+    },
+    {
+        "Character": "Phantom",
+        "ID": "c580",
+        "skin_code": "00",
+        "burst_id": "025f0187e9e2829ba09c2b695bbe1a1d",
+        "lobby_id": "78acdbb6a61a38bf8ac340c020c14b22"
+    },
+    {
+        "Character": "Arcana",
+        "ID": "c581",
+        "skin_code": "00",
+        "burst_id": "968ed54cfa26ec9b634f8571c7e0a777",
+        "lobby_id": "948bdfa21dcfe3b819aec7e36b3073cb"
+    },
+    {
+        "Character": "Label",
+        "ID": "c582",
+        "skin_code": "00",
+        "burst_id": "81726b2e76608ed546bfb6cdb388a468",
+        "lobby_id": "e2b8033ca1ea1849a3892b9525433db7"
+    },
+    {
+        "Character": "Arcana Fortune Mate",
+        "ID": "c583",
+        "skin_code": "00",
+        "burst_id": "d81d2d8e74aa12411665c249700dbebf",
+        "lobby_id": "eb1468813b54c193896e438bc08dfba9"
+    },
+    {
+        "Character": "Mori",
+        "ID": "c590",
+        "skin_code": "00",
+        "burst_id": "83fbb2549b6804b8d2b491d3fd991bdc",
+        "lobby_id": "288084e2e420174aee3554dcfd2f58f1"
+    },
+    {
+        "Character": "Mekami Shifty",
+        "ID": "c610",
+        "skin_code": "00",
+        "burst_id": "5d2802bd9ea1f77faad4381f39931941",
+        "lobby_id": "be6163c6fb08952b72e9be669d6bfe94"
+    },
+    {
+        "Character": "Snow Crane",
+        "ID": "c620",
+        "skin_code": "00",
+        "burst_id": "86123bf19110292c50fea20c663ec222",
+        "lobby_id": "f6b0915417e5034d16a0421bdbae252f"
+    },
+    {
+        "Character": "Makima",
+        "ID": "c800",
+        "skin_code": "00",
+        "burst_id": "8a2e76270b4d28c98503f7e3c19df775",
+        "lobby_id": "07db559086bf8b08dfe454dc3e2ecd03"
+    },
+    {
+        "Character": "Power",
+        "ID": "c801",
+        "skin_code": "00",
+        "burst_id": "8ded3be9662c907bdabc85b3c57b5ff9",
+        "lobby_id": "841371ba88eb03493686a38c53a6d7b9"
+    },
+    {
+        "Character": "Himeno",
+        "ID": "c802",
+        "skin_code": "00",
+        "burst_id": "505eca04829e7aa26312a1f695e14591",
+        "lobby_id": "ce77dd3f5dd22bc0bf911b5ef93697f3"
+    },
+    {
+        "Character": "2B",
+        "ID": "c810",
+        "skin_code": "00",
+        "burst_id": "c7286b48ab83dc223e6d6cc54d044587",
+        "lobby_id": "538fbbac97301b0e7fed09821281d0ac"
+    },
+    {
+        "Character": "2B",
+        "ID": "c810",
+        "skin_code": "02",
+        "burst_id": "f4bf7e6d079bd6a8d11d5a6452045190",
+        "lobby_id": "dde61ae11f95c626637366bfc04f8779"
+    },
+    {
+        "Character": "A2",
+        "ID": "c811",
+        "skin_code": "00",
+        "burst_id": "00897a5e35382353ed03beb7c41de8e2",
+        "lobby_id": "11b1ad579692bb6275923ce7215dcf66"
+    },
+    {
+        "Character": "Pascal",
+        "ID": "c812",
+        "skin_code": "00",
+        "burst_id": "f0b3b42bb995e99dfabfc64841656440",
+        "lobby_id": "7650b64e7ac03e21a616bdf6cde20019"
+    },
+    {
+        "Character": "Rem",
+        "ID": "c820",
+        "skin_code": "00",
+        "burst_id": "2615e333b4555f51a31e7ab042762d8b",
+        "lobby_id": "de95493bb22f806cb3b97061f168d2ed"
+    },
+    {
+        "Character": "Emilia",
+        "ID": "c821",
+        "skin_code": "00",
+        "burst_id": "c286c662da131c93604d651625394eaf",
+        "lobby_id": "5f1aed74a72277afdcebe501ef26c0cb"
+    },
+    {
+        "Character": "Emilia",
+        "ID": "c821",
+        "skin_code": "01",
+        "burst_id": "03afe2934cd2cef2f7e0a67c6068edc6",
+        "lobby_id": "743e1316b4fa718fb3f29accde15dd19"
+    },
+    {
+        "Character": "Ram",
+        "ID": "c822",
+        "skin_code": "00",
+        "burst_id": "c325bd7fed4b921d51e6a3067785f932",
+        "lobby_id": "456ccfe1eac251332bd96d1f8b1c9668"
+    },
+    {
+        "Character": "Asuka",
+        "ID": "c830",
+        "skin_code": "00",
+        "burst_id": "5c7582461c79f1f5c4da6110c8757504",
+        "lobby_id": "56df2e08657ee00f57306d2750729f85"
+    },
+    {
+        "Character": "Asuka",
+        "ID": "c830",
+        "skin_code": "03",
+        "burst_id": "fb00ceae68e2e4d3ab019891392fbb61",
+        "lobby_id": "4e172cb794b12aa17e3a630316e22abc"
+    },
+    {
+        "Character": "Rei Ayanami",
+        "ID": "c831",
+        "skin_code": "00",
+        "burst_id": "c45af208b33ce115d01a56543103cbb4",
+        "lobby_id": "dabb5d3db5a748cb4cb33b7020c4ef75"
+    },
+    {
+        "Character": "Mari",
+        "ID": "c832",
+        "skin_code": "00",
+        "burst_id": "21833d122229c025ed0c8f2c0860c51f",
+        "lobby_id": "d15cab93bda302b7088e199b07dc3942"
+    },
+    {
+        "Character": "Misato",
+        "ID": "c833",
+        "skin_code": "00",
+        "burst_id": "dac190f09d73ec3db7aa3eddf3162602",
+        "lobby_id": "c60b0f40e5c5a7895269a0207936eb9f"
+    },
+    {
+        "Character": "Rei Ayanami NERV",
+        "ID": "c834",
+        "skin_code": "00",
+        "burst_id": "e8698eb25e62d8ba0bfc5b6f88b58705",
+        "lobby_id": "2e663128c738ce3e30aee81277c2c731"
+    },
+    {
+        "Character": "Asuka WILLE",
+        "ID": "c835",
+        "skin_code": "00",
+        "burst_id": "5aca4c7691cc3f32c63bf9f8123f5c18",
+        "lobby_id": "11e0950650dd1262fe1bd3d9f1ddb80e"
+    },
+    {
+        "Character": "Sakura Suzuhara",
+        "ID": "c836",
+        "skin_code": "00",
+        "burst_id": "385ea5e05032dfe39a3a438498a4b5b2",
+        "lobby_id": "f9c08d64d0315d23d077c3f471697f66"
+    },
+    {
+        "Character": "Ada Wong",
+        "ID": "c840",
+        "skin_code": "00",
+        "burst_id": "dccc3a5716fe646356d3e06d0b754648",
+        "lobby_id": "d58e3982eb87b59ff81dc66f95c227b8"
+    },
+    {
+        "Character": "Jill Valentine",
+        "ID": "c841",
+        "skin_code": "00",
+        "burst_id": "d3d8554f46aa58b70f8e5b467b71a809",
+        "lobby_id": "2202bcb1991b9fcd7413035502fd7ba6"
+    },
+    {
+        "Character": "Claire Redfield",
+        "ID": "c842",
+        "skin_code": "00",
+        "burst_id": "b815a0382b583acde11698df98b38997",
+        "lobby_id": "59ad8894ed87a48de5392d12b20d42c7"
+    },
+    {
+        "Character": "EVE",
+        "ID": "c850",
+        "skin_code": "00",
+        "burst_id": "0cbaef311941bb47c122500629b80261",
+        "lobby_id": "31b1601a3404f228d5d83211cbbd8831"
+    },
+    {
+        "Character": "EVE",
+        "ID": "c850",
+        "skin_code": "03",
+        "burst_id": "399e579fc92961de0052059b800eb3c8",
+        "lobby_id": "0057c6976447a35e8b425be9f8ccd50c"
+    },
+    {
+        "Character": "Raven",
+        "ID": "c851",
+        "skin_code": "00",
+        "burst_id": "43fc830686a6c7fdf7bbbd296c7073d7",
+        "lobby_id": "c342218090e73d2784e4b80bd8fad5ce"
+    },
+    {
+        "Character": "Lily",
+        "ID": "c852",
+        "skin_code": "00",
+        "burst_id": "526e137d3f0d634a2cca8e996f078d51",
+        "lobby_id": "5861b7da2cae42b2ff88b833e52d6a95"
+    },
+    {
+        "Character": "Chisato",
+        "ID": "c860",
+        "skin_code": "00",
+        "burst_id": "38641a122d7d1f03514bad693e41f50e",
+        "lobby_id": "00892e1b51a9adfd0de619b138616fa6"
+    },
+    {
+        "Character": "Takina",
+        "ID": "c861",
+        "skin_code": "00",
+        "burst_id": "ccf5475d00f1362cb1623593d4e1909d",
+        "lobby_id": "26412fe0b33fd6bd4d3f63c1c89adf40"
+    },
+    {
+        "Character": "Kurumi",
+        "ID": "c862",
+        "skin_code": "00",
+        "burst_id": "7ebeef705f0578cb5a132a7a8eefad74",
+        "lobby_id": "76c2c03c66fa015f6862725edcfc8ee0"
+    },
+    {
+        "Character": "Syuen",
+        "ID": "c901",
+        "skin_code": "00",
+        "burst_id": "8cfbbef230dbef34ff930ff1a10edd6d",
+        "lobby_id": "6998658919b14186f68b9f69421ed0de"
+    },
+    {
+        "Character": "Shifty",
+        "ID": "c907",
+        "skin_code": "00",
+        "burst_id": "f4d6aa6c30097eacee3922a9e36d0c7a",
+        "lobby_id": "41867d544f43101b0ba0858c2af33083"
+    },
+    {
+        "Character": "Mecha Shifty",
+        "ID": "c993",
+        "skin_code": "00",
+        "burst_id": "901bd581ab87f54a2ad46e6d039c4106",
+        "lobby_id": "f8c309e943059e56b393448743b8d6ab"
+    }
+]

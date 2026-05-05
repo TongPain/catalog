@@ -1,0 +1,542 @@
+[
+    {
+        "Character": "ABSOLUTE",
+        "ID": "eventscene_absolute_01",
+        "lobby_id": "c2a3376aabf4850dc879b7fda6d52aaa"
+    },
+    {
+        "Character": "ACPUFreeze",
+        "ID": "eventscene_acpufreeze_01",
+        "lobby_id": "214407aa2e21dcee682e693db195d5a9"
+    },
+    {
+        "Character": "Aegisthediver",
+        "ID": "eventscene_aesigthediver_01",
+        "lobby_id": "8f548f2a2a72b1a066dfeec5b397aeb3"
+    },
+    {
+        "Character": "AloneSurvivor",
+        "ID": "eventscene_alonesurvivor_01",
+        "lobby_id": "bb360619240f5abe40bf0a24fe51b9d4"
+    },
+    {
+        "Character": "ArcaneArchive",
+        "ID": "eventscene_arcanearchive_01",
+        "lobby_id": "7f1b82b8d8b9d13f44e25246afc5bdea"
+    },
+    {
+        "Character": "ArkGuardian",
+        "ID": "eventscene_ark_guardian_01",
+        "lobby_id": "605a7ff77990e630193da4b2c7b48a62"
+    },
+    {
+        "Character": "BeautyFullShot",
+        "ID": "eventscene_beautyfullshot_03",
+        "lobby_id": "80a6ecc3597d4436170bab10949c3368"
+    },
+    {
+        "Character": "BlankTicket",
+        "ID": "eventscene_blankticket_01",
+        "lobby_id": "65db8894e3d9f6e85bca073086185ed6"
+    },
+    {
+        "Character": "BluewaterIsland",
+        "ID": "eventscene_bluewaterisland_01",
+        "lobby_id": "78738b90e2a5eed314a184420ca5759d"
+    },
+    {
+        "Character": "BOOMSDAY",
+        "ID": "eventscene_boomsday_01",
+        "lobby_id": "60af1a4d0ded0e63c7f0f4ae2c6b5483"
+    },
+    {
+        "Character": "BOOMTheGhost",
+        "ID": "eventscene_boomtheghost_01",
+        "lobby_id": "9531966aa85223611e05d3825e267b9d"
+    },
+    {
+        "Character": "BowWowParadise",
+        "ID": "eventscene_bowwowparadise_01",
+        "lobby_id": "2e0f063b527032e74e2e768c50145f74"
+    },
+    {
+        "Character": "BrandNewYear",
+        "ID": "eventscene_brandnewyear_02",
+        "lobby_id": "a0c2338b0df0281e9792c27bf3ac4721"
+    },
+    {
+        "Character": "BunnyX777",
+        "ID": "eventscene_bunnyx777_01",
+        "lobby_id": "68844983d703c52f4f07d4adbf00fe5a"
+    },
+    {
+        "Character": "ReZeroCollab",
+        "ID": "eventscene_ce_03_01",
+        "lobby_id": "0e2d144e81eb96ea96a727e5210e59bb"
+    },
+    {
+        "Character": "Evangelion2ndCollab2",
+        "ID": "eventscene_ce005_02",
+        "lobby_id": "3c093a306fb1c1f5ab6ca5353c90292a"
+    },
+    {
+        "Character": "REBORNEVIL",
+        "ID": "eventscene_ce007_01",
+        "lobby_id": "3215b61572eaf47c221765ecf401d780"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_02_after_01",
+        "lobby_id": "ab70ee8178425312f01f74ded3fda38a"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_04_01",
+        "lobby_id": "b7d45cb3b0077a20d43cca9ec91c01d9"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_04_05",
+        "lobby_id": "10bb5aa6394acafeea66bcf6ec4f6250"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_04_after_01",
+        "lobby_id": "9c9ef9579a11762fa398375dc3d1dc68"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_07_02",
+        "lobby_id": "f8618c51d7080092f19028e9f35b7d50"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_12_after_01",
+        "lobby_id": "7a0ad3a5e87159d7330042f0e848e7a7"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_13_02",
+        "lobby_id": "7d0cfdad684c366eb261d80bd3be4936"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_13_after_01",
+        "lobby_id": "acfee440ffbe41f374de066567fb515a"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_14_01_cut",
+        "lobby_id": "79da697894b27e8eee81dbe06d9cf6ad"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_14_03",
+        "lobby_id": "e839fccf5a75ee781b8f0c434f64e6c7"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_14_05",
+        "lobby_id": "c23ad7864455d0d657069c9b7280bfeb"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_15_01",
+        "lobby_id": "2b59e33c7e956081bb2124bcd02b7b9f"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_19_02",
+        "lobby_id": "da6194240b88773650ebedb2e6624ba4"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_20_02_02",
+        "lobby_id": "858f908e7e6e6617701e69254dd3246c"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_21_01",
+        "lobby_id": "2873684aa479e4ba87413bebc5f47c0c"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_22_01",
+        "lobby_id": "73a022c0b8ca4f6fa2272d29d61535e4"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_22_02",
+        "lobby_id": "d6a7df0628d77b533eb7fe27dc28653d"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_22_06",
+        "lobby_id": "c8a1a2bbbcf9d00a67704bd3bf5e311a"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_25_01",
+        "lobby_id": "f4844a2f6e4e6315b44af99c6e68a71f"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_chap_26_02",
+        "lobby_id": "03152551359a642faab0e51d1b0abcb9"
+    },
+    {
+        "Character": "CherryBlossom",
+        "ID": "eventscene_cherryblossom_01",
+        "lobby_id": "1ee4ef353c2e2b45db4253e792d131a3"
+    },
+    {
+        "Character": "ChocolatePlease",
+        "ID": "eventscene_chocolateplease_01",
+        "lobby_id": "d06aa071820519e1966bfcdb1c5a5500"
+    },
+    {
+        "Character": "ClayMore",
+        "ID": "eventscene_claymore_01",
+        "lobby_id": "00e7a93afe9768de472ee9263bd6018b"
+    },
+    {
+        "Character": "CoinsInRush",
+        "ID": "eventscene_coinsinrush_02",
+        "lobby_id": "8986a11c26ddfd31205f2576378269e1"
+    },
+    {
+        "Character": "COLORLESS",
+        "ID": "eventscene_colorless_01",
+        "lobby_id": "06030248ad3aa5477b42c70e055e259c"
+    },
+    {
+        "Character": "DarkHero",
+        "ID": "eventscene_darkhero_01",
+        "lobby_id": "6e7abffc4dd4e814c645c4df943df9a7"
+    },
+    {
+        "Character": "DazzlingCupidTia",
+        "ID": "eventscene_dazzlingcupid_01",
+        "lobby_id": "0e105e93212ff9048b8e071c5b734b31"
+    },
+    {
+        "Character": "DazzlingCupidNaga",
+        "ID": "eventscene_dazzlingcupid_02",
+        "lobby_id": "fab7b045317dc314261f8ca578aee14d"
+    },
+    {
+        "Character": "DirtyBackyard",
+        "ID": "eventscene_dirtybackyard_01",
+        "lobby_id": "391fe1f416d4decc13c3055d92d5df5d"
+    },
+    {
+        "Character": "D-Outsider",
+        "ID": "eventscene_d-outsider_01",
+        "lobby_id": "212defcf925265ae96a43ac8295c0aec"
+    },
+    {
+        "Character": "ENTERHEAVEN",
+        "ID": "eventscene_enterheaven_01",
+        "lobby_id": "95372119cccb22fa9f1a53f591570375"
+    },
+    {
+        "Character": "FATALMAID",
+        "ID": "eventscene_fatalmaid_01",
+        "lobby_id": "adea6a5e1a6581cca8985cdabfe79a31"
+    },
+    {
+        "Character": "FOOTSTEPWALKRUN",
+        "ID": "eventscene_footstepwalkrun_06_2",
+        "lobby_id": "2553230b0040fad303dd6a7fe77d6142"
+    },
+    {
+        "Character": "FORREST",
+        "ID": "eventscene_forrest_01",
+        "lobby_id": "66160ea91ecdb48a95af65d033475d52"
+    },
+    {
+        "Character": "GODDESSFALL",
+        "ID": "eventscene_goddessfall_02",
+        "lobby_id": "bf6694c95d6997afda0098132dfd26a7"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_goddessfall_28_1",
+        "lobby_id": "a6509238c34a5eb8ce6c266c927212ea"
+    },
+    {
+        "Character": "GoldenCoinRush",
+        "ID": "eventscene_goldencoinrush_02",
+        "lobby_id": "fddbec7a2fd7bec0bdbfc9d3ab038dcf"
+    },
+    {
+        "Character": "GoldenShip",
+        "ID": "eventscene_goldenship_01",
+        "lobby_id": "365fd0b5f1d2e2a52857d8d83c208509"
+    },
+    {
+        "Character": "GoNinjaThief",
+        "ID": "eventscene_goninjathief_01",
+        "lobby_id": "9aad31d265238a614ec3e8fad2032923"
+    },
+    {
+        "Character": "GoodWorld",
+        "ID": "eventscene_goodworld_01",
+        "lobby_id": "50f8c912354483b6651d97088006f6b7"
+    },
+    {
+        "Character": "HighTechToy",
+        "ID": "eventscene_hightechtoy_01",
+        "lobby_id": "61efd0c7fb225f055bc8022d45856aad"
+    },
+    {
+        "Character": "IceDragonSaga",
+        "ID": "eventscene_icedragonsaga_03",
+        "lobby_id": "10ff01dbfa93dc086b5eb96e0a8c99c5"
+    },
+    {
+        "Character": "JinxPlayer",
+        "ID": "eventscene_jinxplayer_01",
+        "lobby_id": "331d852722f3b30f7775903233335e00"
+    },
+    {
+        "Character": "JuvenileDays",
+        "ID": "eventscene_juveniledays_01",
+        "lobby_id": "9d84b3ee39e046c0405bd168752c7cbd"
+    },
+    {
+        "Character": "KillTheLordDJUICYASS",
+        "ID": "eventscene_killthelord_01",
+        "lobby_id": "69185d0c19bb3c3b70158dec160082dc"
+    },
+    {
+        "Character": "LifeAgain",
+        "ID": "eventscene_lifeagain_01",
+        "lobby_id": "36b1b9c4f1f8d1f2397906404dffad66"
+    },
+    {
+        "Character": "LionHeart",
+        "ID": "eventscene_lionheart_01",
+        "lobby_id": "eda1eccdf100c34fa8eba0075969bb84"
+    },
+    {
+        "Character": "LordForJustice",
+        "ID": "eventscene_lordforjustice_01",
+        "lobby_id": "793ee45e0e26d30da23dddaa60fff8c1"
+    },
+    {
+        "Character": "LicenseToKill",
+        "ID": "eventscene_ltk_01",
+        "lobby_id": "253e2d1962b220feae0cccd38179edba"
+    },
+    {
+        "Character": "LiecauseRecoil",
+        "ID": "eventscene_lycorisrecoi_minigame",
+        "lobby_id": "fbc962f44b3c2f79840072ec262b20af"
+    },
+    {
+        "Character": "MaidInValentine",
+        "ID": "eventscene_maidinvalentine_01",
+        "lobby_id": "8fbeb6a08304f9abc94fd6b2c5c6372d"
+    },
+    {
+        "Character": "Marian",
+        "ID": "eventscene_main_01_01",
+        "lobby_id": "1110b5df1cdae699b203d8116972325c"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_main_01_02",
+        "lobby_id": "e401c3aca6609c89ea7be210308eae14"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_main_01_03",
+        "lobby_id": "ae9c36fa898ba747ee111558273eb38e"
+    },
+    {
+        "Character": "MemoriesTellerStellarBladeCollab1",
+        "ID": "eventscene_memoriesteller_01",
+        "lobby_id": "27d78b6d0c3082dab8ecac3549e12390"
+    },
+    {
+        "Character": "MemoriesTellerStellarBladeCollab2",
+        "ID": "eventscene_memoriesteller_02",
+        "lobby_id": "f7af3614ca437560cf5aabf38182a4b5"
+    },
+    {
+        "Character": "MiracleSnow",
+        "ID": "eventscene_miraclesnow_01",
+        "lobby_id": "10622da18f58ea4c1922ea1cd1f2f660"
+    },
+    {
+        "Character": "NewFlavor",
+        "ID": "eventscene_newflavor_01",
+        "lobby_id": "ddc246af9bf46fc1e4db9b9241d905d3"
+    },
+    {
+        "Character": "NewYearNewSword",
+        "ID": "eventscene_newyearnewsword_01",
+        "lobby_id": "fef0e45588e064fe4b8faa8e0ff2eb39"
+    },
+    {
+        "Character": "NoCallerID",
+        "ID": "eventscene_nocallerid_01",
+        "lobby_id": "c3a33b899b6f5de12fb360af7873e43c"
+    },
+    {
+        "Character": "NyaNyaParadise",
+        "ID": "eventscene_nyanyaparadise_01",
+        "lobby_id": "6b641638a8ce1ed0f27e22da12fa9f65"
+    },
+    {
+        "Character": "OldTales1",
+        "ID": "eventscene_oldtales_01",
+        "lobby_id": "29251ee9fa2065e63a80886d08ad4385"
+    },
+    {
+        "Character": "OldTales2",
+        "ID": "eventscene_oldtales_02",
+        "lobby_id": "0b55a02d68b30b3f9b48e6df5151aca0"
+    },
+    {
+        "Character": "OneMoreTime",
+        "ID": "eventscene_onemoretime_01",
+        "lobby_id": "afc8a9d4fd0a8582fc232151516cabc4"
+    },
+    {
+        "Character": "OverTheHorizon",
+        "ID": "eventscene_overthehorizon_01",
+        "lobby_id": "054490142d3742362bc66058657da101"
+    },
+    {
+        "Character": "OVERZONE",
+        "ID": "eventscene_overzone_01",
+        "lobby_id": "f6c6f2f47dccf65ebe731bd63c690e64"
+    },
+    {
+        "Character": "PerfectMaid",
+        "ID": "eventscene_perfectmaid_01",
+        "lobby_id": "41b1f380b81bcca557183d26a3f3a8f5"
+    },
+    {
+        "Character": "PhantomThiefVSDetective",
+        "ID": "eventscene_phantomthiefvsdetective_01",
+        "lobby_id": "75126ae494dc4f85dcdbca1db3a9ec7e"
+    },
+    {
+        "Character": "QueensOrder",
+        "ID": "eventscene_queensorder_01",
+        "lobby_id": "f186a9673ee0bf0a4647a46f02dc37f5"
+    },
+    {
+        "Character": "RedAsh",
+        "ID": "eventscene_redash_05_1",
+        "lobby_id": "62292037cb1a2a86dccca6d8e5520e88"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_redash_05_2",
+        "lobby_id": "e156176057d860a670d8d581c026d759"
+    },
+    {
+        "Character": "Unknown",
+        "ID": "eventscene_redash_11",
+        "lobby_id": "4c6ddba7cbf782a5bbc7bef67ead9b1b"
+    },
+    {
+        "Character": "RomanticValentine",
+        "ID": "eventscene_romanticvalentine_01",
+        "lobby_id": "7b0720e365810f072ff720802322fe34"
+    },
+    {
+        "Character": "SchoolOfLock",
+        "ID": "eventscene_schooloflock_01",
+        "lobby_id": "5abebbd048caf8d1374ba5d9fd83bb7d"
+    },
+    {
+        "Character": "SeaYouAgain",
+        "ID": "eventscene_seayouagain_04",
+        "lobby_id": "c6bad007cd4b25d7c8c6fd1c66b2856c"
+    },
+    {
+        "Character": "SecretGarden",
+        "ID": "eventscene_secretgarden_01",
+        "lobby_id": "f9b035eb05c63361bb75a2f259326a2a"
+    },
+    {
+        "Character": "SinEditor",
+        "ID": "eventscene_sineditor_01",
+        "lobby_id": "d971fa938ebce1a76e340b43ba1663ee"
+    },
+    {
+        "Character": "StarAnis",
+        "ID": "eventscene_staranis_03",
+        "lobby_id": "e69b7a12e72d7d2336e06e481b8c8c7e"
+    },
+    {
+        "Character": "TerminusTicket",
+        "ID": "eventscene_terminusticket_01",
+        "lobby_id": "bd16d07473ede70a632ba7b0eae16896"
+    },
+    {
+        "Character": "TrueFlavor",
+        "ID": "eventscene_trueflavor_01",
+        "lobby_id": "7cffba107c2a30e96e146a2ced2a948e"
+    },
+    {
+        "Character": "2x2Love",
+        "ID": "eventscene_twoxtwolove_01",
+        "lobby_id": "4c02b7205d3f629401a0a3a41a48dd05"
+    },
+    {
+        "Character": "2x2LoveHidden",
+        "ID": "eventscene_twoxtwolove2_hidden_01_2",
+        "lobby_id": "b34b1cdc54fb88e2b4a0b441995a859a"
+    },
+    {
+        "Character": "UnbreakableSphere",
+        "ID": "eventscene_unbreakablesphere_01",
+        "lobby_id": "040d03aae373fd10624d0dd66f6341d5"
+    },
+    {
+        "Character": "WisdomSpring",
+        "ID": "eventscene_wisdomspring_01",
+        "lobby_id": "cd85abfaf43f8fa6b012866ff5c08991"
+    },
+    {
+        "Character": "Evangelion1stCollab",
+        "ID": "eventtitle_ce004_01",
+        "lobby_id": "8f6aec28dd801fadd0b4b859aa5d2e64"
+    },
+    {
+        "Character": "Evangelion2ndCollab1",
+        "ID": "eventtitle_ce005_01",
+        "lobby_id": "f0ec9bf13d55b53bafe921988d9c6470"
+    },
+    {
+        "Character": "LycorisRecoilCollab",
+        "ID": "eventtitle_ce008_01",
+        "lobby_id": "98dd826354cf439821cb6baa88b3e704"
+    },
+    {
+        "Character": "LastKingdom",
+        "ID": "eventtitle_lastkingdom_03",
+        "lobby_id": "5d71b84e219c3ec30ce2b4566388aaed"
+    },
+    {
+        "Character": "LudmillaOnsenNEVERLAND",
+        "ID": "eventtitle_neverland_02",
+        "lobby_id": "1a354915d7acf721baff07d4408285bf"
+    },
+    {
+        "Character": "Evangelion1stCollab",
+        "ID": "eventtitle_ce004_01",
+        "lobby_id": "9b52738e9f052f85ca65dc49d44421d4"
+    },
+    {
+        "Character": "LastKingdom",
+        "ID": "eventtitle_lastkingdom_03",
+        "lobby_id": "2c631ad72af64de7b4b230963acb3c2c"
+    }
+]
