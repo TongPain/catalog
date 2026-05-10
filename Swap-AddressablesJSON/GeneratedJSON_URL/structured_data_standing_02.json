@@ -1,0 +1,366 @@
+[
+    {
+        "character": "拉毗",
+        "file_code": "c010",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c010/02_hd_77240a0c90b1e1a1ecde63afd67e5636.bundle"
+    },
+    {
+        "character": "拉毗：小红帽",
+        "file_code": "c016",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c016/02_hd_34f0250fbf645e0e351ec34837fbcad6.bundle"
+    },
+    {
+        "character": "阿妮斯：超级巨星",
+        "file_code": "c017",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c017/02_hd_d1cb490976266ccd3b2c563b05ccd9b2.bundle"
+    },
+    {
+        "character": "波莉",
+        "file_code": "c030",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c030/02_hd_89811da3baac8975d6563c0ca2575069.bundle"
+    },
+    {
+        "character": "D：杀手妻子",
+        "file_code": "c043",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c043/02_hd_e47ee3990002660b742abc24915f8af5.bundle"
+    },
+    {
+        "character": "布丽德",
+        "file_code": "c070",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c070/02_hd_5dfc3f5418e1c9b96bdaf2a9c6423f52.bundle"
+    },
+    {
+        "character": "迪塞尔",
+        "file_code": "c072",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c072/02_hd_771e8eb20813a77f3ab997ab334209a5.bundle"
+    },
+    {
+        "character": "桑迪",
+        "file_code": "c080",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c080/02_hd_f3e6bbefecf2da11fdaa3060676a2a6e.bundle"
+    },
+    {
+        "character": "丽塔",
+        "file_code": "c082",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c082/02_hd_2da53dd3667df1ecfa1770905fd98e75.bundle"
+    },
+    {
+        "character": "艾玛",
+        "file_code": "c090",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c090/02_hd_6ac2c8a011a4ebb7cac91b684523cdf0.bundle"
+    },
+    {
+        "character": "德雷克",
+        "file_code": "c101",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c101/02_hd_06fa7848adae0904adf8e4dff07e423c.bundle"
+    },
+    {
+        "character": "毒蛇",
+        "file_code": "c112",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c112/02_hd_722675d0aa9de8fe16bbf816624ee8ea.bundle"
+    },
+    {
+        "character": "舒格",
+        "file_code": "c140",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c140/02_hd_6b6179e9dde7d3b7e1ab663a05fab334.bundle"
+    },
+    {
+        "character": "尤莉亚",
+        "file_code": "c150",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c150/02_hd_37b37468044d5e7c227d3766adc3bd5d.bundle"
+    },
+    {
+        "character": "普丽瓦蒂",
+        "file_code": "c170",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c170/02_hd_6a3f715f8181c632347c88b02ce2eaa5.bundle"
+    },
+    {
+        "character": "梅登",
+        "file_code": "c181",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c181/02_hd_5fd88d3cb74483d0b637b26ae8555df1.bundle"
+    },
+    {
+        "character": "爱丽丝",
+        "file_code": "c191",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c191/02_hd_f0d97cfc5d7c25a9518882a0c037319a.bundle"
+    },
+    {
+        "character": "托比",
+        "file_code": "c192",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c192/02_hd_ee5c310a70576e84f36bcf41f9fae124.bundle"
+    },
+    {
+        "character": "艾可希雅",
+        "file_code": "c210",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c210/02_hd_a3ffc919dfe3ec538725573ab1208ace.bundle"
+    },
+    {
+        "character": "诺薇儿",
+        "file_code": "c212",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c212/02_hd_f47406a4b1f271fce0475b8e5d0a7a0a.bundle"
+    },
+    {
+        "character": "桃乐丝",
+        "file_code": "c233",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c233/02_hd_2373fb0fdc22ffb4cf72523137ba4ed9.bundle"
+    },
+    {
+        "character": "神罚",
+        "file_code": "c260",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c260/02_hd_120b859d4d5e602eb4c334ef3fbba924.bundle"
+    },
+    {
+        "character": "布兰儿",
+        "file_code": "c270",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c270/02_hd_3a23a2b90b153c45000bd0127e0f3b78.bundle"
+    },
+    {
+        "character": "诺亚尔",
+        "file_code": "c271",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c271/02_hd_22a781251797e76cb6062ea099f99a2f.bundle"
+    },
+    {
+        "character": "皇冠",
+        "file_code": "c330",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c330/02_hd_f0fdf17b14dedc56635e5d7e13ca91a4.bundle"
+    },
+    {
+        "character": "马斯特",
+        "file_code": "c350",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c350/02_hd_ed2ef7c0bf7104e067492d37468534f4.bundle"
+    },
+    {
+        "character": "海伦",
+        "file_code": "c352",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c352/02_hd_6ae6cb336caa877964a5683bb1b77754.bundle"
+    },
+    {
+        "character": "茨瓦伊",
+        "file_code": "c390",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c390/02_hd_ea2ec8e694dbf2f1b52be72eb70aa42d.bundle"
+    },
+    {
+        "character": "诺伊斯",
+        "file_code": "c430",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c430/02_hd_a89ffe0a9675d73eadd8cd25c4741c03.bundle"
+    },
+    {
+        "character": "娜嘉",
+        "file_code": "c450",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c450/02_hd_eab0317dd11c2ba0bccdd0d7b507acb1.bundle"
+    },
+    {
+        "character": "蒂亚",
+        "file_code": "c451",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c451/02_hd_e728f6b96cabe89e038f36b3ff059249.bundle"
+    },
+    {
+        "character": "小红帽",
+        "file_code": "c470",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c470/02_hd_57e31b8ad825317640268f0e34ceb5d3.bundle"
+    },
+    {
+        "character": "灰姑娘",
+        "file_code": "c511",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c511/02_hd_80b34e9b2d166c7e64d83f78326c23f6.bundle"
+    },
+    {
+        "character": "小美人鱼",
+        "file_code": "c513",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c513/02_hd_f3c3c0bb2e4fbe684dae1dac665e6a12.bundle"
+    },
+    {
+        "character": "敏特",
+        "file_code": "c600",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c600/02_hd_c4704b15b2c9640a89389f8d60107613.bundle"
+    },
+    {
+        "character": "普莉卡",
+        "file_code": "c601",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c601/02_hd_8e1a2601fe156a451f63e8e534536a13.bundle"
+    },
+    {
+        "character": "2b",
+        "file_code": "c810",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c810/02_hd_a042120ae176f9237c89067480ae368c.bundle"
+    },
+    {
+        "character": "A2",
+        "file_code": "c811",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c811/02_hd_ba3a59d312bd99e9a71643d7cdee10c0.bundle"
+    },
+    {
+        "character": "雷姆",
+        "file_code": "c820",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c820/02_hd_362c81f4e7349b01ddab32c391332aab.bundle"
+    },
+    {
+        "character": "爱蜜莉雅",
+        "file_code": "c821",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c821/02_hd_acdf422f9cdd7fb4ddc6d15605436a3a.bundle"
+    },
+    {
+        "character": "明日香",
+        "file_code": "c830",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c830/02_hd_c64f8fafd92f84e8c0d6a2afa62c29c0.bundle"
+    },
+    {
+        "character": "零",
+        "file_code": "c831",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c831/02_hd_8db00e87a85b421838713a3f767928a1.bundle"
+    },
+    {
+        "character": "真理",
+        "file_code": "c832",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c832/02_hd_f06a3090b8b5d880203be5a206d7d72d.bundle"
+    },
+    {
+        "character": "零（暂称）",
+        "file_code": "c834",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c834/02_hd_90004f7b56e13a86f6f7fdc7514b0f88.bundle"
+    },
+    {
+        "character": "明日香：wille",
+        "file_code": "c835",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c835/02_hd_bb607e9c22d80c46f87f6ed70dfb9389.bundle"
+    },
+    {
+        "character": "艾达",
+        "file_code": "c840",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c840/02_hd_b34ad0d0f172753e8e8013ce52e4ee1f.bundle"
+    },
+    {
+        "character": "吉儿",
+        "file_code": "c841",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c841/02_hd_628057e459936337201d90894ab16c58.bundle"
+    },
+    {
+        "character": "伊芙",
+        "file_code": "c850",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c850/02_hd_72103ef99ffc90faecc14228c2bb08e1.bundle"
+    },
+    {
+        "character": "渡鸦",
+        "file_code": "c851",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c851/02_hd_377fac9e1c1a0e0c541e9471534428f0.bundle"
+    },
+    {
+        "character": "千束",
+        "file_code": "c860",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c860/02_hd_28e5aeaa5ed465bf43544a5cfb2e148e.bundle"
+    },
+    {
+        "character": "泷奈",
+        "file_code": "c861",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c861/02_hd_1a80c385575e33ef32a1d34c14bbbc03.bundle"
+    },
+    {
+        "character": "Unknown_c9000",
+        "file_code": "c9000",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinestandingcharactergroup(hd)_assets_spine/standing/c9000/02_hd_ee4bccc1f3de3d9dec6eacb441befddd.bundle"
+    }
+]

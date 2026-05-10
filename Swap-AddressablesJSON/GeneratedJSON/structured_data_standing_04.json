@@ -1,0 +1,23 @@
+[
+    {
+        "character": "迪塞尔",
+        "file_code": "c072",
+        "skin_code": "04",
+        "type": "standing",
+        "hashed_name": "f714a556e0c7831e90dd85947052dbfe"
+    },
+    {
+        "character": "普丽瓦蒂",
+        "file_code": "c170",
+        "skin_code": "04",
+        "type": "standing",
+        "hashed_name": "72074c8b892912a874e64692b3c49972"
+    },
+    {
+        "character": "真理",
+        "file_code": "c832",
+        "skin_code": "04",
+        "type": "standing",
+        "hashed_name": "c963e2a562b4e3c529bc623f6aa08639"
+    }
+]

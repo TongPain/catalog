@@ -1,0 +1,688 @@
+[
+    {
+        "character": "拉毗",
+        "file_code": "c010",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "974a9ca0737ab4f8496508d335a7a0b5"
+    },
+    {
+        "character": "拉毗",
+        "file_code": "c010",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "c859f93f7758fd0f779e2ff7658cffd1"
+    },
+    {
+        "character": "拉毗：小红帽",
+        "file_code": "c016",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "4f90d0fc312b6cb1f253d48ab5437d0f"
+    },
+    {
+        "character": "拉毗：小红帽",
+        "file_code": "c016",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "b4e6fc51887eb172c79f67821ad06db0"
+    },
+    {
+        "character": "阿妮斯：超级巨星",
+        "file_code": "c017",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "45ed61d86597a60d95db8fad4d9c545a"
+    },
+    {
+        "character": "阿妮斯：超级巨星",
+        "file_code": "c017",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "32a1935a5d26b4fc32eaa5ea307adbfd"
+    },
+    {
+        "character": "波莉",
+        "file_code": "c030",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "549ff853355c29ee9b1ba35e6cf9d7b1"
+    },
+    {
+        "character": "波莉",
+        "file_code": "c030",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "8890451d9ea1fda6bc17aa7e97a362d0"
+    },
+    {
+        "character": "D：杀手妻子",
+        "file_code": "c043",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "9594dc22b8f7a143659372045126a9d1"
+    },
+    {
+        "character": "D：杀手妻子",
+        "file_code": "c043",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "efd16f58942eb9f3f98585a2b1804e16"
+    },
+    {
+        "character": "布丽德",
+        "file_code": "c070",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "1944326520e6bae1b052399bb11f41d4"
+    },
+    {
+        "character": "布丽德",
+        "file_code": "c070",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "3545e0770c09b32ef4c17e7b65f897cf"
+    },
+    {
+        "character": "迪塞尔",
+        "file_code": "c072",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "7c8e5ace2f13dcf3e95801ba471a6659"
+    },
+    {
+        "character": "迪塞尔",
+        "file_code": "c072",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "1fd2c5018d492159dbf85939396deef8"
+    },
+    {
+        "character": "桑迪",
+        "file_code": "c080",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "e1f32aa24d426c483aff75cb8ba126c6"
+    },
+    {
+        "character": "桑迪",
+        "file_code": "c080",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "dd52672b894aef366026ad5a6c851ecd"
+    },
+    {
+        "character": "丽塔",
+        "file_code": "c082",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "0a6c79675a68ac38db946f864e2621cd"
+    },
+    {
+        "character": "丽塔",
+        "file_code": "c082",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "bc21118e067356b453906f2648bcdd26"
+    },
+    {
+        "character": "艾玛",
+        "file_code": "c090",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "732b56dad04e6436138e89ae0d631134"
+    },
+    {
+        "character": "艾玛",
+        "file_code": "c090",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "ba25a7e65c6048fb2518316fcf5245d7"
+    },
+    {
+        "character": "德雷克",
+        "file_code": "c101",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "956fda3ce8b53324c71724fc5f64b86d"
+    },
+    {
+        "character": "德雷克",
+        "file_code": "c101",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "dd1c4510d02b051faac96cbb1ed6a3b3"
+    },
+    {
+        "character": "毒蛇",
+        "file_code": "c112",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "8132766125cee5ff680ccfc4e96836f0"
+    },
+    {
+        "character": "毒蛇",
+        "file_code": "c112",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "aa4d40ecd22fc63f136913e1f8754747"
+    },
+    {
+        "character": "舒格",
+        "file_code": "c140",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "bea3cac780b410e354d2c3cfd8f3f5f1"
+    },
+    {
+        "character": "舒格",
+        "file_code": "c140",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "bca9c53f9beb3126a32ea1f11a4694bd"
+    },
+    {
+        "character": "尤莉亚",
+        "file_code": "c150",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "7283af871241a0fe4e1fcdaccbe1e9e9"
+    },
+    {
+        "character": "尤莉亚",
+        "file_code": "c150",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "36c303dfb70572de429a71ede1e199cb"
+    },
+    {
+        "character": "普丽瓦蒂",
+        "file_code": "c170",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "44a6caf49a860aabe2f31e4c01713788"
+    },
+    {
+        "character": "普丽瓦蒂",
+        "file_code": "c170",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "b66057467aeb0e853a6f4aa5f54a75ad"
+    },
+    {
+        "character": "梅登",
+        "file_code": "c181",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "cca276915e07353b3212404f50e3df22"
+    },
+    {
+        "character": "梅登",
+        "file_code": "c181",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "f1b686c3910d2dc87d29b7e7fe924de5"
+    },
+    {
+        "character": "爱丽丝",
+        "file_code": "c191",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "3362be1be64bcdd5052f1ab0d75cb71d"
+    },
+    {
+        "character": "爱丽丝",
+        "file_code": "c191",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "55b4aa45ff4f79ababc1edc86542cfd7"
+    },
+    {
+        "character": "托比",
+        "file_code": "c192",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "3255d9718863bbf0c7c376f34b77f970"
+    },
+    {
+        "character": "托比",
+        "file_code": "c192",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "a127a8a85a31cb81e8b9e9960ec67e6e"
+    },
+    {
+        "character": "艾可希雅",
+        "file_code": "c210",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "3d9882dab5f5b4f8bfcddfc3c4d8337d"
+    },
+    {
+        "character": "艾可希雅",
+        "file_code": "c210",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "b3bac7c08c4b8996e190a19cd7e2faea"
+    },
+    {
+        "character": "诺薇儿",
+        "file_code": "c212",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "d3ad786d0a89e04c4987797852dd68c0"
+    },
+    {
+        "character": "诺薇儿",
+        "file_code": "c212",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "7dd03a322a07bdea5da9950fe6ffdeb6"
+    },
+    {
+        "character": "桃乐丝",
+        "file_code": "c233",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "7f5c49abe997a6ef156c732125c9dd68"
+    },
+    {
+        "character": "桃乐丝",
+        "file_code": "c233",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "4fb6f940b2171e0a64907a5a794c42ec"
+    },
+    {
+        "character": "神罚",
+        "file_code": "c260",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "262388a338d44d3fb72d5774d6b6405f"
+    },
+    {
+        "character": "神罚",
+        "file_code": "c260",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "f8289419abf8ab3419543994ab9e51dc"
+    },
+    {
+        "character": "布兰儿",
+        "file_code": "c270",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "f08824f713a00f26463e9aed3c2e5b76"
+    },
+    {
+        "character": "布兰儿",
+        "file_code": "c270",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "74cdd3156719ee70e35bd3b33925ae0c"
+    },
+    {
+        "character": "诺亚尔",
+        "file_code": "c271",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "3755db15b06c318b3fc38d57d6111186"
+    },
+    {
+        "character": "诺亚尔",
+        "file_code": "c271",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "bbf3a7e7734b0ba7c634d8ebc6534308"
+    },
+    {
+        "character": "皇冠",
+        "file_code": "c330",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "dbf6fda44e6a941612740e81f7b3cbd4"
+    },
+    {
+        "character": "皇冠",
+        "file_code": "c330",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "2888e2570249a0e96816760eb7f5fd47"
+    },
+    {
+        "character": "马斯特",
+        "file_code": "c350",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "84f863a3f6e7c148a1a5083f7d766706"
+    },
+    {
+        "character": "马斯特",
+        "file_code": "c350",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "19a2132336228c87caf1c277a08caef1"
+    },
+    {
+        "character": "海伦",
+        "file_code": "c352",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "2e50d1b52d678e0df31848e0e4d2506f"
+    },
+    {
+        "character": "海伦",
+        "file_code": "c352",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "00ac9b2b53ac37f36237b9a471424230"
+    },
+    {
+        "character": "茨瓦伊",
+        "file_code": "c390",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "62f3949ff5993c97914a3cd0cb7e94da"
+    },
+    {
+        "character": "茨瓦伊",
+        "file_code": "c390",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "f025e5267b1619d3a47b96fc32cccda8"
+    },
+    {
+        "character": "诺伊斯",
+        "file_code": "c430",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "2c595b11e01923dd0c15623d457a7abc"
+    },
+    {
+        "character": "诺伊斯",
+        "file_code": "c430",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "b5d883fa029601af685d669954261dd4"
+    },
+    {
+        "character": "娜嘉",
+        "file_code": "c450",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "6a2e3efde5684c05cb86ab4de052b7a4"
+    },
+    {
+        "character": "娜嘉",
+        "file_code": "c450",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "baea8c9f79c8f6b951c6dabc1500ee06"
+    },
+    {
+        "character": "蒂亚",
+        "file_code": "c451",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "9d7f28669e26d7983e5bfdba49525bd1"
+    },
+    {
+        "character": "蒂亚",
+        "file_code": "c451",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "d9ba4debeb0c25feb56f10053f7fd52d"
+    },
+    {
+        "character": "小红帽",
+        "file_code": "c470",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "993f9e7fe6786a87436582a1386ed456"
+    },
+    {
+        "character": "小红帽",
+        "file_code": "c470",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "55b747bbfff402742fed308697682965"
+    },
+    {
+        "character": "灰姑娘",
+        "file_code": "c511",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "9db04c056f2adfa2441cb0a3033d0100"
+    },
+    {
+        "character": "灰姑娘",
+        "file_code": "c511",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "9d469cda1a4cf10e3c6a4cfa696382ce"
+    },
+    {
+        "character": "小美人鱼",
+        "file_code": "c513",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "6bf3409528b113fac6d57d6e6dea93b7"
+    },
+    {
+        "character": "小美人鱼",
+        "file_code": "c513",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "6c6d7b6c81e6fa6b23affc600120680a"
+    },
+    {
+        "character": "2b",
+        "file_code": "c810",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "72eadb08366bacb4b5a795275d900e79"
+    },
+    {
+        "character": "2b",
+        "file_code": "c810",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "be17cda949198ed2a31cd2c34ece685a"
+    },
+    {
+        "character": "A2",
+        "file_code": "c811",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "2b3d7d7b95e0c96bda4d7f18ba244d9a"
+    },
+    {
+        "character": "A2",
+        "file_code": "c811",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "062c0586a1eef2c12abfa526196ca314"
+    },
+    {
+        "character": "雷姆",
+        "file_code": "c820",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "8f3f5500ba6a37ccc6940487e346d0e5"
+    },
+    {
+        "character": "雷姆",
+        "file_code": "c820",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "1918f066dd9ebfed5375ff221cc77a34"
+    },
+    {
+        "character": "爱蜜莉雅",
+        "file_code": "c821",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "73311b1f09e6549dfc4e2e29b9d8d5aa"
+    },
+    {
+        "character": "爱蜜莉雅",
+        "file_code": "c821",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "bbf4af0a1e67f391bb580d395bde6e54"
+    },
+    {
+        "character": "明日香",
+        "file_code": "c830",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "f31aad60b25ec30c857448ec390a573f"
+    },
+    {
+        "character": "明日香",
+        "file_code": "c830",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "e7ad7262760c5adcd66fe42debf62c9a"
+    },
+    {
+        "character": "零",
+        "file_code": "c831",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "62ee95cc59587af6f86bb921f53d09cc"
+    },
+    {
+        "character": "零",
+        "file_code": "c831",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "e91e7a63878ae880d8b3617a1571a8d6"
+    },
+    {
+        "character": "真理",
+        "file_code": "c832",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "24707f98ffaaa6bd73501160ee201ef5"
+    },
+    {
+        "character": "真理",
+        "file_code": "c832",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "ce7fe540934978289ce04c662974db8e"
+    },
+    {
+        "character": "零（暂称）",
+        "file_code": "c834",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "59a5e058d6536353420f2adf0d2e8380"
+    },
+    {
+        "character": "零（暂称）",
+        "file_code": "c834",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "dab5e82dfcbfc7f231945812493f786a"
+    },
+    {
+        "character": "明日香：wille",
+        "file_code": "c835",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "07a62538e639a90c8b5b6538ee9b25ff"
+    },
+    {
+        "character": "明日香：wille",
+        "file_code": "c835",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "e040c9a3bc485d5feac27738de1729ee"
+    },
+    {
+        "character": "艾达",
+        "file_code": "c840",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "fc48cfe96599c0935f3847f3c184b0c0"
+    },
+    {
+        "character": "艾达",
+        "file_code": "c840",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "c92e40fff8501fa5db0047237bd17f4e"
+    },
+    {
+        "character": "吉儿",
+        "file_code": "c841",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "2bc08dd65e2cf01386d0599a7efb3c4e"
+    },
+    {
+        "character": "吉儿",
+        "file_code": "c841",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "69036e2a041a6cf9ad3e8c657dfbaa8b"
+    },
+    {
+        "character": "伊芙",
+        "file_code": "c850",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "503cc68927843209a60624121bd7c9e4"
+    },
+    {
+        "character": "伊芙",
+        "file_code": "c850",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "f2372cd7c0ee1436f9f74b9a12827df4"
+    },
+    {
+        "character": "渡鸦",
+        "file_code": "c851",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "12b31cf0487f098bf3abfadee2b15ffe"
+    },
+    {
+        "character": "渡鸦",
+        "file_code": "c851",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "925d73bd68c7627d4c68f045f980f54d"
+    },
+    {
+        "character": "千束",
+        "file_code": "c860",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "519c6ed34db577cec8684dc72ec8236d"
+    },
+    {
+        "character": "千束",
+        "file_code": "c860",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "02fdaf378dd8e4b20038e4ec235b5d4c"
+    },
+    {
+        "character": "泷奈",
+        "file_code": "c861",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "3546cd32116ceb4baa4c89e0d5abcee8"
+    },
+    {
+        "character": "泷奈",
+        "file_code": "c861",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "75f0d1988e4593a663e9b312a061e03c"
+    }
+]

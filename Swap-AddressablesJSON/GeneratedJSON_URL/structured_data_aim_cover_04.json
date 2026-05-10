@@ -1,0 +1,44 @@
+[
+    {
+        "character": "迪塞尔",
+        "file_code": "c072",
+        "skin_code": "04",
+        "type": "aim",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c072/04/aim_hd_6d792dcdede70dc7a352bb4dc424841b.bundle"
+    },
+    {
+        "character": "迪塞尔",
+        "file_code": "c072",
+        "skin_code": "04",
+        "type": "cover",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c072/04/cover_hd_bf8a13d1abcef3900aa37356f79fe608.bundle"
+    },
+    {
+        "character": "普丽瓦蒂",
+        "file_code": "c170",
+        "skin_code": "04",
+        "type": "aim",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c170/04/aim_hd_73e8a0ad89407c82e954c1b5daa22fe0.bundle"
+    },
+    {
+        "character": "普丽瓦蒂",
+        "file_code": "c170",
+        "skin_code": "04",
+        "type": "cover",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c170/04/cover_hd_dd189895191408f3fd23cfec26a6c870.bundle"
+    },
+    {
+        "character": "真理",
+        "file_code": "c832",
+        "skin_code": "04",
+        "type": "aim",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c832/04/aim_hd_c2709a110b4cee4e2515cd927414088b.bundle"
+    },
+    {
+        "character": "真理",
+        "file_code": "c832",
+        "skin_code": "04",
+        "type": "cover",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c832/04/cover_hd_0fb8359b0ca78259fa3c558c07e75488.bundle"
+    }
+]

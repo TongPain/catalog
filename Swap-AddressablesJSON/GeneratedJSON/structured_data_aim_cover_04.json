@@ -1,0 +1,44 @@
+[
+    {
+        "character": "迪塞尔",
+        "file_code": "c072",
+        "skin_code": "04",
+        "type": "aim",
+        "hashed_name": "6d792dcdede70dc7a352bb4dc424841b"
+    },
+    {
+        "character": "迪塞尔",
+        "file_code": "c072",
+        "skin_code": "04",
+        "type": "cover",
+        "hashed_name": "bf8a13d1abcef3900aa37356f79fe608"
+    },
+    {
+        "character": "普丽瓦蒂",
+        "file_code": "c170",
+        "skin_code": "04",
+        "type": "aim",
+        "hashed_name": "73e8a0ad89407c82e954c1b5daa22fe0"
+    },
+    {
+        "character": "普丽瓦蒂",
+        "file_code": "c170",
+        "skin_code": "04",
+        "type": "cover",
+        "hashed_name": "dd189895191408f3fd23cfec26a6c870"
+    },
+    {
+        "character": "真理",
+        "file_code": "c832",
+        "skin_code": "04",
+        "type": "aim",
+        "hashed_name": "c2709a110b4cee4e2515cd927414088b"
+    },
+    {
+        "character": "真理",
+        "file_code": "c832",
+        "skin_code": "04",
+        "type": "cover",
+        "hashed_name": "0fb8359b0ca78259fa3c558c07e75488"
+    }
+]
