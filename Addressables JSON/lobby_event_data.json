@@ -65,14 +65,14 @@
         "lobby_id": "a0c2338b0df0281e9792c27bf3ac4721"
     },
     {
+        "Character": "",
+        "ID": "eventscene_bsideidol_01",
+        "lobby_id": "db0922916c0a6083efab04897e3f094d"
+    },
+    {
         "Character": "BunnyX777",
         "ID": "eventscene_bunnyx777_01",
         "lobby_id": "68844983d703c52f4f07d4adbf00fe5a"
-    },
-    {
-        "Character": "ReZeroCollab",
-        "ID": "eventscene_ce_03_01",
-        "lobby_id": "0e2d144e81eb96ea96a727e5210e59bb"
     },
     {
         "Character": "Evangelion2ndCollab2",
@@ -83,6 +83,11 @@
         "Character": "REBORNEVIL",
         "ID": "eventscene_ce007_01",
         "lobby_id": "3215b61572eaf47c221765ecf401d780"
+    },
+    {
+        "Character": "ReZeroCollab",
+        "ID": "eventscene_ce_03_01",
+        "lobby_id": "0e2d144e81eb96ea96a727e5210e59bb"
     },
     {
         "Character": "Unknown",
@@ -210,6 +215,11 @@
         "lobby_id": "06030248ad3aa5477b42c70e055e259c"
     },
     {
+        "Character": "D-Outsider",
+        "ID": "eventscene_d-outsider_01",
+        "lobby_id": "212defcf925265ae96a43ac8295c0aec"
+    },
+    {
         "Character": "DarkHero",
         "ID": "eventscene_darkhero_01",
         "lobby_id": "6e7abffc4dd4e814c645c4df943df9a7"
@@ -228,11 +238,6 @@
         "Character": "DirtyBackyard",
         "ID": "eventscene_dirtybackyard_01",
         "lobby_id": "391fe1f416d4decc13c3055d92d5df5d"
-    },
-    {
-        "Character": "D-Outsider",
-        "ID": "eventscene_d-outsider_01",
-        "lobby_id": "212defcf925265ae96a43ac8295c0aec"
     },
     {
         "Character": "ENTERHEAVEN",
@@ -485,14 +490,14 @@
         "lobby_id": "7cffba107c2a30e96e146a2ced2a948e"
     },
     {
-        "Character": "2x2Love",
-        "ID": "eventscene_twoxtwolove_01",
-        "lobby_id": "4c02b7205d3f629401a0a3a41a48dd05"
-    },
-    {
         "Character": "2x2LoveHidden",
         "ID": "eventscene_twoxtwolove2_hidden_01_2",
         "lobby_id": "b34b1cdc54fb88e2b4a0b441995a859a"
+    },
+    {
+        "Character": "2x2Love",
+        "ID": "eventscene_twoxtwolove_01",
+        "lobby_id": "4c02b7205d3f629401a0a3a41a48dd05"
     },
     {
         "Character": "UnbreakableSphere",

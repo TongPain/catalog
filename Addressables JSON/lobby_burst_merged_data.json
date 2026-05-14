@@ -983,8 +983,8 @@
         "Character": "Rei",
         "ID": "c392",
         "skin_code": "00",
-        "burst_id": "03fef25eead356b6018a37daeca8321a",
-        "lobby_id": "d7384ed50f1495db7bbc355cb8d31e7a"
+        "burst_id": "a555541c1c914c68aef989824a575a8a",
+        "lobby_id": "51320936700da5646d92fe18e608780f"
     },
     {
         "Character": "Guilty",
@@ -1237,6 +1237,20 @@
         "skin_code": "00",
         "burst_id": "83fbb2549b6804b8d2b491d3fd991bdc",
         "lobby_id": "288084e2e420174aee3554dcfd2f58f1"
+    },
+    {
+        "Character": "",
+        "ID": "c600",
+        "skin_code": "00",
+        "burst_id": "4c40140cc76714966feb7d26d812f616",
+        "lobby_id": "596edaed528b031b364d5cdf5a4fc66c"
+    },
+    {
+        "Character": "",
+        "ID": "c601",
+        "skin_code": "00",
+        "burst_id": "0c6d6e624b3701a6c8ab53c10008c6b3",
+        "lobby_id": "b09418ada0af50662c4bf54ac488c11e"
     },
     {
         "Character": "Mekami Shifty",

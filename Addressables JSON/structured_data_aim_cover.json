@@ -2952,6 +2952,18 @@
         "hashed_name": "32084bae351ab12309100584f0f4516e"
     },
     {
+        "file_code": "c412",
+        "skin_code": "01",
+        "type": "aim",
+        "hashed_name": "b6ef1c9f6d9aae139ccbd7c3fe19741b"
+    },
+    {
+        "file_code": "c412",
+        "skin_code": "01",
+        "type": "cover",
+        "hashed_name": "c130d756e0546130ef4549355528b7f3"
+    },
+    {
         "file_code": "c430",
         "skin_code": "00",
         "type": "aim",
@@ -3466,6 +3478,54 @@
         "skin_code": "00",
         "type": "cover",
         "hashed_name": "c74e7ac6ae0720befd9687bbce51edea"
+    },
+    {
+        "file_code": "c600",
+        "skin_code": "00",
+        "type": "aim",
+        "hashed_name": "23706ae4e60714874d6d5639a355f6b7"
+    },
+    {
+        "file_code": "c600",
+        "skin_code": "00",
+        "type": "cover",
+        "hashed_name": "a206948667158be525809ad269a113d8"
+    },
+    {
+        "file_code": "c600",
+        "skin_code": "01",
+        "type": "aim",
+        "hashed_name": "3756dc2e2be4a06cc50cb7f3f4dd5d70"
+    },
+    {
+        "file_code": "c600",
+        "skin_code": "01",
+        "type": "cover",
+        "hashed_name": "d2ab095db18a91583457f86140e34eff"
+    },
+    {
+        "file_code": "c601",
+        "skin_code": "00",
+        "type": "aim",
+        "hashed_name": "24c749383fff1546a888e48a9cee4b78"
+    },
+    {
+        "file_code": "c601",
+        "skin_code": "00",
+        "type": "cover",
+        "hashed_name": "431de27944f6eb3375adac71484191b7"
+    },
+    {
+        "file_code": "c601",
+        "skin_code": "01",
+        "type": "aim",
+        "hashed_name": "ac26c2d7616a26bd78a3a59a3390fbf0"
+    },
+    {
+        "file_code": "c601",
+        "skin_code": "01",
+        "type": "cover",
+        "hashed_name": "7d7fcd9ad2390ed5b511c2b555755351"
     },
     {
         "file_code": "c610",
