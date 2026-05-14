@@ -4,1399 +4,1441 @@
         "file_code": "c010",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c010/01/aim_hd_c68c7af8c283bc27447b87634ccdea01.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c010/01/aim_hd_c68c7af8c283bc27447b87634ccdea01.bundle"
     },
     {
         "character": "拉毗",
         "file_code": "c010",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c010/01/cover_hd_7682ccd254ddbe8ba5393d2abf7ed508.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c010/01/cover_hd_7682ccd254ddbe8ba5393d2abf7ed508.bundle"
     },
     {
         "character": "尼恩",
         "file_code": "c011",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c011/01/aim_hd_9e06bf2cc8dca6d9e51167c31102c2ee.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c011/01/aim_hd_9e06bf2cc8dca6d9e51167c31102c2ee.bundle"
     },
     {
         "character": "尼恩",
         "file_code": "c011",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c011/01/cover_hd_b98ef3dd29687541b451c864d416ecbe.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c011/01/cover_hd_b98ef3dd29687541b451c864d416ecbe.bundle"
     },
     {
         "character": "拉毗：小红帽",
         "file_code": "c016",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c016/01/aim_hd_bc7c363deb7b8922980642febf66ed4d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c016/01/aim_hd_bc7c363deb7b8922980642febf66ed4d.bundle"
     },
     {
         "character": "拉毗：小红帽",
         "file_code": "c016",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c016/01/cover_hd_2def989c62b1a1b3f1de166fd01e3fa9.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c016/01/cover_hd_2def989c62b1a1b3f1de166fd01e3fa9.bundle"
     },
     {
         "character": "阿妮斯：超级巨星",
         "file_code": "c017",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c017/01/aim_hd_7ad6a1a4ef93df5f9c895bd04d1b2adc.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c017/01/aim_hd_7ad6a1a4ef93df5f9c895bd04d1b2adc.bundle"
     },
     {
         "character": "阿妮斯：超级巨星",
         "file_code": "c017",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c017/01/cover_hd_d3de5f063f383f9665e084755ae400a4.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c017/01/cover_hd_d3de5f063f383f9665e084755ae400a4.bundle"
     },
     {
         "character": "西格娜",
         "file_code": "c022",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c022/01/aim_hd_6c36f8a28396c6f00e46184b174f8cd1.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c022/01/aim_hd_6c36f8a28396c6f00e46184b174f8cd1.bundle"
     },
     {
         "character": "西格娜",
         "file_code": "c022",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c022/01/cover_hd_290595f52f265e5bf80652d84fe5350c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c022/01/cover_hd_290595f52f265e5bf80652d84fe5350c.bundle"
     },
     {
         "character": "波莉",
         "file_code": "c030",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c030/01/aim_hd_90cc6c151da22cf75d089cbf198a7958.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c030/01/aim_hd_90cc6c151da22cf75d089cbf198a7958.bundle"
     },
     {
         "character": "波莉",
         "file_code": "c030",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c030/01/cover_hd_7c5a207cba1f71a684c25adc944ac7aa.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c030/01/cover_hd_7c5a207cba1f71a684c25adc944ac7aa.bundle"
     },
     {
         "character": "米兰达",
         "file_code": "c032",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c032/01/aim_hd_ff4e9a550038005bb751cb7c8b870565.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c032/01/aim_hd_ff4e9a550038005bb751cb7c8b870565.bundle"
     },
     {
         "character": "米兰达",
         "file_code": "c032",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c032/01/cover_hd_ac7a64d655e20b6d38d73dc12d16d8da.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c032/01/cover_hd_ac7a64d655e20b6d38d73dc12d16d8da.bundle"
     },
     {
         "character": "K",
         "file_code": "c041",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c041/01/aim_hd_19550105519a0f30f369984666f7b8da.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c041/01/aim_hd_19550105519a0f30f369984666f7b8da.bundle"
     },
     {
         "character": "K",
         "file_code": "c041",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c041/01/cover_hd_bebc4db803f78961f2faa551a778188f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c041/01/cover_hd_bebc4db803f78961f2faa551a778188f.bundle"
     },
     {
         "character": "D：杀手妻子",
         "file_code": "c043",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c043/01/aim_hd_6efc8b3918c68a857fd4601e2a64ee4f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c043/01/aim_hd_6efc8b3918c68a857fd4601e2a64ee4f.bundle"
     },
     {
         "character": "D：杀手妻子",
         "file_code": "c043",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c043/01/cover_hd_87d88f72de51bc88d6639e0a03eb38eb.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c043/01/cover_hd_87d88f72de51bc88d6639e0a03eb38eb.bundle"
     },
     {
         "character": "布丽德",
         "file_code": "c070",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c070/01/aim_hd_95e8788d4a79a76625c66dfa06016658.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c070/01/aim_hd_95e8788d4a79a76625c66dfa06016658.bundle"
     },
     {
         "character": "布丽德",
         "file_code": "c070",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c070/01/cover_hd_ba2f77232de930ff0150ff71b54fe5de.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c070/01/cover_hd_ba2f77232de930ff0150ff71b54fe5de.bundle"
     },
     {
         "character": "迪塞尔",
         "file_code": "c072",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c072/01/aim_hd_6b36cca51dabb6004d688ad8ada5b317.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c072/01/aim_hd_6b36cca51dabb6004d688ad8ada5b317.bundle"
     },
     {
         "character": "迪塞尔",
         "file_code": "c072",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c072/01/cover_hd_bd43a67e01b674a32a9d695b601037cb.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c072/01/cover_hd_bd43a67e01b674a32a9d695b601037cb.bundle"
     },
     {
         "character": "桑迪",
         "file_code": "c080",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c080/01/aim_hd_ed68e4afd35df0360612640635b45206.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c080/01/aim_hd_ed68e4afd35df0360612640635b45206.bundle"
     },
     {
         "character": "桑迪",
         "file_code": "c080",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c080/01/cover_hd_e3962c4da929cddf0bd3e408b1ec91d3.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c080/01/cover_hd_e3962c4da929cddf0bd3e408b1ec91d3.bundle"
     },
     {
         "character": "丽塔",
         "file_code": "c082",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c082/01/aim_hd_c6ee1f0ac676ac080a37506affd6eb8b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c082/01/aim_hd_c6ee1f0ac676ac080a37506affd6eb8b.bundle"
     },
     {
         "character": "丽塔",
         "file_code": "c082",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c082/01/cover_hd_3301bcfdf85998e8119b2fcf8c53b055.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c082/01/cover_hd_3301bcfdf85998e8119b2fcf8c53b055.bundle"
     },
     {
         "character": "艾玛",
         "file_code": "c090",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c090/01/aim_hd_e75eb5db2c1fce87fa536934bcd04532.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c090/01/aim_hd_e75eb5db2c1fce87fa536934bcd04532.bundle"
     },
     {
         "character": "艾玛",
         "file_code": "c090",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c090/01/cover_hd_b4dac3716d1265c391be3550f5317f04.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c090/01/cover_hd_b4dac3716d1265c391be3550f5317f04.bundle"
     },
     {
         "character": "贝斯蒂",
         "file_code": "c091",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c091/01/aim_hd_d400ae0c2f9a8037b455578cccebaab9.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c091/01/aim_hd_d400ae0c2f9a8037b455578cccebaab9.bundle"
     },
     {
         "character": "贝斯蒂",
         "file_code": "c091",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c091/01/cover_hd_332e385f0c92524f2a3f17bbc2cb742a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c091/01/cover_hd_332e385f0c92524f2a3f17bbc2cb742a.bundle"
     },
     {
         "character": "艾玛：战术升级",
         "file_code": "c093",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c093/01/aim_hd_9282228b549d3e66d193a17afb20c253.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c093/01/aim_hd_9282228b549d3e66d193a17afb20c253.bundle"
     },
     {
         "character": "艾玛：战术升级",
         "file_code": "c093",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c093/01/cover_hd_885b3c84c199b1047505fd762388504a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c093/01/cover_hd_885b3c84c199b1047505fd762388504a.bundle"
     },
     {
         "character": "贝斯蒂：战术升级",
         "file_code": "c094",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c094/01/aim_hd_1e93bc2ee71c27b392475dea8d146d0d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c094/01/aim_hd_1e93bc2ee71c27b392475dea8d146d0d.bundle"
     },
     {
         "character": "贝斯蒂：战术升级",
         "file_code": "c094",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c094/01/cover_hd_6c21ebaa5368a23f769627d9951c7f4e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c094/01/cover_hd_6c21ebaa5368a23f769627d9951c7f4e.bundle"
     },
     {
         "character": "银华：战术升级",
         "file_code": "c095",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c095/01/aim_hd_4b0fc3eb4efd079705cade9c656780b8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c095/01/aim_hd_4b0fc3eb4efd079705cade9c656780b8.bundle"
     },
     {
         "character": "银华：战术升级",
         "file_code": "c095",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c095/01/cover_hd_5982629d6e30662748db2c0ce03a3fb3.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c095/01/cover_hd_5982629d6e30662748db2c0ce03a3fb3.bundle"
     },
     {
         "character": "德雷克",
         "file_code": "c101",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c101/01/aim_hd_c406bc972fae84c88e72c0641db46829.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c101/01/aim_hd_c406bc972fae84c88e72c0641db46829.bundle"
     },
     {
         "character": "德雷克",
         "file_code": "c101",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c101/01/cover_hd_78ae81ded0d6a5565d54e7ffca575263.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c101/01/cover_hd_78ae81ded0d6a5565d54e7ffca575263.bundle"
     },
     {
         "character": "麦斯威尔",
         "file_code": "c102",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c102/01/aim_hd_dfaa37cbedce76859369f909c113cc56.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c102/01/aim_hd_dfaa37cbedce76859369f909c113cc56.bundle"
     },
     {
         "character": "麦斯威尔",
         "file_code": "c102",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c102/01/cover_hd_8f6f260cd04cfa404764850a5073a3a7.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c102/01/cover_hd_8f6f260cd04cfa404764850a5073a3a7.bundle"
     },
     {
         "character": "豺狼",
         "file_code": "c111",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c111/01/aim_hd_0af5560b47eb3f261f2f30f108f0304b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c111/01/aim_hd_0af5560b47eb3f261f2f30f108f0304b.bundle"
     },
     {
         "character": "豺狼",
         "file_code": "c111",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c111/01/cover_hd_6061de9559dc4b4c10142e758f7d4527.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c111/01/cover_hd_6061de9559dc4b4c10142e758f7d4527.bundle"
     },
     {
         "character": "毒蛇",
         "file_code": "c112",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c112/01/aim_hd_31723c0d1455375437626b787b5f8510.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c112/01/aim_hd_31723c0d1455375437626b787b5f8510.bundle"
     },
     {
         "character": "毒蛇",
         "file_code": "c112",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c112/01/cover_hd_47bf9bea2c7dbe2dbfae75f3d45698f7.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c112/01/cover_hd_47bf9bea2c7dbe2dbfae75f3d45698f7.bundle"
     },
     {
         "character": "梅里",
         "file_code": "c130",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c130/01/aim_hd_4932bde43c7209b7cc023e11235d78b1.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c130/01/aim_hd_4932bde43c7209b7cc023e11235d78b1.bundle"
     },
     {
         "character": "梅里",
         "file_code": "c130",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c130/01/cover_hd_0188dd789e8219b4fbddb280b88d6230.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c130/01/cover_hd_0188dd789e8219b4fbddb280b88d6230.bundle"
     },
     {
         "character": "佩珀",
         "file_code": "c131",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c131/01/aim_hd_e3e12739d6ab39dd0096c1aa4f76db2b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c131/01/aim_hd_e3e12739d6ab39dd0096c1aa4f76db2b.bundle"
     },
     {
         "character": "佩珀",
         "file_code": "c131",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c131/01/cover_hd_31887c6328f59b229925772e3aa65a9f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c131/01/cover_hd_31887c6328f59b229925772e3aa65a9f.bundle"
     },
     {
         "character": "舒格",
         "file_code": "c140",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c140/01/aim_hd_13cb3b5cd47b58dd2b37e9e2906b0160.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c140/01/aim_hd_13cb3b5cd47b58dd2b37e9e2906b0160.bundle"
     },
     {
         "character": "舒格",
         "file_code": "c140",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c140/01/cover_hd_2c5710d74da2e5de686472630954077a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c140/01/cover_hd_2c5710d74da2e5de686472630954077a.bundle"
     },
     {
         "character": "米尔克",
         "file_code": "c141",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c141/01/aim_hd_1426606697feb3d942a2e758c86da4bb.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c141/01/aim_hd_1426606697feb3d942a2e758c86da4bb.bundle"
     },
     {
         "character": "米尔克",
         "file_code": "c141",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c141/01/cover_hd_fc27a73cf7a019600271ff7b81bb4119.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c141/01/cover_hd_fc27a73cf7a019600271ff7b81bb4119.bundle"
     },
     {
         "character": "普琳玛",
         "file_code": "c142",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c142/01/aim_hd_3af2b0d39238c90937caf82d33cfba05.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c142/01/aim_hd_3af2b0d39238c90937caf82d33cfba05.bundle"
     },
     {
         "character": "普琳玛",
         "file_code": "c142",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c142/01/cover_hd_b891bc1dd2a9bddbd81ba56005d93651.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c142/01/cover_hd_b891bc1dd2a9bddbd81ba56005d93651.bundle"
     },
     {
         "character": "尤莉亚",
         "file_code": "c150",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c150/01/aim_hd_08ba3d440f866d4a64f0879c173a170a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c150/01/aim_hd_08ba3d440f866d4a64f0879c173a170a.bundle"
     },
     {
         "character": "尤莉亚",
         "file_code": "c150",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c150/01/cover_hd_15599c55ba889703ddd9afb0d34d57ce.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c150/01/cover_hd_15599c55ba889703ddd9afb0d34d57ce.bundle"
     },
     {
         "character": "尤妮",
         "file_code": "c160",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c160/01/aim_hd_4b99b17fa15405d23139a0df9d23f7b8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c160/01/aim_hd_4b99b17fa15405d23139a0df9d23f7b8.bundle"
     },
     {
         "character": "尤妮",
         "file_code": "c160",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c160/01/cover_hd_2f4d978d1b91da011b37d2c6bed034cb.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c160/01/cover_hd_2f4d978d1b91da011b37d2c6bed034cb.bundle"
     },
     {
         "character": "米哈拉：羁绊锁链",
         "file_code": "c162",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c162/01/aim_hd_9d06504c33575a07d0600b33b03690ff.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c162/01/aim_hd_9d06504c33575a07d0600b33b03690ff.bundle"
     },
     {
         "character": "米哈拉：羁绊锁链",
         "file_code": "c162",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c162/01/cover_hd_039b9ff4e40b9acef151e6d52b87a693.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c162/01/cover_hd_039b9ff4e40b9acef151e6d52b87a693.bundle"
     },
     {
         "character": "普丽瓦蒂",
         "file_code": "c170",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c170/01/aim_hd_c315336f7d9b6011b9a57f120abb299b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c170/01/aim_hd_c315336f7d9b6011b9a57f120abb299b.bundle"
     },
     {
         "character": "普丽瓦蒂",
         "file_code": "c170",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c170/01/cover_hd_2fcba081ade03e3d24f5cd397f971b47.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c170/01/cover_hd_2fcba081ade03e3d24f5cd397f971b47.bundle"
     },
     {
         "character": "吉萝婷",
         "file_code": "c180",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c180/01/aim_hd_0b8f08959d715b2802fdb7bb506cd0bc.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c180/01/aim_hd_0b8f08959d715b2802fdb7bb506cd0bc.bundle"
     },
     {
         "character": "吉萝婷",
         "file_code": "c180",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c180/01/cover_hd_170ad81ec0fce114fdc85376ca2b9441.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c180/01/cover_hd_170ad81ec0fce114fdc85376ca2b9441.bundle"
     },
     {
         "character": "梅登",
         "file_code": "c181",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c181/01/aim_hd_def6649d3daf9d0554f42e471c47ec9a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c181/01/aim_hd_def6649d3daf9d0554f42e471c47ec9a.bundle"
     },
     {
         "character": "梅登",
         "file_code": "c181",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c181/01/cover_hd_bc6eba01d9e4d8aace8e5bd599335b26.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c181/01/cover_hd_bc6eba01d9e4d8aace8e5bd599335b26.bundle"
     },
     {
         "character": "爱丽丝",
         "file_code": "c191",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c191/01/aim_hd_eb46ebe0ff319c76c1656317f648717c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c191/01/aim_hd_eb46ebe0ff319c76c1656317f648717c.bundle"
     },
     {
         "character": "爱丽丝",
         "file_code": "c191",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c191/01/cover_hd_c8fff76c87561e653581de6c755baad3.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c191/01/cover_hd_c8fff76c87561e653581de6c755baad3.bundle"
     },
     {
         "character": "托比",
         "file_code": "c192",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c192/01/aim_hd_87b7c8aa4cd7fdd09184f13806d8ec63.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c192/01/aim_hd_87b7c8aa4cd7fdd09184f13806d8ec63.bundle"
     },
     {
         "character": "托比",
         "file_code": "c192",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c192/01/cover_hd_95e73d38bb8680082138f6227df89677.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c192/01/cover_hd_95e73d38bb8680082138f6227df89677.bundle"
     },
     {
         "character": "露菲",
         "file_code": "c200",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c200/01/aim_hd_1541b2e1f906719a7f5a7c3df3cc092c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c200/01/aim_hd_1541b2e1f906719a7f5a7c3df3cc092c.bundle"
     },
     {
         "character": "露菲",
         "file_code": "c200",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c200/01/cover_hd_dbc5f891050f05e73f13d52c291981e2.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c200/01/cover_hd_dbc5f891050f05e73f13d52c291981e2.bundle"
     },
     {
         "character": "杨",
         "file_code": "c201",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c201/01/aim_hd_666df9f87818ff569b2902f4f77926c4.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c201/01/aim_hd_666df9f87818ff569b2902f4f77926c4.bundle"
     },
     {
         "character": "杨",
         "file_code": "c201",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c201/01/cover_hd_91053cef65364798450544267c5c4534.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c201/01/cover_hd_91053cef65364798450544267c5c4534.bundle"
     },
     {
         "character": "朵拉",
         "file_code": "c202",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c202/01/aim_hd_901b5543b59b195537ec880800fcf7dd.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c202/01/aim_hd_901b5543b59b195537ec880800fcf7dd.bundle"
     },
     {
         "character": "朵拉",
         "file_code": "c202",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c202/01/cover_hd_3108757ad548f9cc2a21f44c6272b2a1.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c202/01/cover_hd_3108757ad548f9cc2a21f44c6272b2a1.bundle"
     },
     {
         "character": "艾可希雅",
         "file_code": "c210",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c210/01/aim_hd_cf443efea50740073f86decfef4d126f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c210/01/aim_hd_cf443efea50740073f86decfef4d126f.bundle"
     },
     {
         "character": "艾可希雅",
         "file_code": "c210",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c210/01/cover_hd_57aeed9ff1708ed8ab7599f84502df7b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c210/01/cover_hd_57aeed9ff1708ed8ab7599f84502df7b.bundle"
     },
     {
         "character": "诺薇儿",
         "file_code": "c212",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c212/01/aim_hd_b4082a5355e98477cbc0f2f1640fd8b1.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c212/01/aim_hd_b4082a5355e98477cbc0f2f1640fd8b1.bundle"
     },
     {
         "character": "诺薇儿",
         "file_code": "c212",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c212/01/cover_hd_0aaa36d0176150850184ada0bd95b656.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c212/01/cover_hd_0aaa36d0176150850184ada0bd95b656.bundle"
     },
     {
         "character": "白雪公主",
         "file_code": "c220",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c220/01/aim_hd_63d4508180869d0501c3ed8cfb329cb0.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c220/01/aim_hd_63d4508180869d0501c3ed8cfb329cb0.bundle"
     },
     {
         "character": "白雪公主",
         "file_code": "c220",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c220/01/cover_hd_f5657feebe3b946a7e9a95965df06b6a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c220/01/cover_hd_f5657feebe3b946a7e9a95965df06b6a.bundle"
     },
     {
         "character": "红莲",
         "file_code": "c222",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c222/01/aim_hd_99a92526276598db18d6ac9e7d7dad4b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c222/01/aim_hd_99a92526276598db18d6ac9e7d7dad4b.bundle"
     },
     {
         "character": "红莲",
         "file_code": "c222",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c222/01/cover_hd_a7a29dd9f411768a3b5f33a71cf79cde.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c222/01/cover_hd_a7a29dd9f411768a3b5f33a71cf79cde.bundle"
     },
     {
         "character": "娜由塔",
         "file_code": "c223",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c223/01/aim_hd_ecb4c5e1861d79b2a2fb8260577818f9.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c223/01/aim_hd_ecb4c5e1861d79b2a2fb8260577818f9.bundle"
     },
     {
         "character": "娜由塔",
         "file_code": "c223",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c223/01/cover_hd_f06fcf97d891200b953cacf0cbdeb762.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c223/01/cover_hd_f06fcf97d891200b953cacf0cbdeb762.bundle"
     },
     {
         "character": "红莲：暗影",
         "file_code": "c225",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c225/01/aim_hd_27890a2de5597507feb40b5f4b0be788.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c225/01/aim_hd_27890a2de5597507feb40b5f4b0be788.bundle"
     },
     {
         "character": "红莲：暗影",
         "file_code": "c225",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c225/01/cover_hd_bb63c9f0274460b0a8c2d17a807b9a8d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c225/01/cover_hd_bb63c9f0274460b0a8c2d17a807b9a8d.bundle"
     },
     {
         "character": "哈兰",
         "file_code": "c230",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c230/01/aim_hd_2a453d37ad00f845574c48f69f58f38b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c230/01/aim_hd_2a453d37ad00f845574c48f69f58f38b.bundle"
     },
     {
         "character": "哈兰",
         "file_code": "c230",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c230/01/cover_hd_90c68b69c9b5b8e0b4b6798ea8833bbe.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c230/01/cover_hd_90c68b69c9b5b8e0b4b6798ea8833bbe.bundle"
     },
     {
         "character": "伊莎贝尔",
         "file_code": "c231",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c231/01/aim_hd_49a6bbdbf2e1ecad17f5f8ae9abacf31.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c231/01/aim_hd_49a6bbdbf2e1ecad17f5f8ae9abacf31.bundle"
     },
     {
         "character": "伊莎贝尔",
         "file_code": "c231",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c231/01/cover_hd_215a42f80bba0d679ef170fed6c15d27.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c231/01/cover_hd_215a42f80bba0d679ef170fed6c15d27.bundle"
     },
     {
         "character": "桃乐丝",
         "file_code": "c233",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c233/01/aim_hd_b7b0455a74b9c42b030f31adfc64fe7d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c233/01/aim_hd_b7b0455a74b9c42b030f31adfc64fe7d.bundle"
     },
     {
         "character": "桃乐丝",
         "file_code": "c233",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c233/01/cover_hd_cafee6bedf9fede680fa05d94420c851.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c233/01/cover_hd_cafee6bedf9fede680fa05d94420c851.bundle"
     },
     {
         "character": "富克旺",
         "file_code": "c242",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c242/01/aim_hd_80488d387f253ba08152319bf527e2ba.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c242/01/aim_hd_80488d387f253ba08152319bf527e2ba.bundle"
     },
     {
         "character": "富克旺",
         "file_code": "c242",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c242/01/cover_hd_ca2053203410ad205d3aa2403d606496.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c242/01/cover_hd_ca2053203410ad205d3aa2403d606496.bundle"
     },
     {
         "character": "神罚",
         "file_code": "c260",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c260/01/aim_hd_2ac1e2f01f8575e5749f5f2abddfdcc5.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c260/01/aim_hd_2ac1e2f01f8575e5749f5f2abddfdcc5.bundle"
     },
     {
         "character": "神罚",
         "file_code": "c260",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c260/01/cover_hd_e05f007a5a1cbe270bb88a5a728d3cfa.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c260/01/cover_hd_e05f007a5a1cbe270bb88a5a728d3cfa.bundle"
     },
     {
         "character": "莉贝雷利奥",
         "file_code": "c262",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c262/01/aim_hd_d39440f587fdf9ee215fa468f0d62d4f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c262/01/aim_hd_d39440f587fdf9ee215fa468f0d62d4f.bundle"
     },
     {
         "character": "莉贝雷利奥",
         "file_code": "c262",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c262/01/cover_hd_1cddee4d43b905ffc8c4e3807f804371.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c262/01/cover_hd_1cddee4d43b905ffc8c4e3807f804371.bundle"
     },
     {
         "character": "布兰儿",
         "file_code": "c270",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c270/01/aim_hd_e8729667d68b88dd21e5562ea0134acd.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c270/01/aim_hd_e8729667d68b88dd21e5562ea0134acd.bundle"
     },
     {
         "character": "布兰儿",
         "file_code": "c270",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c270/01/cover_hd_820d52390e9d0e6a518be777057e9154.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c270/01/cover_hd_820d52390e9d0e6a518be777057e9154.bundle"
     },
     {
         "character": "诺亚尔",
         "file_code": "c271",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c271/01/aim_hd_2aa983d7070ec555e30358b5b9cb0dd8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c271/01/aim_hd_2aa983d7070ec555e30358b5b9cb0dd8.bundle"
     },
     {
         "character": "诺亚尔",
         "file_code": "c271",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c271/01/cover_hd_d1cb695e929ff011b8d6ea0e73a5be69.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c271/01/cover_hd_d1cb695e929ff011b8d6ea0e73a5be69.bundle"
     },
     {
         "character": "露姬",
         "file_code": "c272",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c272/01/aim_hd_50ad488881ebf459a2995dab4ec00556.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c272/01/aim_hd_50ad488881ebf459a2995dab4ec00556.bundle"
     },
     {
         "character": "露姬",
         "file_code": "c272",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c272/01/cover_hd_0a8784c505d2a9295ed72987fc7de205.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c272/01/cover_hd_0a8784c505d2a9295ed72987fc7de205.bundle"
     },
     {
         "character": "罗珊娜",
         "file_code": "c280",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c280/01/aim_hd_1031bb5295cc85b7754557dd3046f5e5.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c280/01/aim_hd_1031bb5295cc85b7754557dd3046f5e5.bundle"
     },
     {
         "character": "罗珊娜",
         "file_code": "c280",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c280/01/cover_hd_378bb4da0b0665dccfb046b849f85076.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c280/01/cover_hd_378bb4da0b0665dccfb046b849f85076.bundle"
     },
     {
         "character": "牡丹",
         "file_code": "c281",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c281/01/aim_hd_eaaf34413b50c4b42aa10b3733d4b853.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c281/01/aim_hd_eaaf34413b50c4b42aa10b3733d4b853.bundle"
     },
     {
         "character": "牡丹",
         "file_code": "c281",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c281/01/cover_hd_36fcc1b8eb9b17678880966c83e435ef.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c281/01/cover_hd_36fcc1b8eb9b17678880966c83e435ef.bundle"
     },
     {
         "character": "樱花",
         "file_code": "c282",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c282/01/aim_hd_4849c3b991962ef6e3ee8dc88eb69648.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c282/01/aim_hd_4849c3b991962ef6e3ee8dc88eb69648.bundle"
     },
     {
         "character": "樱花",
         "file_code": "c282",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c282/01/cover_hd_af5a15ab7df2c50d54e8fb1be5c06d75.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c282/01/cover_hd_af5a15ab7df2c50d54e8fb1be5c06d75.bundle"
     },
     {
         "character": "爱德",
         "file_code": "c310",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c310/01/aim_hd_502160d0d6379999ecb35c8a5bd7b363.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c310/01/aim_hd_502160d0d6379999ecb35c8a5bd7b363.bundle"
     },
     {
         "character": "爱德",
         "file_code": "c310",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c310/01/cover_hd_f46d3f7058a64ae02619c71f5b435995.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c310/01/cover_hd_f46d3f7058a64ae02619c71f5b435995.bundle"
     },
     {
         "character": "薇尔维特",
         "file_code": "c316",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c316/01/aim_hd_7789d0c208c0912c9ae047e58fc308ea.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c316/01/aim_hd_7789d0c208c0912c9ae047e58fc308ea.bundle"
     },
     {
         "character": "薇尔维特",
         "file_code": "c316",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c316/01/cover_hd_ff6e494ecd2cf1f7f97915906dd6bfde.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c316/01/cover_hd_ff6e494ecd2cf1f7f97915906dd6bfde.bundle"
     },
     {
         "character": "玛律恰那",
         "file_code": "c321",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c321/01/aim_hd_e05c4389452a2b1fcb981c12671aa421.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c321/01/aim_hd_e05c4389452a2b1fcb981c12671aa421.bundle"
     },
     {
         "character": "玛律恰那",
         "file_code": "c321",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c321/01/cover_hd_cef6f90b02d7456145929529e0529712.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c321/01/cover_hd_cef6f90b02d7456145929529e0529712.bundle"
     },
     {
         "character": "皇冠",
         "file_code": "c330",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c330/01/aim_hd_3ec7fb4e0a8e4cc86ff15f4dbe21e04e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c330/01/aim_hd_3ec7fb4e0a8e4cc86ff15f4dbe21e04e.bundle"
     },
     {
         "character": "皇冠",
         "file_code": "c330",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c330/01/cover_hd_ef818233cfebad5dad203b94c467ca1d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c330/01/cover_hd_ef818233cfebad5dad203b94c467ca1d.bundle"
     },
     {
         "character": "马斯特",
         "file_code": "c350",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c350/01/aim_hd_9f04f6d5e2e2999a0f2cd6db85fdf89d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c350/01/aim_hd_9f04f6d5e2e2999a0f2cd6db85fdf89d.bundle"
     },
     {
         "character": "马斯特",
         "file_code": "c350",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c350/01/cover_hd_aca1a57075a4482fab4852ac14e0d54a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c350/01/cover_hd_aca1a57075a4482fab4852ac14e0d54a.bundle"
     },
     {
         "character": "安克",
         "file_code": "c351",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c351/01/aim_hd_b88349a092cb3eda2d7bec7b0ab5fa5a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c351/01/aim_hd_b88349a092cb3eda2d7bec7b0ab5fa5a.bundle"
     },
     {
         "character": "安克",
         "file_code": "c351",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c351/01/cover_hd_477984f805316888fc109100d380df00.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c351/01/cover_hd_477984f805316888fc109100d380df00.bundle"
     },
     {
         "character": "海伦",
         "file_code": "c352",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c352/01/aim_hd_aa47714673cd11284ff1e83c28d1cdf1.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c352/01/aim_hd_aa47714673cd11284ff1e83c28d1cdf1.bundle"
     },
     {
         "character": "海伦",
         "file_code": "c352",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c352/01/cover_hd_99d39b71705ebbb577eafe43010522a5.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c352/01/cover_hd_99d39b71705ebbb577eafe43010522a5.bundle"
     },
     {
         "character": "马斯特：浪漫的女仆",
         "file_code": "c354",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c354/01/aim_hd_652bcb15e3f998de389fb13263feefb1.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c354/01/aim_hd_652bcb15e3f998de389fb13263feefb1.bundle"
     },
     {
         "character": "马斯特：浪漫的女仆",
         "file_code": "c354",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c354/01/cover_hd_9e32c75890e790ab1544c5b3cfbff42e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c354/01/cover_hd_9e32c75890e790ab1544c5b3cfbff42e.bundle"
     },
     {
         "character": "饼干",
         "file_code": "c381",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c381/01/aim_hd_7fcc8bd20ee2ac6fb0f346c55c9fbec2.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c381/01/aim_hd_7fcc8bd20ee2ac6fb0f346c55c9fbec2.bundle"
     },
     {
         "character": "饼干",
         "file_code": "c381",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c381/01/cover_hd_fc988c1c276def2ccb9adb7fb542640f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c381/01/cover_hd_fc988c1c276def2ccb9adb7fb542640f.bundle"
     },
     {
         "character": "莱昂纳",
         "file_code": "c382",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c382/01/aim_hd_9d84dee3ce3114ad452d83e4e1649e9e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c382/01/aim_hd_9d84dee3ce3114ad452d83e4e1649e9e.bundle"
     },
     {
         "character": "莱昂纳",
         "file_code": "c382",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c382/01/cover_hd_6276d9d3805791dd84ffcfc736da4181.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c382/01/cover_hd_6276d9d3805791dd84ffcfc736da4181.bundle"
     },
     {
         "character": "茨瓦伊",
         "file_code": "c390",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c390/01/aim_hd_a0bca7ec6b4dd029876d911add6cdf12.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c390/01/aim_hd_a0bca7ec6b4dd029876d911add6cdf12.bundle"
     },
     {
         "character": "茨瓦伊",
         "file_code": "c390",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c390/01/cover_hd_e31cab529dbaf58f503010f194d0cc87.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c390/01/cover_hd_e31cab529dbaf58f503010f194d0cc87.bundle"
     },
     {
         "character": "爱因",
         "file_code": "c391",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c391/01/aim_hd_2007dc8ea2492adf30ba5ebcb21570ea.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c391/01/aim_hd_2007dc8ea2492adf30ba5ebcb21570ea.bundle"
     },
     {
         "character": "爱因",
         "file_code": "c391",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c391/01/cover_hd_eadb99251af7cffadb32b3e4c72532aa.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c391/01/cover_hd_eadb99251af7cffadb32b3e4c72532aa.bundle"
     },
     {
         "character": "吉尔提",
         "file_code": "c400",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c400/01/aim_hd_9467c5948b0134c7da376c6fa3c7827d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c400/01/aim_hd_9467c5948b0134c7da376c6fa3c7827d.bundle"
     },
     {
         "character": "吉尔提",
         "file_code": "c400",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c400/01/cover_hd_cf9f0104b6edfd910f2a6f5336fb40e2.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c400/01/cover_hd_cf9f0104b6edfd910f2a6f5336fb40e2.bundle"
     },
     {
         "character": "森",
         "file_code": "c401",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c401/01/aim_hd_f466eb255887d3a422d3f7df6a4b86f7.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c401/01/aim_hd_f466eb255887d3a422d3f7df6a4b86f7.bundle"
     },
     {
         "character": "森",
         "file_code": "c401",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c401/01/cover_hd_236122e35f533efbf280b1e0d447840f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c401/01/cover_hd_236122e35f533efbf280b1e0d447840f.bundle"
     },
     {
         "character": "坎西：逃生女王",
         "file_code": "c403",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c403/01/aim_hd_62af0029c2e48f6c9ceecc2db1e450f8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c403/01/aim_hd_62af0029c2e48f6c9ceecc2db1e450f8.bundle"
     },
     {
         "character": "坎西：逃生女王",
         "file_code": "c403",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c403/01/cover_hd_36f625a2b87aa8a7f69d4f19c8d20748.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c403/01/cover_hd_36f625a2b87aa8a7f69d4f19c8d20748.bundle"
+    },
+    {
+        "character": "特蕾娜",
+        "file_code": "c412",
+        "skin_code": "01",
+        "type": "aim",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c412/01/aim_hd_b6ef1c9f6d9aae139ccbd7c3fe19741b.bundle"
+    },
+    {
+        "character": "特蕾娜",
+        "file_code": "c412",
+        "skin_code": "01",
+        "type": "cover",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c412/01/cover_hd_c130d756e0546130ef4549355528b7f3.bundle"
     },
     {
         "character": "诺伊斯",
         "file_code": "c430",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c430/01/aim_hd_2a348818f23cb05e0dbe8f9381281656.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c430/01/aim_hd_2a348818f23cb05e0dbe8f9381281656.bundle"
     },
     {
         "character": "诺伊斯",
         "file_code": "c430",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c430/01/cover_hd_d0c5b6f5a085448cf306c3b69deb65d6.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c430/01/cover_hd_d0c5b6f5a085448cf306c3b69deb65d6.bundle"
     },
     {
         "character": "沃纶姆",
         "file_code": "c431",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c431/01/aim_hd_25bb8f61324bf512beb298e995584bbf.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c431/01/aim_hd_25bb8f61324bf512beb298e995584bbf.bundle"
     },
     {
         "character": "沃纶姆",
         "file_code": "c431",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c431/01/cover_hd_bb48009c85f35388cce657335c09b6bc.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c431/01/cover_hd_bb48009c85f35388cce657335c09b6bc.bundle"
     },
     {
         "character": "娜嘉",
         "file_code": "c450",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c450/01/aim_hd_e57786f3dc0e52fdddd7625a28e0fcab.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c450/01/aim_hd_e57786f3dc0e52fdddd7625a28e0fcab.bundle"
     },
     {
         "character": "娜嘉",
         "file_code": "c450",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c450/01/cover_hd_53dfe164bce9cb42f0e132e42d8b1e77.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c450/01/cover_hd_53dfe164bce9cb42f0e132e42d8b1e77.bundle"
     },
     {
         "character": "蒂亚",
         "file_code": "c451",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c451/01/aim_hd_4b961b07f49df1e68ddc60541c01e230.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c451/01/aim_hd_4b961b07f49df1e68ddc60541c01e230.bundle"
     },
     {
         "character": "蒂亚",
         "file_code": "c451",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c451/01/cover_hd_2282698b13cb1dee9e566b22e00909e8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c451/01/cover_hd_2282698b13cb1dee9e566b22e00909e8.bundle"
     },
     {
         "character": "小红帽",
         "file_code": "c470",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c470/01/aim_hd_6d35b241882378d8aef95517e6f37718.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c470/01/aim_hd_6d35b241882378d8aef95517e6f37718.bundle"
     },
     {
         "character": "小红帽",
         "file_code": "c470",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c470/01/cover_hd_16389a04b91b90f9c44036e537d7083f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c470/01/cover_hd_16389a04b91b90f9c44036e537d7083f.bundle"
     },
     {
         "character": "特罗尼",
         "file_code": "c501",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c501/01/aim_hd_0f010347c3578d6b77ad6bec363c9985.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c501/01/aim_hd_0f010347c3578d6b77ad6bec363c9985.bundle"
     },
     {
         "character": "特罗尼",
         "file_code": "c501",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c501/01/cover_hd_eb13a18ab4b93406915a20286cbc5345.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c501/01/cover_hd_eb13a18ab4b93406915a20286cbc5345.bundle"
     },
     {
         "character": "灰姑娘",
         "file_code": "c511",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c511/01/aim_hd_55d8c6a7c6af86e3b89d86a5586842cd.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c511/01/aim_hd_55d8c6a7c6af86e3b89d86a5586842cd.bundle"
     },
     {
         "character": "灰姑娘",
         "file_code": "c511",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c511/01/cover_hd_0e4bc32ea4441fad723796636216eb27.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c511/01/cover_hd_0e4bc32ea4441fad723796636216eb27.bundle"
     },
     {
         "character": "小美人鱼",
         "file_code": "c513",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c513/01/aim_hd_e52c4822e1bd94295631f74f65ddc1d5.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c513/01/aim_hd_e52c4822e1bd94295631f74f65ddc1d5.bundle"
     },
     {
         "character": "小美人鱼",
         "file_code": "c513",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c513/01/cover_hd_bff13f78859f87dc3e75e7a0267b6613.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c513/01/cover_hd_bff13f78859f87dc3e75e7a0267b6613.bundle"
     },
     {
         "character": "格拉维",
         "file_code": "c514",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c514/01/aim_hd_2af620a20bd1ec2cb5c7cf75e4020761.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c514/01/aim_hd_2af620a20bd1ec2cb5c7cf75e4020761.bundle"
     },
     {
         "character": "格拉维",
         "file_code": "c514",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c514/01/cover_hd_8d4cafc7a1b0da8826e0c3cc5877db52.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c514/01/cover_hd_8d4cafc7a1b0da8826e0c3cc5877db52.bundle"
     },
     {
         "character": "布蕾德",
         "file_code": "c520",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c520/01/aim_hd_64bd309b1001e50b84934d5f2b97748e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c520/01/aim_hd_64bd309b1001e50b84934d5f2b97748e.bundle"
     },
     {
         "character": "布蕾德",
         "file_code": "c520",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c520/01/cover_hd_58b79a719b7e16899140866f88a5cbf3.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c520/01/cover_hd_58b79a719b7e16899140866f88a5cbf3.bundle"
     },
     {
         "character": "索拉",
         "file_code": "c532",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c532/01/aim_hd_1702810ddfe8f2d4579ca3107ba92dd6.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c532/01/aim_hd_1702810ddfe8f2d4579ca3107ba92dd6.bundle"
     },
     {
         "character": "索拉",
         "file_code": "c532",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c532/01/cover_hd_c2a69aebceb33983d9345a52d43cfec1.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c532/01/cover_hd_c2a69aebceb33983d9345a52d43cfec1.bundle"
     },
     {
         "character": "贝伊",
         "file_code": "c550",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c550/01/aim_hd_41a85946c3df1a7fa53e9d74e4c96e9d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c550/01/aim_hd_41a85946c3df1a7fa53e9d74e4c96e9d.bundle"
     },
     {
         "character": "贝伊",
         "file_code": "c550",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c550/01/cover_hd_8544cfaac05b6644062de9944309f3d0.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c550/01/cover_hd_8544cfaac05b6644062de9944309f3d0.bundle"
     },
     {
         "character": "克雷伊",
         "file_code": "c551",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c551/01/aim_hd_5eb96a102d452c40ec902c271a414ba0.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c551/01/aim_hd_5eb96a102d452c40ec902c271a414ba0.bundle"
     },
     {
         "character": "克雷伊",
         "file_code": "c551",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c551/01/cover_hd_27684ac4b3c20cc60c2ddde501a29d7d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c551/01/cover_hd_27684ac4b3c20cc60c2ddde501a29d7d.bundle"
+    },
+    {
+        "character": "敏特",
+        "file_code": "c600",
+        "skin_code": "01",
+        "type": "aim",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c600/01/aim_hd_3756dc2e2be4a06cc50cb7f3f4dd5d70.bundle"
+    },
+    {
+        "character": "敏特",
+        "file_code": "c600",
+        "skin_code": "01",
+        "type": "cover",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c600/01/cover_hd_d2ab095db18a91583457f86140e34eff.bundle"
+    },
+    {
+        "character": "普莉卡",
+        "file_code": "c601",
+        "skin_code": "01",
+        "type": "aim",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c601/01/aim_hd_ac26c2d7616a26bd78a3a59a3390fbf0.bundle"
+    },
+    {
+        "character": "普莉卡",
+        "file_code": "c601",
+        "skin_code": "01",
+        "type": "cover",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c601/01/cover_hd_7d7fcd9ad2390ed5b511c2b555755351.bundle"
     },
     {
         "character": "玛奇玛",
         "file_code": "c800",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c800/01/aim_hd_af679970f233f1432b60fef28ca56e5d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c800/01/aim_hd_af679970f233f1432b60fef28ca56e5d.bundle"
     },
     {
         "character": "玛奇玛",
         "file_code": "c800",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c800/01/cover_hd_ca457be465455b1e1bf41345476feef0.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c800/01/cover_hd_ca457be465455b1e1bf41345476feef0.bundle"
     },
     {
         "character": "2b",
         "file_code": "c810",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c810/01/aim_hd_f11c7d9ab45745b8828fa101ae8d39dd.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c810/01/aim_hd_f11c7d9ab45745b8828fa101ae8d39dd.bundle"
     },
     {
         "character": "2b",
         "file_code": "c810",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c810/01/cover_hd_4df61ebba5edebd8ae44cd359a02c7f7.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c810/01/cover_hd_4df61ebba5edebd8ae44cd359a02c7f7.bundle"
     },
     {
         "character": "A2",
         "file_code": "c811",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c811/01/aim_hd_a6b3bb358a9b8ef60d7158921d7da0f2.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c811/01/aim_hd_a6b3bb358a9b8ef60d7158921d7da0f2.bundle"
     },
     {
         "character": "A2",
         "file_code": "c811",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c811/01/cover_hd_048d41b0ae02311fa244027680c8cce3.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c811/01/cover_hd_048d41b0ae02311fa244027680c8cce3.bundle"
     },
     {
         "character": "雷姆",
         "file_code": "c820",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c820/01/aim_hd_931ea6d747aca71f3f5c47f3c61c311c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c820/01/aim_hd_931ea6d747aca71f3f5c47f3c61c311c.bundle"
     },
     {
         "character": "雷姆",
         "file_code": "c820",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c820/01/cover_hd_a9edca533ec57b33837b9cc6d75e0adc.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c820/01/cover_hd_a9edca533ec57b33837b9cc6d75e0adc.bundle"
     },
     {
         "character": "爱蜜莉雅",
         "file_code": "c821",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c821/01/aim_hd_87f4d160dc76f9e408a60c7eb8b2e367.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c821/01/aim_hd_87f4d160dc76f9e408a60c7eb8b2e367.bundle"
     },
     {
         "character": "爱蜜莉雅",
         "file_code": "c821",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c821/01/cover_hd_a1de16af116e48ec0042092cc68ae6ec.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c821/01/cover_hd_a1de16af116e48ec0042092cc68ae6ec.bundle"
     },
     {
         "character": "明日香",
         "file_code": "c830",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c830/01/aim_hd_78febce08a7dab85cae6d13bd42bb3fd.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c830/01/aim_hd_78febce08a7dab85cae6d13bd42bb3fd.bundle"
     },
     {
         "character": "明日香",
         "file_code": "c830",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c830/01/cover_hd_abafd1b57e9a6f8ae85c6364821cb7f1.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c830/01/cover_hd_abafd1b57e9a6f8ae85c6364821cb7f1.bundle"
     },
     {
         "character": "零",
         "file_code": "c831",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c831/01/aim_hd_cde7e536fe92febb84a15b22940a45aa.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c831/01/aim_hd_cde7e536fe92febb84a15b22940a45aa.bundle"
     },
     {
         "character": "零",
         "file_code": "c831",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c831/01/cover_hd_1ed8c25e34259620adf4d9b574e4f77c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c831/01/cover_hd_1ed8c25e34259620adf4d9b574e4f77c.bundle"
     },
     {
         "character": "真理",
         "file_code": "c832",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c832/01/aim_hd_e316a01eb7632b5f5a19b1a502a6edcf.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c832/01/aim_hd_e316a01eb7632b5f5a19b1a502a6edcf.bundle"
     },
     {
         "character": "真理",
         "file_code": "c832",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c832/01/cover_hd_116400faffcc9ae9aab296983e1bd9e2.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c832/01/cover_hd_116400faffcc9ae9aab296983e1bd9e2.bundle"
     },
     {
         "character": "零（暂称）",
         "file_code": "c834",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c834/01/aim_hd_8112b76c020284a2e6734d69b2d739d1.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c834/01/aim_hd_8112b76c020284a2e6734d69b2d739d1.bundle"
     },
     {
         "character": "零（暂称）",
         "file_code": "c834",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c834/01/cover_hd_281732361d9505f9eb86ab03d55bab78.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c834/01/cover_hd_281732361d9505f9eb86ab03d55bab78.bundle"
     },
     {
         "character": "明日香：wille",
         "file_code": "c835",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c835/01/aim_hd_668a15824ec42769125ea5bd23b7e3c7.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c835/01/aim_hd_668a15824ec42769125ea5bd23b7e3c7.bundle"
     },
     {
         "character": "明日香：wille",
         "file_code": "c835",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c835/01/cover_hd_567e89f2dc06e42065ea4cadbdedbe01.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c835/01/cover_hd_567e89f2dc06e42065ea4cadbdedbe01.bundle"
     },
     {
         "character": "艾达",
         "file_code": "c840",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c840/01/aim_hd_772351d9cb7223701f8ea11aa63b0880.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c840/01/aim_hd_772351d9cb7223701f8ea11aa63b0880.bundle"
     },
     {
         "character": "艾达",
         "file_code": "c840",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c840/01/cover_hd_83422f19c57d9de84a5f237bf6172c4a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c840/01/cover_hd_83422f19c57d9de84a5f237bf6172c4a.bundle"
     },
     {
         "character": "吉儿",
         "file_code": "c841",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c841/01/aim_hd_9c1d4c76cee7c209b90ddfd01b50fb71.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c841/01/aim_hd_9c1d4c76cee7c209b90ddfd01b50fb71.bundle"
     },
     {
         "character": "吉儿",
         "file_code": "c841",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c841/01/cover_hd_49243c8c452f79566a33ebbf5e34228c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c841/01/cover_hd_49243c8c452f79566a33ebbf5e34228c.bundle"
     },
     {
         "character": "伊芙",
         "file_code": "c850",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c850/01/aim_hd_da4bff7d91ce3034de623047fd7b73e2.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c850/01/aim_hd_da4bff7d91ce3034de623047fd7b73e2.bundle"
     },
     {
         "character": "伊芙",
         "file_code": "c850",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c850/01/cover_hd_1cf440c7751acdcceb9dc0525c94cdd6.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c850/01/cover_hd_1cf440c7751acdcceb9dc0525c94cdd6.bundle"
     },
     {
         "character": "渡鸦",
         "file_code": "c851",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c851/01/aim_hd_e69053056b8c560c1a60cef2be6dd9e2.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c851/01/aim_hd_e69053056b8c560c1a60cef2be6dd9e2.bundle"
     },
     {
         "character": "渡鸦",
         "file_code": "c851",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c851/01/cover_hd_ae3066a3203c257bc1210cfe840aa03c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c851/01/cover_hd_ae3066a3203c257bc1210cfe840aa03c.bundle"
     },
     {
         "character": "千束",
         "file_code": "c860",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c860/01/aim_hd_e814493ed01c68246a864ddc0464d513.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c860/01/aim_hd_e814493ed01c68246a864ddc0464d513.bundle"
     },
     {
         "character": "千束",
         "file_code": "c860",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c860/01/cover_hd_e8331e6e004be843a2e31031e608b19e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c860/01/cover_hd_e8331e6e004be843a2e31031e608b19e.bundle"
     },
     {
         "character": "泷奈",
         "file_code": "c861",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c861/01/aim_hd_7de43c62281482cc98d00705f3a18b01.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c861/01/aim_hd_7de43c62281482cc98d00705f3a18b01.bundle"
     },
     {
         "character": "泷奈",
         "file_code": "c861",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/145-bd67b127b6/StandaloneWindows64/pck/dp/b9f2ec2/spinecombatcharactergroup(hd)_assets_spine/combat/c861/01/cover_hd_ac81315624e97c85d13b998ca6f13958.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/146-baf6334ebb/StandaloneWindows64/pck/dp/d5cee04/spinecombatcharactergroup(hd)_assets_spine/combat/c861/01/cover_hd_ac81315624e97c85d13b998ca6f13958.bundle"
     }
 ]
