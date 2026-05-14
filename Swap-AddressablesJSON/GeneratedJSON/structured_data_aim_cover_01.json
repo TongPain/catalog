@@ -994,6 +994,20 @@
         "hashed_name": "36f625a2b87aa8a7f69d4f19c8d20748"
     },
     {
+        "character": "特蕾娜",
+        "file_code": "c412",
+        "skin_code": "01",
+        "type": "aim",
+        "hashed_name": "b6ef1c9f6d9aae139ccbd7c3fe19741b"
+    },
+    {
+        "character": "特蕾娜",
+        "file_code": "c412",
+        "skin_code": "01",
+        "type": "cover",
+        "hashed_name": "c130d756e0546130ef4549355528b7f3"
+    },
+    {
         "character": "诺伊斯",
         "file_code": "c430",
         "skin_code": "01",
@@ -1174,6 +1188,34 @@
         "skin_code": "01",
         "type": "cover",
         "hashed_name": "27684ac4b3c20cc60c2ddde501a29d7d"
+    },
+    {
+        "character": "敏特",
+        "file_code": "c600",
+        "skin_code": "01",
+        "type": "aim",
+        "hashed_name": "3756dc2e2be4a06cc50cb7f3f4dd5d70"
+    },
+    {
+        "character": "敏特",
+        "file_code": "c600",
+        "skin_code": "01",
+        "type": "cover",
+        "hashed_name": "d2ab095db18a91583457f86140e34eff"
+    },
+    {
+        "character": "普莉卡",
+        "file_code": "c601",
+        "skin_code": "01",
+        "type": "aim",
+        "hashed_name": "ac26c2d7616a26bd78a3a59a3390fbf0"
+    },
+    {
+        "character": "普莉卡",
+        "file_code": "c601",
+        "skin_code": "01",
+        "type": "cover",
+        "hashed_name": "7d7fcd9ad2390ed5b511c2b555755351"
     },
     {
         "character": "玛奇玛",

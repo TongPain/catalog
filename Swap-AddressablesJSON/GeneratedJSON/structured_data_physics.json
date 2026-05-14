@@ -784,6 +784,13 @@
         "hashed_name": "17fe6c0d488e88c49a65f9900625b5ad"
     },
     {
+        "character": "特蕾娜",
+        "file_code": "412",
+        "skin_code": "01",
+        "type": "aim",
+        "hashed_name": "180979974f0c90e4f8272b955a97d129"
+    },
+    {
         "character": "神罚",
         "file_code": "260",
         "skin_code": "00",
@@ -866,6 +873,13 @@
         "skin_code": "00",
         "type": "aim-shooting",
         "hashed_name": "1b2d0a96452efe84387f112e44cf6a74"
+    },
+    {
+        "character": "敏特",
+        "file_code": "600",
+        "skin_code": "01",
+        "type": "cover",
+        "hashed_name": "1b64008a82ec7974fb80efa53e1eb074"
     },
     {
         "character": "尼恩",
@@ -978,6 +992,13 @@
         "skin_code": "00",
         "type": "aim",
         "hashed_name": "1f2f5293b11a56747845566c7a47c986"
+    },
+    {
+        "character": "特蕾娜",
+        "file_code": "412",
+        "skin_code": "01",
+        "type": "aim-shooting",
+        "hashed_name": "1f5a32358f7c99c4ca86e54c42258713"
     },
     {
         "character": "艾玛：战术升级",
@@ -1393,6 +1414,13 @@
         "hashed_name": "29a59536d86f6724f8927ac9baf181f1"
     },
     {
+        "character": "普莉卡",
+        "file_code": "601",
+        "skin_code": "00",
+        "type": "cover",
+        "hashed_name": "29d3f8e398d9eb24ba4cb7493cafc7bf"
+    },
+    {
         "character": "千束",
         "file_code": "860",
         "skin_code": "00",
@@ -1412,6 +1440,13 @@
         "skin_code": "00",
         "type": "cover",
         "hashed_name": "2a2624472f49a4d45aeef8e0f19f3cba"
+    },
+    {
+        "character": "敏特",
+        "file_code": "600",
+        "skin_code": "00",
+        "type": "cover",
+        "hashed_name": "2a56b30d3d238634d9ec8ac34d68c0eb"
     },
     {
         "character": "玛丽安",
@@ -1475,6 +1510,13 @@
         "skin_code": "00",
         "type": "aim-shooting",
         "hashed_name": "2bbca9faeb4c65a4494a5609060e4c68"
+    },
+    {
+        "character": "敏特",
+        "file_code": "600",
+        "skin_code": "01",
+        "type": "aim-shooting",
+        "hashed_name": "2c05bdb631676a640b6184670665df53"
     },
     {
         "character": "吉儿",
@@ -1741,6 +1783,13 @@
         "skin_code": "00",
         "type": "aim",
         "hashed_name": "345cd70f93aaefb479cf150e15f4b5cd"
+    },
+    {
+        "character": "普莉卡",
+        "file_code": "601",
+        "skin_code": "00",
+        "type": "aim",
+        "hashed_name": "34777f3f129b18e4a8184a7cb0c16cee"
     },
     {
         "character": "索林：霜之旅票",
@@ -2609,6 +2658,13 @@
         "skin_code": "00",
         "type": "aim-shooting",
         "hashed_name": "4fc89e105dd9d8442bbe6dc30a37aefc"
+    },
+    {
+        "character": "普莉卡",
+        "file_code": "601",
+        "skin_code": "01",
+        "type": "aim",
+        "hashed_name": "4fff32a56e69ab04ea1af36ddab1c703"
     },
     {
         "character": "产品12",
@@ -4156,6 +4212,13 @@
         "skin_code": "00",
         "type": "aim",
         "hashed_name": "838f1a39ff3ddb642954fb76f0067312"
+    },
+    {
+        "character": "普莉卡",
+        "file_code": "601",
+        "skin_code": "01",
+        "type": "cover",
+        "hashed_name": "83b9941965fe73f40860f08713d922bd"
     },
     {
         "character": "米哈拉：羁绊锁链",
@@ -6440,6 +6503,13 @@
         "hashed_name": "ce10216b6ee28174da3cea4f997c8536"
     },
     {
+        "character": "普莉卡",
+        "file_code": "601",
+        "skin_code": "01",
+        "type": "aim-shooting",
+        "hashed_name": "ce8f8faa6aadae54cb0ed6c4e2d1b109"
+    },
+    {
         "character": "莱昂纳",
         "file_code": "382",
         "skin_code": "00",
@@ -6566,6 +6636,13 @@
         "hashed_name": "d2fc9588fcb63384d9c34dba42957e55"
     },
     {
+        "character": "敏特",
+        "file_code": "600",
+        "skin_code": "00",
+        "type": "aim-shooting",
+        "hashed_name": "d376af7c2f234c14fa9ef223b0e7128d"
+    },
+    {
         "character": "拉毗",
         "file_code": "010",
         "skin_code": "02",
@@ -6634,6 +6711,13 @@
         "skin_code": "01",
         "type": "aim",
         "hashed_name": "d536a2dd72a9e454390f0152a36528be"
+    },
+    {
+        "character": "普莉卡",
+        "file_code": "601",
+        "skin_code": "00",
+        "type": "aim-shooting",
+        "hashed_name": "d580146fdf625d745b296114a8958ace"
     },
     {
         "character": "A2",
@@ -7042,6 +7126,13 @@
         "hashed_name": "e3d3a771c05e76840bbc54664fe18392"
     },
     {
+        "character": "敏特",
+        "file_code": "600",
+        "skin_code": "00",
+        "type": "aim",
+        "hashed_name": "e40a4f54a07e50241b09de58f8698eb4"
+    },
+    {
         "character": "阿莉亚",
         "file_code": "432",
         "skin_code": "00",
@@ -7392,6 +7483,13 @@
         "hashed_name": "eef5ad38a2c601f4cb9c48cf82536dd4"
     },
     {
+        "character": "敏特",
+        "file_code": "600",
+        "skin_code": "01",
+        "type": "aim",
+        "hashed_name": "ef593e5485871d94f8ba9a817fba2e1a"
+    },
+    {
         "character": "迪塞尔：冬日甜心",
         "file_code": "075",
         "skin_code": "00",
@@ -7544,6 +7642,13 @@
         "skin_code": "01",
         "type": "aim-shooting",
         "hashed_name": "f713704bf8198ab488d93eee664e1bc0"
+    },
+    {
+        "character": "特蕾娜",
+        "file_code": "412",
+        "skin_code": "01",
+        "type": "cover",
+        "hashed_name": "f723a54d4b825a64382e7cd05458f6a7"
     },
     {
         "character": "娜嘉",

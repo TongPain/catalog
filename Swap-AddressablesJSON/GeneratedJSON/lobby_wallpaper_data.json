@@ -843,7 +843,7 @@
         "Character": "莱伊",
         "ID": "c392",
         "skin_code": "00",
-        "hashed_name": "d7384ed50f1495db7bbc355cb8d31e7a"
+        "hashed_name": "51320936700da5646d92fe18e608780f"
     },
     {
         "Character": "吉尔提",
@@ -1060,6 +1060,18 @@
         "ID": "c590",
         "skin_code": "00",
         "hashed_name": "288084e2e420174aee3554dcfd2f58f1"
+    },
+    {
+        "Character": "敏特",
+        "ID": "c600",
+        "skin_code": "00",
+        "hashed_name": "596edaed528b031b364d5cdf5a4fc66c"
+    },
+    {
+        "Character": "普莉卡",
+        "ID": "c601",
+        "skin_code": "00",
+        "hashed_name": "b09418ada0af50662c4bf54ac488c11e"
     },
     {
         "Character": "机甲神谢芙蒂",

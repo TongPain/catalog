@@ -99,7 +99,7 @@
         "Character": "阿妮斯：超级巨星",
         "ID": "c017",
         "skin_code": "02",
-        "hashed_name": "d1cb490976266ccd3b2c563b05ccd9b2"
+        "hashed_name": "d946937f903faefdc2b6ebd6ab0bb716"
     },
     {
         "Character": "尼恩：透视之眼",
@@ -1560,6 +1560,12 @@
         "hashed_name": "7bae98eda6740a08573a71f9f32c9443"
     },
     {
+        "Character": "特蕾娜",
+        "ID": "c412",
+        "skin_code": "01",
+        "hashed_name": "d4928a1cbd66c0435198945988b3a865"
+    },
+    {
         "Character": "诺伊斯",
         "ID": "c430",
         "skin_code": "00",
@@ -1905,13 +1911,13 @@
         "Character": "敏特",
         "ID": "c600",
         "skin_code": "00",
-        "hashed_name": "e8725d4c8ec3bbb8187f3868d0f3e03a"
+        "hashed_name": "6addf9b6230a980d65d6a5920e2fbfb9"
     },
     {
         "Character": "敏特",
         "ID": "c600",
         "skin_code": "01",
-        "hashed_name": "0f8d7addb7b09fbbdac4e33a6cb47eb9"
+        "hashed_name": "c95730f57df2dbe038fee8947b2cad79"
     },
     {
         "Character": "敏特",
@@ -1923,13 +1929,13 @@
         "Character": "普莉卡",
         "ID": "c601",
         "skin_code": "00",
-        "hashed_name": "5c613a53a88afd43f0412a0132a8bb71"
+        "hashed_name": "5103aa7c51f9fe2046dd77574d1c20ab"
     },
     {
         "Character": "普莉卡",
         "ID": "c601",
         "skin_code": "01",
-        "hashed_name": "2220aa730707ade30bf78d2fd24abc60"
+        "hashed_name": "1478b26d431060bffbfb6b78cae511f9"
     },
     {
         "Character": "普莉卡",
@@ -2775,7 +2781,7 @@
         "Character": "Unknown_c939",
         "ID": "c939",
         "skin_code": "00",
-        "hashed_name": "627589b45790d1313ca9b0e3eadff8a8"
+        "hashed_name": "37c652e169efa7debc6cd416591ba231"
     },
     {
         "Character": "Unknown_c940",

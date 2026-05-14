@@ -497,6 +497,13 @@
         "hashed_name": "9221ad51bd7e83b668fbe6f267e42f6d"
     },
     {
+        "character": "特蕾娜",
+        "file_code": "c412",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "d4928a1cbd66c0435198945988b3a865"
+    },
+    {
         "character": "诺伊斯",
         "file_code": "c430",
         "skin_code": "01",
@@ -592,14 +599,14 @@
         "file_code": "c600",
         "skin_code": "01",
         "type": "standing",
-        "hashed_name": "0f8d7addb7b09fbbdac4e33a6cb47eb9"
+        "hashed_name": "c95730f57df2dbe038fee8947b2cad79"
     },
     {
         "character": "普莉卡",
         "file_code": "c601",
         "skin_code": "01",
         "type": "standing",
-        "hashed_name": "2220aa730707ade30bf78d2fd24abc60"
+        "hashed_name": "1478b26d431060bffbfb6b78cae511f9"
     },
     {
         "character": "玛奇玛",

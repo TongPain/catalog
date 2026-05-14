@@ -1853,7 +1853,7 @@
         "skin_code": "02",
         "type": "portrait",
         "asset_name": "mi_c352_02_s.png",
-        "hashed_name": "ab50fe174a87b690add059d939f4f10b"
+        "hashed_name": "88119af5dc821c837bb92294ec35fa1a"
     },
     {
         "character": "海伦：海蓝宝石",
@@ -2070,6 +2070,14 @@
         "type": "portrait",
         "asset_name": "mi_c412_00_s.png",
         "hashed_name": "9399bd4bbe5df0f8d3a440f1287e8c45"
+    },
+    {
+        "character": "特蕾娜",
+        "file_code": "c412",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c412_01_s.png",
+        "hashed_name": "77b4c35ce581f4926e6ff776b9734bc3"
     },
     {
         "character": "诺伊斯",
@@ -2541,7 +2549,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c600_00_s.png",
-        "hashed_name": "bd9fff96ed2ac760cb92990d8c482b21"
+        "hashed_name": "334fb7a29ac6b79cbf47a321a0bbbd04"
     },
     {
         "character": "敏特",

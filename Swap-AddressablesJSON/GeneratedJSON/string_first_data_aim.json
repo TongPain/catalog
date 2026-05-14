@@ -1482,6 +1482,12 @@
         "hashed_name": "d546254f953a277c6e89d093fc9dabbb"
     },
     {
+        "Character": "特蕾娜",
+        "ID": "c412",
+        "skin_code": "01",
+        "hashed_name": "b6ef1c9f6d9aae139ccbd7c3fe19741b"
+    },
+    {
         "Character": "诺伊斯",
         "ID": "c430",
         "skin_code": "00",
@@ -1738,6 +1744,30 @@
         "ID": "c590",
         "skin_code": "00",
         "hashed_name": "e7158c173e3141949a03acd1340c0192"
+    },
+    {
+        "Character": "敏特",
+        "ID": "c600",
+        "skin_code": "00",
+        "hashed_name": "23706ae4e60714874d6d5639a355f6b7"
+    },
+    {
+        "Character": "敏特",
+        "ID": "c600",
+        "skin_code": "01",
+        "hashed_name": "3756dc2e2be4a06cc50cb7f3f4dd5d70"
+    },
+    {
+        "Character": "普莉卡",
+        "ID": "c601",
+        "skin_code": "00",
+        "hashed_name": "24c749383fff1546a888e48a9cee4b78"
+    },
+    {
+        "Character": "普莉卡",
+        "ID": "c601",
+        "skin_code": "01",
+        "hashed_name": "ac26c2d7616a26bd78a3a59a3390fbf0"
     },
     {
         "Character": "机甲神谢芙蒂",
