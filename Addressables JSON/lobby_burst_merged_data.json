@@ -717,8 +717,8 @@
         "Character": "Liberalio",
         "ID": "c262",
         "skin_code": "01",
-        "burst_id": "017e760642f0af465278e3a98eefa32f",
-        "lobby_id": "19d03676ac9aafdaa3c6b114df30901b"
+        "burst_id": "a570db6a53474373a6cffe89841f6368",
+        "lobby_id": "e909dd49f6e680f8cbeb4a0e274b695b"
     },
     {
         "Character": "Blanc",
@@ -770,6 +770,13 @@
         "lobby_id": "82ef65572bc20b0c6b834cdccc79743f"
     },
     {
+        "Character": "",
+        "ID": "c281",
+        "skin_code": "02",
+        "burst_id": "7183edcd0826f29686fb21e5a024899b",
+        "lobby_id": "e0714bda1dad6f5260cd7a8141b1fc3c"
+    },
+    {
         "Character": "Sakura",
         "ID": "c282",
         "skin_code": "00",
@@ -802,7 +809,7 @@
         "ID": "c310",
         "skin_code": "00",
         "burst_id": "2d12fc625687cb8469d75d3af6a35191",
-        "lobby_id": "37c4098fc2554a6d305dcb7a40fcb7bb"
+        "lobby_id": "81ff6ff01b28da739068e57ea046ee61"
     },
     {
         "Character": "Cocoa",
@@ -1202,6 +1209,13 @@
         "skin_code": "00",
         "burst_id": "86f076e376ff694223c714d187f3081e",
         "lobby_id": "6fbab94ffdfbd2c4247a5c11f4aaaa97"
+    },
+    {
+        "Character": "",
+        "ID": "c570",
+        "skin_code": "00",
+        "burst_id": "27a19c2470f6053230700c0cac902634",
+        "lobby_id": "9f3dd4d3d955da942383f75cf0c60316"
     },
     {
         "Character": "Phantom",

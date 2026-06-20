@@ -30,9 +30,19 @@
         "lobby_id": "605a7ff77990e630193da4b2c7b48a62"
     },
     {
+        "Character": "",
+        "ID": "eventscene_arkranger_03",
+        "lobby_id": "0fcb62d92911dd6726b20e30cf7a1aad"
+    },
+    {
         "Character": "BeautyFullShot",
         "ID": "eventscene_beautyfullshot_03",
         "lobby_id": "80a6ecc3597d4436170bab10949c3368"
+    },
+    {
+        "Character": "",
+        "ID": "eventscene_bitterspice_01",
+        "lobby_id": "be2935223dcdbf162b296a0c8bb41895"
     },
     {
         "Character": "BlankTicket",
