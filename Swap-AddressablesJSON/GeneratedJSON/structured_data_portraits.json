@@ -85,7 +85,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c016_00_s.png",
-        "hashed_name": "7e77f4d03d4e637b8200a8a491b5c69d"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "拉毗：小红帽",
@@ -117,7 +117,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c017_00_s.png",
-        "hashed_name": "68c39db8066294e45d438171f8238200"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "阿妮斯：超级巨星",
@@ -253,7 +253,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c043_00_s.png",
-        "hashed_name": "4ad07e99d927bd9f0b9451dab570160b"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "D：杀手妻子",
@@ -389,7 +389,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c080_00_s.png",
-        "hashed_name": "a3da6d31bc251126d2e3bc0407c8121f"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "桑迪",
@@ -413,7 +413,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c082_00_s.png",
-        "hashed_name": "8b964052d15e796cdef3674668b6a975"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "丽塔",
@@ -485,7 +485,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c093_00_s.png",
-        "hashed_name": "e0e887d612a452c0301117681aa77dfc"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "艾玛：战术升级",
@@ -501,7 +501,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c094_00_s.png",
-        "hashed_name": "f5f58cd09af6061465d9492024e32c80"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "贝斯蒂：战术升级",
@@ -541,7 +541,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c101_00_s.png",
-        "hashed_name": "b24b7e81a200706e13df1caf603363d9"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "德雷克",
@@ -613,7 +613,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c111_00_s.png",
-        "hashed_name": "fff2df035757fa58c4951d960c8b005a"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "豺狼",
@@ -629,7 +629,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c112_00_s.png",
-        "hashed_name": "fb9647bb30c93f77556fc1ea3eb01a9d"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "毒蛇",
@@ -661,7 +661,15 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c113_00_s.png",
-        "hashed_name": "7d6891dae1acc8f2286015586c5bcc55"
+        "hashed_name": "HiShiftup__"
+    },
+    {
+        "character": "E.h.",
+        "file_code": "c113",
+        "skin_code": "01",
+        "type": "portrait",
+        "asset_name": "mi_c113_01_s.png",
+        "hashed_name": "e53439869dcd63812a47e5a49780a6db"
     },
     {
         "character": "N102",
@@ -837,7 +845,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c162_00_s.png",
-        "hashed_name": "b1ade11e6bb11be85ffae2d3985a334e"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "米哈拉：羁绊锁链",
@@ -853,7 +861,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c170_00_s.png",
-        "hashed_name": "0851788440dad9569bf018db52196002"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "普丽瓦蒂",
@@ -973,7 +981,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c191_00_s.png",
-        "hashed_name": "ff29fa146727fa7896e939c9f31e9307"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "爱丽丝",
@@ -997,7 +1005,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c192_00_s.png",
-        "hashed_name": "a67e1721c24f1a9fa57dcfae2423975b"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "托比",
@@ -1101,7 +1109,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c210_00_s.png",
-        "hashed_name": "f125dba26d7b7ed9615194e03f199110"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "艾可希雅",
@@ -1197,7 +1205,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c223_00_s.png",
-        "hashed_name": "2c078f058ce090f2b0ab746f81fc088f"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "娜由塔",
@@ -1221,7 +1229,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c225_00_s.png",
-        "hashed_name": "df8afc6a0fb75ad1353b2b6cdd4ce43a"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "红莲：暗影",
@@ -1261,7 +1269,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c231_00_s.png",
-        "hashed_name": "1a11ad98163fcb2e94103ebc561d8e31"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "伊莎贝尔",
@@ -1285,7 +1293,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c233_00_s.png",
-        "hashed_name": "5bc5a2d6fa1437f1101ed3f6d207606d"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "桃乐丝",
@@ -1397,7 +1405,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c260_00_s.png",
-        "hashed_name": "f9f6eb251b5e9a0cc28868196129d6e8"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "神罚",
@@ -1429,7 +1437,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c262_00_s.png",
-        "hashed_name": "158c7c2028122f162a0e0005680d3509"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "莉贝雷利奥",
@@ -1453,7 +1461,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c270_00_s.png",
-        "hashed_name": "1c9e60c89216616113735d3cfb54032c"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "布兰儿",
@@ -1485,7 +1493,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c271_00_s.png",
-        "hashed_name": "6f2f1c8f681234d4063778f09e816c7e"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "诺亚尔",
@@ -1509,7 +1517,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c272_00_s.png",
-        "hashed_name": "e49d4c024393c4949b48ce422948f803"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "露姬",
@@ -1541,7 +1549,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c281_00_s.png",
-        "hashed_name": "d8cc43e97eae1bce2f1c6674823f04d1"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "牡丹",
@@ -1550,6 +1558,14 @@
         "type": "portrait",
         "asset_name": "mi_c281_01_s.png",
         "hashed_name": "d83df2917bf11d858845d91eed399f15"
+    },
+    {
+        "character": "牡丹",
+        "file_code": "c281",
+        "skin_code": "02",
+        "type": "portrait",
+        "asset_name": "mi_c281_02_s.png",
+        "hashed_name": "37c9244de59a8a6e892c824e16a75c98"
     },
     {
         "character": "樱花",
@@ -1733,7 +1749,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c316_00_s.png",
-        "hashed_name": "738d534828e931c642db143cac2655a8"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "薇尔维特",
@@ -1749,7 +1765,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c321_00_s.png",
-        "hashed_name": "6ef702f8a7b730f66088e94a04249e05"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "玛律恰那",
@@ -1765,7 +1781,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c330_00_s.png",
-        "hashed_name": "79aa4e186c2e4fe70ceef9ea480cb75f"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "皇冠",
@@ -1837,7 +1853,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c352_00_s.png",
-        "hashed_name": "6eb276f56e86c800e6c1637f748f658e"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "海伦",
@@ -1869,7 +1885,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c354_00_s.png",
-        "hashed_name": "48008ee53d436d8fcfd5ab06ab132f44"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "马斯特：浪漫的女仆",
@@ -1957,7 +1973,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c390_00_s.png",
-        "hashed_name": "fbd49987dd45969d686293decdd48641"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "茨瓦伊",
@@ -1981,7 +1997,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c391_00_s.png",
-        "hashed_name": "8d4025eb410655bb50c4afec83258b06"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "爱因",
@@ -2045,7 +2061,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c403_00_s.png",
-        "hashed_name": "10d32aad9c312bb04139ffa8a87ce4ea"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "坎西：逃生女王",
@@ -2085,7 +2101,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c430_00_s.png",
-        "hashed_name": "053db7c9124e865827c029cd9d716454"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "诺伊斯",
@@ -2109,7 +2125,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c431_00_s.png",
-        "hashed_name": "a9c1618bda5f60bae03eb0058b79c402"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "沃纶姆",
@@ -2149,7 +2165,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c450_00_s.png",
-        "hashed_name": "ae2a671c5c132664ed0f0d2fe10649b7"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "娜嘉",
@@ -2168,12 +2184,20 @@
         "hashed_name": "0f58cdbc9251d9a136bc376d8770ef2d"
     },
     {
+        "character": "娜嘉",
+        "file_code": "c450",
+        "skin_code": "03",
+        "type": "portrait",
+        "asset_name": "mi_c450_03_s.png",
+        "hashed_name": "69558b336010c183a150733759e45469"
+    },
+    {
         "character": "蒂亚",
         "file_code": "c451",
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c451_00_s.png",
-        "hashed_name": "21002c234f2f02cde51f38cdcaed15c5"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "蒂亚",
@@ -2197,7 +2221,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c470_00_s.png",
-        "hashed_name": "edb69f01d549d17dfb4b5c6ad287f004"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "小红帽",
@@ -2317,7 +2341,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c511_00_s.png",
-        "hashed_name": "565e5033848443dccafb2915b5de7a5f"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "灰姑娘",
@@ -2341,7 +2365,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c513_00_s.png",
-        "hashed_name": "309030eb6ab8647d4286c09eeb26d26f"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "小美人鱼",
@@ -2365,7 +2389,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c514_00_s.png",
-        "hashed_name": "77740a01d118f4af9dc8ed4ef5ba2e94"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "格拉维",
@@ -2381,7 +2405,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c520_00_s.png",
-        "hashed_name": "00e0a91684950b9ad5edfd430af25556"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "布蕾德",
@@ -2421,7 +2445,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c532_00_s.png",
-        "hashed_name": "010a4ef3597404c6393c50191ae8880a"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "索拉",
@@ -2437,7 +2461,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c550_00_s.png",
-        "hashed_name": "7d1e616badedb1dea16f9239e24bc91d"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "贝伊",
@@ -2453,7 +2477,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c551_00_s.png",
-        "hashed_name": "c9ca227a30a955d9d7a23555c37d64e0"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "克雷伊",
@@ -2501,7 +2525,31 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c570_00_s.png",
-        "hashed_name": "e8f424e0344945ad10f3587577445c02"
+        "hashed_name": "5d1d42d78bca8420f2ead99bd6501d86"
+    },
+    {
+        "character": "方舟黑色游侠",
+        "file_code": "c570",
+        "skin_code": "99",
+        "type": "portrait",
+        "asset_name": "mi_c570_99_s.png",
+        "hashed_name": "e8e8ffe74d0ef1242a061640cc40f414"
+    },
+    {
+        "character": "Unknown_c571",
+        "file_code": "c571",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c571_00_s.png",
+        "hashed_name": "d6ccd666ea1b0307667120237d65759f"
+    },
+    {
+        "character": "Unknown_c572",
+        "file_code": "c572",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c572_00_s.png",
+        "hashed_name": "87bae1af3670458f7f7d4fd9fac089ae"
     },
     {
         "character": "潘托姆",
@@ -2549,7 +2597,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c600_00_s.png",
-        "hashed_name": "334fb7a29ac6b79cbf47a321a0bbbd04"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "敏特",
@@ -2653,7 +2701,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c810_00_s.png",
-        "hashed_name": "55c3aaf8d3e4d902e0be36e126b2aa69"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "2b",
@@ -2781,7 +2829,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c830_00_s.png",
-        "hashed_name": "37f8b5536ad1b57f4351c5baef66b9b9"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "明日香",
@@ -2813,7 +2861,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c831_00_s.png",
-        "hashed_name": "ed693fe18d763515fbd233dd7a0d07fe"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "零",
@@ -2885,7 +2933,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c834_00_s.png",
-        "hashed_name": "5ebf443fc63e47892ac24ac21fcfc0cc"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "零（暂称）",
@@ -2909,7 +2957,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c835_00_s.png",
-        "hashed_name": "80cec3388f2487dafc45503c2b0b604f"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "明日香：wille",
@@ -2941,7 +2989,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c840_00_s.png",
-        "hashed_name": "8a6763ca3e43ce0cb5b5ffff4581310c"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "艾达",
@@ -2997,7 +3045,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c850_00_s.png",
-        "hashed_name": "bec2e59081d08f09d6593af3ad09c75a"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "伊芙",
@@ -3029,7 +3077,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c851_00_s.png",
-        "hashed_name": "6dff046b46764fcdce884158a9ed345c"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "渡鸦",
@@ -3069,7 +3117,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c860_00_s.png",
-        "hashed_name": "6be3a4a2733d94b670c878e4f423f852"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "千束",
@@ -3093,7 +3141,7 @@
         "skin_code": "00",
         "type": "portrait",
         "asset_name": "mi_c861_00_s.png",
-        "hashed_name": "91f19fb08eee82a9f90ad5e50bc0c2fb"
+        "hashed_name": "HiShiftup__"
     },
     {
         "character": "泷奈",
@@ -3406,6 +3454,14 @@
         "type": "portrait",
         "asset_name": "mi_c9025_00_s.png",
         "hashed_name": "9037a72ec954f9c313fbfa073549989e"
+    },
+    {
+        "character": "Unknown_c9028",
+        "file_code": "c9028",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c9028_00_s.png",
+        "hashed_name": "46d85881d1afaae5e05d30f792d02668"
     },
     {
         "character": "安德森",

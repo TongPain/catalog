@@ -3,19 +3,19 @@
         "Character": "拉毗",
         "ID": "c010",
         "skin_code": "00",
-        "hashed_name": "7deb98b1a39f78d0296c074f2d405e98"
+        "hashed_name": "HiShiftup__"
     },
     {
         "Character": "尼恩",
         "ID": "c011",
         "skin_code": "00",
-        "hashed_name": "9ab8e2a8b04e0892ac54093a8839441b"
+        "hashed_name": "HiShiftup__"
     },
     {
         "Character": "阿妮斯",
         "ID": "c012",
         "skin_code": "00",
-        "hashed_name": "1f9211383183187152d1b99c1c7b854c"
+        "hashed_name": "HiShiftup__"
     },
     {
         "Character": "玛丽安",
@@ -345,7 +345,7 @@
         "Character": "普丽瓦蒂",
         "ID": "c170",
         "skin_code": "00",
-        "hashed_name": "c6aaba2522126e6ee1c32237efa9b9f2"
+        "hashed_name": "HiShiftup__"
     },
     {
         "Character": "普丽瓦蒂",
@@ -399,7 +399,7 @@
         "Character": "爱丽丝",
         "ID": "c191",
         "skin_code": "00",
-        "hashed_name": "f7a577dcf17c59e0592876ccc69c4ddb"
+        "hashed_name": "HiShiftup__"
     },
     {
         "Character": "爱丽丝",
@@ -513,7 +513,7 @@
         "Character": "红莲：暗影",
         "ID": "c225",
         "skin_code": "00",
-        "hashed_name": "8753d47d1ac22d022b368d42c89c005f"
+        "hashed_name": "HiShiftup__"
     },
     {
         "Character": "红莲：暗影",
@@ -615,7 +615,7 @@
         "Character": "莉贝雷利奥",
         "ID": "c262",
         "skin_code": "01",
-        "hashed_name": "19d03676ac9aafdaa3c6b114df30901b"
+        "hashed_name": "e909dd49f6e680f8cbeb4a0e274b695b"
     },
     {
         "Character": "布兰儿",
@@ -660,6 +660,12 @@
         "hashed_name": "82ef65572bc20b0c6b834cdccc79743f"
     },
     {
+        "Character": "牡丹",
+        "ID": "c281",
+        "skin_code": "02",
+        "hashed_name": "e0714bda1dad6f5260cd7a8141b1fc3c"
+    },
+    {
         "Character": "樱花",
         "ID": "c282",
         "skin_code": "00",
@@ -687,7 +693,7 @@
         "Character": "爱德",
         "ID": "c310",
         "skin_code": "00",
-        "hashed_name": "37c4098fc2554a6d305dcb7a40fcb7bb"
+        "hashed_name": "81ff6ff01b28da739068e57ea046ee61"
     },
     {
         "Character": "可可",
@@ -741,7 +747,7 @@
         "Character": "皇冠",
         "ID": "c330",
         "skin_code": "00",
-        "hashed_name": "c9f153ecd7a09f9a2531ad564e65b51d"
+        "hashed_name": "HiShiftup__"
     },
     {
         "Character": "皇冠",
@@ -771,7 +777,7 @@
         "Character": "海伦",
         "ID": "c352",
         "skin_code": "00",
-        "hashed_name": "70e304317fde8e4aa8e2d8945db1e0e2"
+        "hashed_name": "HiShiftup__"
     },
     {
         "Character": "海伦",
@@ -915,7 +921,7 @@
         "Character": "娜嘉",
         "ID": "c450",
         "skin_code": "00",
-        "hashed_name": "c411b60113db32bcca1019c8f77daba8"
+        "hashed_name": "HiShiftup__"
     },
     {
         "Character": "娜嘉",
@@ -933,7 +939,7 @@
         "Character": "小红帽",
         "ID": "c470",
         "skin_code": "00",
-        "hashed_name": "2567fe2629f0121ec0f607ebeb86d202"
+        "hashed_name": "HiShiftup__"
     },
     {
         "Character": "小红帽",
@@ -987,7 +993,7 @@
         "Character": "小美人鱼",
         "ID": "c513",
         "skin_code": "00",
-        "hashed_name": "84be7244a25e4abfe03135e2a848524a"
+        "hashed_name": "HiShiftup__"
     },
     {
         "Character": "小美人鱼",
@@ -1030,6 +1036,12 @@
         "ID": "c551",
         "skin_code": "00",
         "hashed_name": "6fbab94ffdfbd2c4247a5c11f4aaaa97"
+    },
+    {
+        "Character": "方舟黑色游侠",
+        "ID": "c570",
+        "skin_code": "00",
+        "hashed_name": "9f3dd4d3d955da942383f75cf0c60316"
     },
     {
         "Character": "潘托姆",
