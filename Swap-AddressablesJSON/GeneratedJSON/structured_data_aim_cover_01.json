@@ -308,6 +308,20 @@
         "hashed_name": "47bf9bea2c7dbe2dbfae75f3d45698f7"
     },
     {
+        "character": "E.h.",
+        "file_code": "c113",
+        "skin_code": "01",
+        "type": "aim",
+        "hashed_name": "5247fc1fc960425b02aad0292c0bb000"
+    },
+    {
+        "character": "E.h.",
+        "file_code": "c113",
+        "skin_code": "01",
+        "type": "cover",
+        "hashed_name": "ad4df18a58ffaa53a450e39c829786f3"
+    },
+    {
         "character": "梅里",
         "file_code": "c130",
         "skin_code": "01",
@@ -1005,7 +1019,7 @@
         "file_code": "c412",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "c130d756e0546130ef4549355528b7f3"
+        "hashed_name": "192827780df7dc08f00500de88fdbb18"
     },
     {
         "character": "诺伊斯",
@@ -1208,14 +1222,14 @@
         "file_code": "c601",
         "skin_code": "01",
         "type": "aim",
-        "hashed_name": "ac26c2d7616a26bd78a3a59a3390fbf0"
+        "hashed_name": "35d83bb6a64d9fe0a7719ead41761ed0"
     },
     {
         "character": "普莉卡",
         "file_code": "c601",
         "skin_code": "01",
         "type": "cover",
-        "hashed_name": "7d7fcd9ad2390ed5b511c2b555755351"
+        "hashed_name": "7b8e1bf38ab852a4fce417e3895b030c"
     },
     {
         "character": "玛奇玛",

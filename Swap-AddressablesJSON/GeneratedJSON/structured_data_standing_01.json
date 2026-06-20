@@ -154,6 +154,13 @@
         "hashed_name": "17dd136b5d94268b4806ec04e7bf3b6f"
     },
     {
+        "character": "E.h.",
+        "file_code": "c113",
+        "skin_code": "01",
+        "type": "standing",
+        "hashed_name": "1e786336d8aa3f5fdee3815e3228e71e"
+    },
+    {
         "character": "梅里",
         "file_code": "c130",
         "skin_code": "01",
@@ -501,7 +508,7 @@
         "file_code": "c412",
         "skin_code": "01",
         "type": "standing",
-        "hashed_name": "d4928a1cbd66c0435198945988b3a865"
+        "hashed_name": "a97782a23923e4f82511f70e1a99cf14"
     },
     {
         "character": "诺伊斯",
@@ -606,7 +613,7 @@
         "file_code": "c601",
         "skin_code": "01",
         "type": "standing",
-        "hashed_name": "1478b26d431060bffbfb6b78cae511f9"
+        "hashed_name": "7c2fe7779d51e0b7ab2597dacffe2dd2"
     },
     {
         "character": "玛奇玛",

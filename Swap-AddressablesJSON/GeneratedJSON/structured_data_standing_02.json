@@ -168,6 +168,13 @@
         "hashed_name": "22a781251797e76cb6062ea099f99a2f"
     },
     {
+        "character": "牡丹",
+        "file_code": "c281",
+        "skin_code": "02",
+        "type": "standing",
+        "hashed_name": "294d8ccbea3524b25c0ebb24823d3947"
+    },
+    {
         "character": "皇冠",
         "file_code": "c330",
         "skin_code": "02",
@@ -186,7 +193,7 @@
         "file_code": "c352",
         "skin_code": "02",
         "type": "standing",
-        "hashed_name": "6ae6cb336caa877964a5683bb1b77754"
+        "hashed_name": "9e255a4202f6560a709d94312ae03716"
     },
     {
         "character": "茨瓦伊",
@@ -249,7 +256,7 @@
         "file_code": "c601",
         "skin_code": "02",
         "type": "standing",
-        "hashed_name": "8e1a2601fe156a451f63e8e534536a13"
+        "hashed_name": "2a062db79130750e899607def6c4feb6"
     },
     {
         "character": "2b",

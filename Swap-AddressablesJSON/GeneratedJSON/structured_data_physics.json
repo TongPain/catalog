@@ -504,6 +504,13 @@
         "hashed_name": "0e9ae6ab941cb164dbd53c048bf78d53"
     },
     {
+        "character": "牡丹",
+        "file_code": "281",
+        "skin_code": "02",
+        "type": "aim",
+        "hashed_name": "0e9d690955d2c4e479b40ca1cd570861"
+    },
+    {
         "character": "娜由塔",
         "file_code": "223",
         "skin_code": "01",
@@ -1890,6 +1897,13 @@
         "hashed_name": "36c5a364a3b68b74594a56160ce245b5"
     },
     {
+        "character": "牡丹",
+        "file_code": "281",
+        "skin_code": "02",
+        "type": "cover",
+        "hashed_name": "36e3e615fd9183646a376a70c3582a88"
+    },
+    {
         "character": "Idoll太阳",
         "file_code": "308",
         "skin_code": "00",
@@ -2203,6 +2217,13 @@
         "skin_code": "01",
         "type": "cover",
         "hashed_name": "40fbe330bfa07a24a85e8c2593b4129a"
+    },
+    {
+        "character": "娜嘉",
+        "file_code": "450",
+        "skin_code": "03",
+        "type": "aim-shooting",
+        "hashed_name": "4125c676d18dfbb4dae6101047e2b64e"
     },
     {
         "character": "海伦",
@@ -2525,6 +2546,13 @@
         "skin_code": "00",
         "type": "cover",
         "hashed_name": "4c2a69935f7c43c4987fe0517a651236"
+    },
+    {
+        "character": "娜嘉",
+        "file_code": "450",
+        "skin_code": "03",
+        "type": "cover",
+        "hashed_name": "4c55f60cbafcf08409868da17c8e0a56"
     },
     {
         "character": "银华：战术升级",
@@ -2905,6 +2933,13 @@
         "hashed_name": "559ee7ad049f2c84bb8f528ace08854c"
     },
     {
+        "character": "E.h.",
+        "file_code": "113",
+        "skin_code": "01",
+        "type": "cover",
+        "hashed_name": "564ece75cca1abc459a3dc53c792b391"
+    },
+    {
         "character": "佩珀",
         "file_code": "131",
         "skin_code": "00",
@@ -2931,6 +2966,13 @@
         "skin_code": "00",
         "type": "cover",
         "hashed_name": "57199c070f67b244388a1c3d82b753de"
+    },
+    {
+        "character": "E.h.",
+        "file_code": "113",
+        "skin_code": "01",
+        "type": "aim-shooting",
+        "hashed_name": "57409d5b97cbf9641a5fab786eada1ef"
     },
     {
         "character": "索达",
@@ -3190,6 +3232,13 @@
         "skin_code": "02",
         "type": "cover",
         "hashed_name": "5e18fd82a21f60b4ca856c9354bc9949"
+    },
+    {
+        "character": "E.h.",
+        "file_code": "113",
+        "skin_code": "01",
+        "type": "aim",
+        "hashed_name": "5e3635a9f96296441add92540f3ab00f"
     },
     {
         "character": "伊莱格",
@@ -4165,6 +4214,13 @@
         "hashed_name": "811b62c4e7f517a45b815e37d1a0f8b1"
     },
     {
+        "character": "娜嘉",
+        "file_code": "450",
+        "skin_code": "03",
+        "type": "aim",
+        "hashed_name": "8127f764324964c4ca576d20a98348cc"
+    },
+    {
         "character": "诺薇儿",
         "file_code": "212",
         "skin_code": "00",
@@ -4739,6 +4795,13 @@
         "hashed_name": "94ffa22bec4e44048a0a5e6bc310347a"
     },
     {
+        "character": "方舟黑色游侠",
+        "file_code": "570",
+        "skin_code": "00",
+        "type": "cover",
+        "hashed_name": "952755e1ade06924e88d350f5c4009fa"
+    },
+    {
         "character": "可可",
         "file_code": "311",
         "skin_code": "00",
@@ -5157,6 +5220,13 @@
         "skin_code": "01",
         "type": "aim",
         "hashed_name": "a0cede81a75276c4da093e76192b27ec"
+    },
+    {
+        "character": "方舟黑色游侠",
+        "file_code": "570",
+        "skin_code": "00",
+        "type": "aim",
+        "hashed_name": "a147d46f1788f164eb7b7b6f70000ad4"
     },
     {
         "character": "托比",
@@ -5745,6 +5815,13 @@
         "skin_code": "00",
         "type": "aim-shooting",
         "hashed_name": "b6b92f70dd05870499047cb2462c060e"
+    },
+    {
+        "character": "方舟黑色游侠",
+        "file_code": "570",
+        "skin_code": "00",
+        "type": "aim-shooting",
+        "hashed_name": "b6bc2d9d16662db4f8f6e39d42b671ae"
     },
     {
         "character": "爱丽丝",
@@ -7614,6 +7691,13 @@
         "skin_code": "00",
         "type": "aim",
         "hashed_name": "f59ea3bf3aa6d0e4e92dff1fe39833d4"
+    },
+    {
+        "character": "牡丹",
+        "file_code": "281",
+        "skin_code": "02",
+        "type": "aim-shooting",
+        "hashed_name": "f5a3b96c454079942b9e353fab51da99"
     },
     {
         "character": "零",
