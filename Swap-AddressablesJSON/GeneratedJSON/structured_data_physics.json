@@ -2751,6 +2751,13 @@
         "hashed_name": "519c1e30c337484499e2b21f488c9c5e"
     },
     {
+        "character": "小美人鱼",
+        "file_code": "513",
+        "skin_code": "03",
+        "type": "aim",
+        "hashed_name": "52570788763d7fc418b4d9a65fa0f79f"
+    },
+    {
         "character": "莉贝雷利奥",
         "file_code": "262",
         "skin_code": "00",
@@ -4011,6 +4018,13 @@
         "hashed_name": "78dd2ab5f69aaf147ba32d9f48952ac4"
     },
     {
+        "character": "玛律恰那：海洋进修",
+        "file_code": "322",
+        "skin_code": "00",
+        "type": "aim",
+        "hashed_name": "7933c9bdfe0ef924e9f9a6b95af0aa47"
+    },
+    {
         "character": "吉萝婷：寒冬杀手",
         "file_code": "182",
         "skin_code": "00",
@@ -5019,6 +5033,13 @@
         "hashed_name": "9b384968859987d46b679d9827e6263e"
     },
     {
+        "character": "小美人鱼",
+        "file_code": "513",
+        "skin_code": "03",
+        "type": "cover",
+        "hashed_name": "9b3db8e1afac2294db481a8294e307c0"
+    },
+    {
         "character": "尼希利斯塔",
         "file_code": "261",
         "skin_code": "00",
@@ -5297,6 +5318,13 @@
         "skin_code": "00",
         "type": "aim",
         "hashed_name": "a38ff9161e5182e4dae815a76acdbe7b"
+    },
+    {
+        "character": "玛律恰那：海洋进修",
+        "file_code": "322",
+        "skin_code": "00",
+        "type": "aim-shooting",
+        "hashed_name": "a3a3d6d5638773946af9a2cf004c723d"
     },
     {
         "character": "白雪公主：纯真年代",
@@ -6027,6 +6055,13 @@
         "hashed_name": "bb4e58a7ad2d26d44957e3ca9c1c37b4"
     },
     {
+        "character": "蒂亚",
+        "file_code": "451",
+        "skin_code": "03",
+        "type": "cover",
+        "hashed_name": "bb5be80ebbc9fa5438853ab4236112af"
+    },
+    {
         "character": "阿妮斯",
         "file_code": "012",
         "skin_code": "99",
@@ -6412,6 +6447,13 @@
         "hashed_name": "c68fbb7666190db4a8230c4467cf6e3c"
     },
     {
+        "character": "蒂亚",
+        "file_code": "451",
+        "skin_code": "03",
+        "type": "aim",
+        "hashed_name": "c6f5c5c83b9618a4586562f828b669bc"
+    },
+    {
         "character": "真理",
         "file_code": "832",
         "skin_code": "04",
@@ -6480,6 +6522,13 @@
         "skin_code": "00",
         "type": "cover",
         "hashed_name": "c9e479d4b789ac84d9994bafbf4daad8"
+    },
+    {
+        "character": "玛律恰那：海洋进修",
+        "file_code": "322",
+        "skin_code": "00",
+        "type": "cover",
+        "hashed_name": "c9f441f66a02c6e4ebace077d757a6e3"
     },
     {
         "character": "马斯特",
@@ -7096,6 +7145,13 @@
         "skin_code": "00",
         "type": "cover",
         "hashed_name": "df705b8339c3ed84395119838f859595"
+    },
+    {
+        "character": "蒂亚",
+        "file_code": "451",
+        "skin_code": "03",
+        "type": "aim-shooting",
+        "hashed_name": "e04e68c9641ec244e845e12c4bb92785"
     },
     {
         "character": "佩珀",
@@ -7824,6 +7880,13 @@
         "skin_code": "00",
         "type": "aim",
         "hashed_name": "fbafec136495f744c8f1b7a38f016dd2"
+    },
+    {
+        "character": "小美人鱼",
+        "file_code": "513",
+        "skin_code": "03",
+        "type": "aim-shooting",
+        "hashed_name": "fbf6d5603a125664e9d3733af4a74a51"
     },
     {
         "character": "毒蛇",

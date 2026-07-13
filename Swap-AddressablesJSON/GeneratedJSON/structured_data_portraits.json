@@ -1776,6 +1776,14 @@
         "hashed_name": "7b2dcd098285f09d4cf65aceb14a5926"
     },
     {
+        "character": "玛律恰那：海洋进修",
+        "file_code": "c322",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c322_00_s.png",
+        "hashed_name": "2d3f7452df85734dc42a80de38bb7579"
+    },
+    {
         "character": "皇冠",
         "file_code": "c330",
         "skin_code": "00",
@@ -2216,6 +2224,14 @@
         "hashed_name": "c3fe0c2d2d2c6d55f2f8452fcc14e56a"
     },
     {
+        "character": "蒂亚",
+        "file_code": "c451",
+        "skin_code": "03",
+        "type": "portrait",
+        "asset_name": "mi_c451_03_s.png",
+        "hashed_name": "7793e4e6657aacf7d1aadb7f9ccba034"
+    },
+    {
         "character": "小红帽",
         "file_code": "c470",
         "skin_code": "00",
@@ -2384,6 +2400,14 @@
         "hashed_name": "92ffa10969ad41aebb0d102d0ff909c5"
     },
     {
+        "character": "小美人鱼",
+        "file_code": "c513",
+        "skin_code": "03",
+        "type": "portrait",
+        "asset_name": "mi_c513_03_s.png",
+        "hashed_name": "a9986a733dafe9db85a3878e82b5103e"
+    },
+    {
         "character": "格拉维",
         "file_code": "c514",
         "skin_code": "00",
@@ -2398,6 +2422,14 @@
         "type": "portrait",
         "asset_name": "mi_c514_01_s.png",
         "hashed_name": "2ec730acff343f21813a8c6a0930a10b"
+    },
+    {
+        "character": "灰姑娘：琉璃波光",
+        "file_code": "c515",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c515_00_s.png",
+        "hashed_name": "7d504a51b32e18bf1c36d9100fbd09ce"
     },
     {
         "character": "布蕾德",
@@ -3478,6 +3510,38 @@
         "type": "portrait",
         "asset_name": "mi_c903_01_s.png",
         "hashed_name": "9ad1af08578aeba41e3ca9a02d8a6789"
+    },
+    {
+        "character": "Unknown_c9034",
+        "file_code": "c9034",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c9034_00_s.png",
+        "hashed_name": "cce79e19aad658053e9b393d8daf30a8"
+    },
+    {
+        "character": "Unknown_c9035",
+        "file_code": "c9035",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c9035_00_s.png",
+        "hashed_name": "4a61c49cdbe804a5aa8a0659bc1abf65"
+    },
+    {
+        "character": "Unknown_c9036",
+        "file_code": "c9036",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c9036_00_s.png",
+        "hashed_name": "c7c218cf28f0b427271a564f7b126950"
+    },
+    {
+        "character": "Unknown_c9037",
+        "file_code": "c9037",
+        "skin_code": "00",
+        "type": "portrait",
+        "asset_name": "mi_c9037_00_s.png",
+        "hashed_name": "2612dddedbfb7e621c4437bc1e55e6fe"
     },
     {
         "character": "阿尼克",
