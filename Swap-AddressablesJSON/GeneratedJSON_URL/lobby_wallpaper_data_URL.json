@@ -3,1290 +3,1308 @@
         "Character": "拉毗",
         "ID": "c010",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c010_cutscene_7deb98b1a39f78d0296c074f2d405e98.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c010_cutscene_2b52d442cb9dcb409b2f4b9cb1f752c4.bundle"
     },
     {
         "Character": "尼恩",
         "ID": "c011",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c011_cutscene_9ab8e2a8b04e0892ac54093a8839441b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c011_cutscene_9ab8e2a8b04e0892ac54093a8839441b.bundle"
     },
     {
         "Character": "阿妮斯",
         "ID": "c012",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c012_cutscene_1f9211383183187152d1b99c1c7b854c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c012_cutscene_b6a548ec19e21ff7fcc8b171124e933d.bundle"
     },
     {
         "Character": "玛丽安",
         "ID": "c013",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c013_cutscene_37c38f43c78d3ccdcb4d627b09ceca26.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c013_cutscene_5a2848b95da589a9a71e2f6e39177ecd.bundle"
     },
     {
         "Character": "尼恩：蓝色海洋",
         "ID": "c014",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c014_cutscene_d65ca3d23b851982b8fbdc062576ba3b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c014_cutscene_edc26dc8fc701c648290d59ab9d23d8b.bundle"
     },
     {
         "Character": "阿妮斯：闪耀夏日",
         "ID": "c015",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c015_cutscene_6b125ed788345217853bc849f98d2abb.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c015_cutscene_83c3cf3e543a36fcb4891b0a4d855903.bundle"
     },
     {
         "Character": "拉毗：小红帽",
         "ID": "c016",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c016_cutscene_82fcc58d1bb7f55b71c538d33e2872b8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c016_cutscene_faf8c9e6323a96957bf7c89f6b3e2aa3.bundle"
     },
     {
         "Character": "拉毗：小红帽",
         "ID": "c016",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c016_01_cutscene_09e568a1eac9cd7066d81d4f8c389dd2.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c016_01_cutscene_3c25c4a4489bd4af257e29111e0c5ef2.bundle"
     },
     {
         "Character": "拉毗：小红帽",
         "ID": "c016",
         "skin_code": "02",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c016_02_cutscene_222fbb8f3f9e7f46b8d20720f45167c1.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c016_02_cutscene_777da5fa1355492c24da540d5fdfca0a.bundle"
     },
     {
         "Character": "阿妮斯：超级巨星",
         "ID": "c017",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c017_cutscene_3c4fe4f560a3a2e00d8dac492fe4b7e0.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c017_cutscene_3ce343b8df85ab479887b529c076cad7.bundle"
     },
     {
         "Character": "阿妮斯：超级巨星",
         "ID": "c017",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c017_01_cutscene_3489ed347e0cb87eaae57d01f33f2219.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c017_01_cutscene_5bac3f7e083cdc5b9d02477363e11ef1.bundle"
     },
     {
         "Character": "尼恩：透视之眼",
         "ID": "c018",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c018_cutscene_47d4116d46396a45cad9a3be4d0dd0ef.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c018_cutscene_422f5b1bae34569f703d7d6a352b640c.bundle"
     },
     {
         "Character": "西格娜",
         "ID": "c022",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c022_cutscene_1d47084d35d74393a430a9e39f28caa6.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c022_cutscene_8047ae3d7c7db3dab855f4b23d0d3b56.bundle"
     },
     {
         "Character": "德尔塔：怪盗忍者",
         "ID": "c023",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c023_cutscene_8646e90728c71b6ff04fd9ed2d3d54d0.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c023_cutscene_1295d2fc6694c1d276eec7e7dd264202.bundle"
     },
     {
         "Character": "波莉",
         "ID": "c030",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c030_cutscene_1af6c5051a8429b8af025a1708e78413.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c030_cutscene_1af6c5051a8429b8af025a1708e78413.bundle"
     },
     {
         "Character": "米兰达",
         "ID": "c032",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c032_cutscene_06daae53bdaa3678c579c1024c8872eb.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c032_cutscene_435d374b8df32dea68a83c2f7bacde38.bundle"
     },
     {
         "Character": "基里",
         "ID": "c033",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c033_cutscene_6c5895eb9f6a7ef22d4deaa026a50899.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c033_cutscene_3b15603685455cb053cc35342caa5b32.bundle"
     },
     {
         "Character": "D",
         "ID": "c040",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c040_cutscene_1a39370b223b63f24aa6313cb0c22827.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c040_cutscene_805bf9a1707f291770ce0547f4484e9e.bundle"
     },
     {
         "Character": "K",
         "ID": "c041",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c041_cutscene_b77eeabb2c12d9bc0a935dd58f60c7b8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c041_cutscene_b77eeabb2c12d9bc0a935dd58f60c7b8.bundle"
     },
     {
         "Character": "D：杀手妻子",
         "ID": "c043",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c043_cutscene_15b4698921727d6414063637c3ea5c69.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c043_cutscene_34f77334cb22b73743ee41726fee646f.bundle"
     },
     {
         "Character": "D：杀手妻子",
         "ID": "c043",
         "skin_code": "02",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c043_02_cutscene_0cf39d1b74d5db22e1f9064756d6c4df.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c043_02_cutscene_6b0dfc00c587bc6cbd58eb919a67b26a.bundle"
     },
     {
         "Character": "米卡：雪地伙伴",
         "ID": "c062",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c062_cutscene_b33f9f7036b7a82150a91c1bdcb649b5.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c062_cutscene_b33f9f7036b7a82150a91c1bdcb649b5.bundle"
     },
     {
         "Character": "布丽德",
         "ID": "c070",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c070_cutscene_7d2661cf62cbee2c6f1d7f5b93324ba7.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c070_cutscene_5bd0b3e816b1c8c72035d31b2c577aa0.bundle"
     },
     {
         "Character": "索林",
         "ID": "c071",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c071_cutscene_8bee28ac8ebaa29cf79f9723ab1dbf16.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c071_cutscene_21bf7157787584385570af7f3c54aad9.bundle"
     },
     {
         "Character": "迪塞尔",
         "ID": "c072",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c072_cutscene_752fe77726b14f7a815cbecd63c0bdf5.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c072_cutscene_2156b896b540fcca131dc8086a136583.bundle"
     },
     {
         "Character": "布丽德：静默轨道",
         "ID": "c073",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c073_cutscene_4556677f65360a83cb705558b2e95307.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c073_cutscene_bc60fb51c6b357a3e0d5c79985566fa6.bundle"
     },
     {
         "Character": "索林：霜之旅票",
         "ID": "c074",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c074_cutscene_748cc563ab239fdb3f99b79a61ca8394.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c074_cutscene_a3b3ee5da938703b736ad0855d54db5b.bundle"
     },
     {
         "Character": "迪塞尔：冬日甜心",
         "ID": "c075",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c075_cutscene_12b3a69a58467a193d6d445d33fb8d19.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c075_cutscene_2be4fe3add13c44745ed59eac504eb96.bundle"
     },
     {
         "Character": "桑迪",
         "ID": "c080",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c080_cutscene_e31c03ded2aaf1c3e90f8c74a54d7aac.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c080_cutscene_e31c03ded2aaf1c3e90f8c74a54d7aac.bundle"
     },
     {
         "Character": "丽塔",
         "ID": "c082",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c082_cutscene_d6eb674b2406a1a04e6100e7ff06ea8d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c082_cutscene_d6eb674b2406a1a04e6100e7ff06ea8d.bundle"
     },
     {
         "Character": "艾玛",
         "ID": "c090",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c090_cutscene_be0a7bab089b5621564f50c234263f2c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c090_cutscene_77f551c39a1a8d7cd59169fa36d3b7f7.bundle"
     },
     {
         "Character": "贝斯蒂",
         "ID": "c091",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c091_cutscene_9a5cff84dac9b750be2a9044422e71ca.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c091_cutscene_ab43c55fe6d31825555e785664dbedc0.bundle"
     },
     {
         "Character": "银华",
         "ID": "c092",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c092_cutscene_9ed40e76e4499d29911caacba3649815.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c092_cutscene_684d40c48c1b5133c4ec0072b8fcb153.bundle"
     },
     {
         "Character": "艾玛：战术升级",
         "ID": "c093",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c093_cutscene_614f638d6e9484f3989f2169c3400b30.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c093_cutscene_6a30a7f438abf09d80054cfb3950f293.bundle"
     },
     {
         "Character": "贝斯蒂：战术升级",
         "ID": "c094",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c094_cutscene_f57d71f4dcb6c33f4fc95047d4415c9a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c094_cutscene_9147c365bc57ce1d62831b88cd2d9742.bundle"
     },
     {
         "Character": "银华：战术升级",
         "ID": "c095",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c095_cutscene_681200518429745a52c77563ca56a5db.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c095_cutscene_ab89622668a0a6d49ebe0a02e7f05204.bundle"
     },
     {
         "Character": "拉普拉斯",
         "ID": "c100",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c100_cutscene_ee1088e3120f7764bac006fb864d96e4.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c100_cutscene_8c28b742d824b5b2ca0917a71a278c54.bundle"
     },
     {
         "Character": "德雷克",
         "ID": "c101",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c101_cutscene_594cf78fb13bf2504fe4c3b9cb492eab.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c101_cutscene_1ffb9c5d8b4ebcc2cc7f6fe526442302.bundle"
     },
     {
         "Character": "德雷克",
         "ID": "c101",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c101_01_cutscene_e94e3d4dd1031025872f857edff3ae06.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c101_01_cutscene_7038b64496ecafc5874d40dd08b08bba.bundle"
     },
     {
         "Character": "麦斯威尔",
         "ID": "c102",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c102_cutscene_5dd6ee4456371403371ffe9213c7f709.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c102_cutscene_c706aa9845414c9dc45f56fedda470c1.bundle"
     },
     {
         "Character": "克拉乌",
         "ID": "c110",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c110_cutscene_8ed217071a60158429b742eaa1be36ee.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c110_cutscene_b41808c89d365731ec9cb8117b3012bc.bundle"
     },
     {
         "Character": "豺狼",
         "ID": "c111",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c111_cutscene_bd00568b9c7712a6d0ad9ca97a56b128.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c111_cutscene_27d6201aa3667185ee95c0b960538012.bundle"
     },
     {
         "Character": "毒蛇",
         "ID": "c112",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c112_cutscene_8668072851268e0d0caa1850e04fdd30.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c112_cutscene_efd1e67387eea9f3909a3d21da13288a.bundle"
     },
     {
         "Character": "毒蛇",
         "ID": "c112",
         "skin_code": "02",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c112_02_cutscene_e3517b008da6682214491dc9ebfddc92.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c112_02_cutscene_c85e76fc66c4de184095066511b2a01c.bundle"
     },
     {
         "Character": "E.h.",
         "ID": "c113",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c113_cutscene_d8ab512baa1ab505c8f033774e048809.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c113_cutscene_b2a5a91a496eca368842352b67f914a3.bundle"
     },
     {
         "Character": "安妮：奇迹仙女",
         "ID": "c121",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c121_cutscene_035e6bb7dbbf060ffada75fa3b7801fe.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c121_cutscene_d0bd925836fc493f23ef2a09e87c9d1f.bundle"
     },
     {
         "Character": "梅里",
         "ID": "c130",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c130_cutscene_0f546ae82b65205cfad3e6da26b58fca.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c130_cutscene_1a97aab9442452a69a59692a56028b55.bundle"
     },
     {
         "Character": "佩珀",
         "ID": "c131",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c131_cutscene_5e8951b4fade72f54d5e3ec1bb709da5.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c131_cutscene_899165e1984e49f1ea1694d720b7711b.bundle"
     },
     {
         "Character": "梅里：海湾女神",
         "ID": "c132",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c132_cutscene_d791eca4a69070246e59a473e338f5e5.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c132_cutscene_d791eca4a69070246e59a473e338f5e5.bundle"
     },
     {
         "Character": "舒格",
         "ID": "c140",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c140_cutscene_45a87dbb4d505a067889d462766eee8c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c140_cutscene_45a87dbb4d505a067889d462766eee8c.bundle"
     },
     {
         "Character": "米尔克",
         "ID": "c141",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c141_cutscene_18a0f8148d4e61fb0137dd76b297aec4.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c141_cutscene_c562882a1ab7a427e56d79fa19a404a9.bundle"
     },
     {
         "Character": "普琳玛",
         "ID": "c142",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c142_cutscene_72835bce267683d54248b55ab2679473.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c142_cutscene_33df1c5149a6b824e627186e14cb99d8.bundle"
     },
     {
         "Character": "米尔克：花漾兔女郎",
         "ID": "c143",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c143_cutscene_916e6ca8bd1ebd08b3f6a384047ffc18.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c143_cutscene_916e6ca8bd1ebd08b3f6a384047ffc18.bundle"
     },
     {
         "Character": "尤莉亚",
         "ID": "c150",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c150_cutscene_b492edb5e997c331aaca29edc9c14410.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c150_cutscene_5496e6f6b82fe9bfb544d39558f86a30.bundle"
     },
     {
         "Character": "尤妮",
         "ID": "c160",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c160_cutscene_65eeba2b39074b80e6186b6c2ed220a5.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c160_cutscene_65eeba2b39074b80e6186b6c2ed220a5.bundle"
     },
     {
         "Character": "米哈拉：羁绊锁链",
         "ID": "c162",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c162_cutscene_381a72c871de8a281bc989309617eac2.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c162_cutscene_f9e624ecbc4d9f492b90c4fa4f9e5fcf.bundle"
     },
     {
         "Character": "米哈拉：羁绊锁链",
         "ID": "c162",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c162_01_cutscene_14880a0b2e676b0b9bd478a7e4608dd5.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c162_01_cutscene_7e59d1e6a57d71286a6c21bf98efb169.bundle"
     },
     {
         "Character": "普丽瓦蒂",
         "ID": "c170",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c170_cutscene_c6aaba2522126e6ee1c32237efa9b9f2.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c170_cutscene_e4fb0ed1962e1c85009f2fe7caac0397.bundle"
     },
     {
         "Character": "普丽瓦蒂",
         "ID": "c170",
         "skin_code": "04",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c170_04_cutscene_e48127b15ad74e40dd404c50bd1168f8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c170_04_cutscene_af67965bdcf928ec16dd52d4e1c63b06.bundle"
     },
     {
         "Character": "尤尔夏",
         "ID": "c171",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c171_cutscene_96c5909b9e8e03176234c6f763307cf4.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c171_cutscene_f4a8afa587e149a2b446a54c07ff148a.bundle"
     },
     {
         "Character": "艾德米",
         "ID": "c172",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c172_cutscene_6e623b3ae3d956fad04f3f3a1e75848c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c172_cutscene_6b60520c41e5e15705122dca4f184c75.bundle"
     },
     {
         "Character": "吉萝婷",
         "ID": "c180",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c180_cutscene_3f6c7ae2bbd2713fc86087144c4690c3.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c180_cutscene_6376317fbc476aee9f682ede4f1e5a99.bundle"
     },
     {
         "Character": "梅登",
         "ID": "c181",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c181_cutscene_a4ad06e556effa72810f9d5e15dc7080.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c181_cutscene_f5c2e515662f75b4b25c978a7623370e.bundle"
     },
     {
         "Character": "吉萝婷：寒冬杀手",
         "ID": "c182",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c182_cutscene_2201d432b6bf19927621a1a8dadad89e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c182_cutscene_2201d432b6bf19927621a1a8dadad89e.bundle"
     },
     {
         "Character": "梅登：冰玫瑰",
         "ID": "c183",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c183_cutscene_57f728d3b37ad964ba63631a82372ba8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c183_cutscene_57f728d3b37ad964ba63631a82372ba8.bundle"
     },
     {
         "Character": "鲁德米拉",
         "ID": "c190",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c190_cutscene_b6ca0da8049679b042a4c8c929d96719.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c190_cutscene_b6ca0da8049679b042a4c8c929d96719.bundle"
     },
     {
         "Character": "爱丽丝",
         "ID": "c191",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c191_cutscene_f7a577dcf17c59e0592876ccc69c4ddb.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c191_cutscene_defed21810b42d267a546c5244dd0b5b.bundle"
     },
     {
         "Character": "爱丽丝",
         "ID": "c191",
         "skin_code": "02",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c191_02_cutscene_74a1b96b34cc604ff4ddadda3f6d1406.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c191_02_cutscene_577df2fb176bb4b3cd9d298d9b8f721f.bundle"
     },
     {
         "Character": "托比",
         "ID": "c192",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c192_cutscene_3f3867a4e125d496e2226bf4e3fd83bf.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c192_cutscene_e781444e66c6e4fd3464bcf629fe69e5.bundle"
     },
     {
         "Character": "鲁德米拉：冬日之主",
         "ID": "c194",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c194_cutscene_ef9558b1ba7d3b298baa136cf8bf53a6.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c194_cutscene_ef9558b1ba7d3b298baa136cf8bf53a6.bundle"
     },
     {
         "Character": "爱丽丝：仙境兔女郎",
         "ID": "c195",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c195_cutscene_c3d76593eee9a66875f49a4c4f6b95bb.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c195_cutscene_35866c2231c88ccc572caf2b8a0793fd.bundle"
     },
     {
         "Character": "露菲",
         "ID": "c200",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c200_cutscene_a2865cdb455fa2a2492004164eab498e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c200_cutscene_ab4cfbd96cf3f3703b543d98c77254e9.bundle"
     },
     {
         "Character": "露菲",
         "ID": "c200",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c200_01_cutscene_009b128009bee3a00c41376773bd904f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c200_01_cutscene_d1567c09ec7e7d2a4046252d56d70499.bundle"
     },
     {
         "Character": "杨",
         "ID": "c201",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c201_cutscene_0edcd6fef7a5fdb5850981aea2662a23.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c201_cutscene_423390893b2a44e38f5c4ecf6113e78b.bundle"
     },
     {
         "Character": "朵拉",
         "ID": "c202",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c202_cutscene_ef76a2f08933f92f244388514b14d351.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c202_cutscene_75bb68c9d23eab6f5570cb863101dede.bundle"
     },
     {
         "Character": "露菲：冬日购物狂",
         "ID": "c203",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c203_cutscene_8e365b51247ff18b1284cc37205b00b2.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c203_cutscene_66af2d5a52267ebcc524db85bca0bbd0.bundle"
     },
     {
         "Character": "艾可希雅",
         "ID": "c210",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c210_cutscene_f75f4b604eb8ddb6bb8b97568f59ec97.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c210_cutscene_04666f460b48550c2ce914143db95c35.bundle"
     },
     {
         "Character": "诺薇儿",
         "ID": "c212",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c212_cutscene_4d3d1c7f1adfbecd85a378e4dbc33143.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c212_cutscene_ba8f67f6b7a04b22080f1cd5a954df63.bundle"
     },
     {
         "Character": "白雪公主",
         "ID": "c220",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c220_cutscene_1ddfe32f7a5f8c34811a8281363ab0eb.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c220_cutscene_c76204a28b82aecdf1a8caf75def6b8c.bundle"
     },
     {
         "Character": "长发公主",
         "ID": "c221",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c221_cutscene_c19f93ced3566ac9a1efe580197f1730.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c221_cutscene_80985e8ba8d86344a06fcea3f4d44e91.bundle"
     },
     {
         "Character": "红莲",
         "ID": "c222",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c222_cutscene_2e7283c35aa5d301854642393eaa7890.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c222_cutscene_4fc8b9b6cf7c84b021a2e43fc5010a60.bundle"
     },
     {
         "Character": "红莲",
         "ID": "c222",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c222_01_cutscene_f2bb8036a9fda0319e2a4d11826e883c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c222_01_cutscene_4a0c46a11cf5bdcb6458050691b98112.bundle"
     },
     {
         "Character": "娜由塔",
         "ID": "c223",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c223_cutscene_4dacdaa4c796f9562a7ff066a9fe60ef.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c223_cutscene_316943f3fb4f552008c1f7465af7e49e.bundle"
     },
     {
         "Character": "娜由塔",
         "ID": "c223",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c223_01_cutscene_d7c8de9cfe1b20374c029e3e1cf61216.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c223_01_cutscene_689bc31cb7e8e379c20555868fba79ed.bundle"
     },
     {
         "Character": "白雪公主：纯真年代",
         "ID": "c224",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c224_cutscene_5c879c6b02da46a8e2ee77700b2cf44a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c224_cutscene_5c879c6b02da46a8e2ee77700b2cf44a.bundle"
     },
     {
         "Character": "红莲：暗影",
         "ID": "c225",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c225_cutscene_8753d47d1ac22d022b368d42c89c005f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c225_cutscene_b641eed7b0d411fdd06bd3b906cca549.bundle"
     },
     {
         "Character": "红莲：暗影",
         "ID": "c225",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c225_01_cutscene_f417e8277b55ba49246f83574d0747d3.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c225_01_cutscene_ac5505ccb4c44c704da90cbd99a24e72.bundle"
     },
     {
         "Character": "长发公主：纯洁恩典",
         "ID": "c226",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c226_cutscene_7b26a5e6d7c0d15ca009b3675b10ecb8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c226_cutscene_7b26a5e6d7c0d15ca009b3675b10ecb8.bundle"
     },
     {
         "Character": "哈兰",
         "ID": "c230",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c230_cutscene_6b9036d105b73cb8082633434326fb22.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c230_cutscene_fb2071023180c60d66c68de8f124cd6a.bundle"
     },
     {
         "Character": "伊莎贝尔",
         "ID": "c231",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c231_cutscene_3f8e1bc38bbfa28aa56d014e3f9afd80.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c231_cutscene_584b5e9ebf004b337f9c1bde93efdceb.bundle"
     },
     {
         "Character": "诺雅",
         "ID": "c232",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c232_cutscene_0d58ea7570ac33263282935c15344efa.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c232_cutscene_52a8b85bbf237b0a7b7d736cd5a4da76.bundle"
     },
     {
         "Character": "桃乐丝",
         "ID": "c233",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c233_cutscene_002073e9d7d6dfbaf2dc88317e1b90ac.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c233_cutscene_002073e9d7d6dfbaf2dc88317e1b90ac.bundle"
     },
     {
         "Character": "桃乐丝",
         "ID": "c233",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c233_01_cutscene_e0892c085480e164f3a96b0d6329a32e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c233_01_cutscene_259f403dfaada95a0d03363938825dd5.bundle"
     },
     {
         "Character": "桃乐丝：机缘巧遇",
         "ID": "c234",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c234_cutscene_73dcce41ef677156c77ee42f02dd967e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c234_cutscene_6ddf992a5e93cf7120b20fab63747793.bundle"
     },
     {
         "Character": "鲁玛妮",
         "ID": "c240",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c240_cutscene_8bb6496c1d38fe16ad8a710ea23a5115.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c240_cutscene_de52177dead59ee5c2320993db80ad6a.bundle"
     },
     {
         "Character": "艾菲涅尔",
         "ID": "c241",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c241_cutscene_acbfe27d0ae84992e9cfbe66ccdde33b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c241_cutscene_2f4bb4c99c6c7ef2909ad056c03dc735.bundle"
     },
     {
         "Character": "富克旺",
         "ID": "c242",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c242_cutscene_5ebb8fae333e74389ce2d0bac36f055f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c242_cutscene_1ceedf4b23d6f731aeaa0b46940a56e7.bundle"
     },
     {
         "Character": "神罚",
         "ID": "c260",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c260_cutscene_e043a09abac623fc5b76eef2040ad108.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c260_cutscene_58cdb9895859b88984d95aabbfb88e6d.bundle"
     },
     {
         "Character": "神罚",
         "ID": "c260",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c260_01_cutscene_ef43cb4cedca387c1a74865e36715d59.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c260_01_cutscene_dd58627d55e9f08f09e0f0e9b9d0fa98.bundle"
     },
     {
         "Character": "神罚",
         "ID": "c260",
         "skin_code": "02",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c260_02_cutscene_24941368840d749a8a4fbcb1cffa9399.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c260_02_cutscene_371f6697455baf9a4e96f3556fed1c99.bundle"
     },
     {
         "Character": "尼希利斯塔",
         "ID": "c261",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c261_cutscene_bd98a329ce15acfd08d8822067e55ef6.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c261_cutscene_d5ef90e9240085f3308d1a551ab0402c.bundle"
     },
     {
         "Character": "莉贝雷利奥",
         "ID": "c262",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c262_cutscene_0f18671d0dba805de417304c6e92a37f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c262_cutscene_54ec3be86f18884b77e67776bcc766ad.bundle"
     },
     {
         "Character": "莉贝雷利奥",
         "ID": "c262",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c262_01_cutscene_e909dd49f6e680f8cbeb4a0e274b695b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c262_01_cutscene_31d1363749413b44d249db77de3010b3.bundle"
     },
     {
         "Character": "布兰儿",
         "ID": "c270",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c270_cutscene_b066cfc5f5ffea4440a133e418099bf8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c270_cutscene_c66eae91d916c753fc559778ba48068d.bundle"
     },
     {
         "Character": "布兰儿",
         "ID": "c270",
         "skin_code": "03",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c270_03_cutscene_89d7ba381853424cc78ca31691e10fc7.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c270_03_cutscene_f7b227cefc00272a0ceb784b55c47c51.bundle"
     },
     {
         "Character": "诺亚尔",
         "ID": "c271",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c271_cutscene_24f69c5c106501c8e3272366c3fc54a5.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c271_cutscene_834bfd49029ad282a2ec9c5a86af38ea.bundle"
     },
     {
         "Character": "露姬",
         "ID": "c272",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c272_cutscene_9e7a0eef2f843f67e8394297e568c2c1.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c272_cutscene_8a773e8377b6409b42d4eaa102b13527.bundle"
     },
     {
         "Character": "露姬",
         "ID": "c272",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c272_01_cutscene_dae51de006e983401e0171840d193a55.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c272_01_cutscene_94dc58a5863f191805f4ee8892e231e8.bundle"
     },
     {
         "Character": "罗珊娜",
         "ID": "c280",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c280_cutscene_1b0b8783cf5a2fa26ba005d8686b737c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c280_cutscene_08cc7aa879ce000e1750c074a755a02c.bundle"
     },
     {
         "Character": "牡丹",
         "ID": "c281",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c281_cutscene_82ef65572bc20b0c6b834cdccc79743f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c281_cutscene_833c10eb6e8357c0afb493531ce795a7.bundle"
     },
     {
         "Character": "牡丹",
         "ID": "c281",
         "skin_code": "02",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c281_02_cutscene_e0714bda1dad6f5260cd7a8141b1fc3c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c281_02_cutscene_e0714bda1dad6f5260cd7a8141b1fc3c.bundle"
     },
     {
         "Character": "樱花",
         "ID": "c282",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c282_cutscene_7d5d64f2f752109e9369cc3025ec2251.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c282_cutscene_6c5eaa6ee438517737bc936488755810.bundle"
     },
     {
         "Character": "罗珊娜：高雅海洋",
         "ID": "c283",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c283_cutscene_75064ac0d1c58c459cb6218cf68d79e3.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c283_cutscene_dba48f7a492a299ae34c5019a6df9f99.bundle"
     },
     {
         "Character": "樱花：夏日绽放",
         "ID": "c284",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c284_cutscene_93b87060ea48b7cafa85abed24c5fa37.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c284_cutscene_f3f4d118e779505751aa0dd6968c4bd8.bundle"
     },
     {
         "Character": "玛娜",
         "ID": "c290",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c290_cutscene_2cf36b9f1c79d13405cbce0d1b94a8fd.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c290_cutscene_2cf36b9f1c79d13405cbce0d1b94a8fd.bundle"
     },
     {
         "Character": "爱德",
         "ID": "c310",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c310_cutscene_81ff6ff01b28da739068e57ea046ee61.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c310_cutscene_bd15458d9bf2013d099c450e928bffe2.bundle"
     },
     {
         "Character": "可可",
         "ID": "c311",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c311_cutscene_f7d3ce79eb24ad28880ea7712e57a761.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c311_cutscene_1d0dc47a88ae4795c2c2982c6682b7e9.bundle"
     },
     {
         "Character": "索达",
         "ID": "c312",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c312_cutscene_ed6e18a32d4174b303aeb9ab3bb2fba5.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c312_cutscene_0700a2f03a06f705428a8b297b9fef3d.bundle"
     },
     {
         "Character": "普丽瓦蒂：不友善的女仆",
         "ID": "c313",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c313_cutscene_b71b8548ef6a5876c99c7466b7c94cba.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c313_cutscene_c6bfc9a00e11b5c8420b2486cf5cfd82.bundle"
     },
     {
         "Character": "索达：闪亮兔女郎",
         "ID": "c314",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c314_cutscene_e766b97e56ca530a201be00bf4ad3ce3.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c314_cutscene_3cfc556f07fc831db2ab065b7ab61caa.bundle"
     },
     {
         "Character": "爱德：特工兔女郎",
         "ID": "c315",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c315_cutscene_a36ab5bf056e49e9623526aa560eb04b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c315_cutscene_a36ab5bf056e49e9623526aa560eb04b.bundle"
     },
     {
         "Character": "薇尔维特",
         "ID": "c316",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c316_cutscene_e445ca6cb2dcebdcdc51c1faa89a0f59.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c316_cutscene_491b597a3143bc31d0bac327e1e8024b.bundle"
     },
     {
         "Character": "玛律恰那",
         "ID": "c321",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c321_cutscene_7e72ad06ebca440c6e57b85c130ab18d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c321_cutscene_e2a898298045c2f88be8965d6db589c1.bundle"
     },
     {
         "Character": "玛律恰那",
         "ID": "c321",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c321_01_cutscene_452da3ec348481243ff4a01b974aaf13.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c321_01_cutscene_0a973bfed5bba9e2f535396a367edcdf.bundle"
+    },
+    {
+        "Character": "玛律恰那：海洋进修",
+        "ID": "c322",
+        "skin_code": "00",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c322_cutscene_de273ea65d7a4357d6a6d0b2b1bbdf07.bundle"
     },
     {
         "Character": "皇冠",
         "ID": "c330",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c330_cutscene_c9f153ecd7a09f9a2531ad564e65b51d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c330_cutscene_8463d857099525c7fa2cbb257f99413f.bundle"
     },
     {
         "Character": "皇冠",
         "ID": "c330",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c330_01_cutscene_db253ce4c8095e173b1698a5f6a8190a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c330_01_cutscene_87f5406f5fe3d1ee38300f3a352da9f8.bundle"
     },
     {
         "Character": "钟鸣",
         "ID": "c331",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c331_cutscene_b1050a3226ea6bd41b170a6834d3552f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c331_cutscene_b1050a3226ea6bd41b170a6834d3552f.bundle"
     },
     {
         "Character": "马斯特",
         "ID": "c350",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c350_cutscene_c912713aa9b50af5bd4fd18aa34fc6c1.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c350_cutscene_7ff49175a36b0024bafd38b9a346fe8c.bundle"
     },
     {
         "Character": "安克",
         "ID": "c351",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c351_cutscene_a82ac73b97ac4ea4876f61602dc96a0a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c351_cutscene_7e44b06063655135d387c7e63ca4cb65.bundle"
     },
     {
         "Character": "海伦",
         "ID": "c352",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c352_cutscene_70e304317fde8e4aa8e2d8945db1e0e2.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c352_cutscene_70e304317fde8e4aa8e2d8945db1e0e2.bundle"
     },
     {
         "Character": "海伦",
         "ID": "c352",
         "skin_code": "02",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c352_02_cutscene_ba23917c6745ee047bbf45e35432d29d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c352_02_cutscene_1a2409dbc65acd970dc330ee139f85d6.bundle"
     },
     {
         "Character": "海伦：海蓝宝石",
         "ID": "c353",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c353_cutscene_445c73239b14bdf991d0875e0a8db248.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c353_cutscene_809060fbab73207b47ead2042aa254ec.bundle"
     },
     {
         "Character": "马斯特：浪漫的女仆",
         "ID": "c354",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c354_cutscene_882951fe3186ef72ada0e27e4ed3665c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c354_cutscene_480376306b31bf7b22a2859966e99ff8.bundle"
     },
     {
         "Character": "马斯特：浪漫的女仆",
         "ID": "c354",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c354_01_cutscene_c61184d7c660746c54be88b027121ab7.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c354_01_cutscene_f6ad658407a6c8a6db6e657bb1aa8bc2.bundle"
     },
     {
         "Character": "安克：天真的女仆",
         "ID": "c355",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c355_cutscene_e7ad78a313d3e03a432c1954ac859f8b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c355_cutscene_8ccf862a01032e6b2b7985a0a5564035.bundle"
     },
     {
         "Character": "吉洛",
         "ID": "c361",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c361_cutscene_a8d6a69d63b94b3d0c0012cb00d2dbe2.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c361_cutscene_cd65c29576df763c266982b00d9ca32d.bundle"
     },
     {
         "Character": "尼罗",
         "ID": "c380",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c380_cutscene_02173b92b3d4ee7088ed295cc34ca13e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c380_cutscene_5f71840d326405bc561a66ab0d4298c0.bundle"
     },
     {
         "Character": "饼干",
         "ID": "c381",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c381_cutscene_d4ea1a9c449b8e9b76b12845faec1c67.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c381_cutscene_3f605c1a56b36e52ea20a6502acd3d06.bundle"
     },
     {
         "Character": "莱昂纳",
         "ID": "c382",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c382_cutscene_796f4722e8f5f18bf614012600c68268.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c382_cutscene_fe24ba59d202fd2630254ea37888081c.bundle"
     },
     {
         "Character": "茨瓦伊",
         "ID": "c390",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c390_cutscene_bb5be834a66f073cfabfb0e66c215d0b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c390_cutscene_ee47be927c9df95ba00db062b1a9ad36.bundle"
     },
     {
         "Character": "爱因",
         "ID": "c391",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c391_cutscene_4966a3a4ec2b76e48898978a2f782228.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c391_cutscene_74041a7617ed91b2eba0372c52797170.bundle"
     },
     {
         "Character": "莱伊",
         "ID": "c392",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c392_cutscene_51320936700da5646d92fe18e608780f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c392_cutscene_f651a3fa2c288c898427d59cc8e93220.bundle"
     },
     {
         "Character": "吉尔提",
         "ID": "c400",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c400_cutscene_c8bf93d6c9439fe940a8bb779efa7a24.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c400_cutscene_fbb350b4dd94395c7387b96d9f6fc5af.bundle"
     },
     {
         "Character": "森",
         "ID": "c401",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c401_cutscene_0b82dc01fdc28fc51a2b80b1bc7d4e64.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c401_cutscene_ccceadbe1448021751e3963951065d19.bundle"
     },
     {
         "Character": "坎西",
         "ID": "c402",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c402_cutscene_a7483b65b0060a60095c1c12e03f7e04.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c402_cutscene_a7483b65b0060a60095c1c12e03f7e04.bundle"
     },
     {
         "Character": "坎西：逃生女王",
         "ID": "c403",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c403_cutscene_33a3be70b42682c7d32a8cbe7e94c102.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c403_cutscene_a3341e31c06ff2d86e33dea2e7905ba6.bundle"
     },
     {
         "Character": "芙罗拉",
         "ID": "c411",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c411_cutscene_1a25bcedb394b11458d7a5e6986f5021.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c411_cutscene_7b609a8bb61b1c0059c1a9a843b2282f.bundle"
     },
     {
         "Character": "特蕾娜",
         "ID": "c412",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c412_cutscene_d0e258668312bc87f263b8322b1ad047.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c412_cutscene_6abfd478aa9306a8103ec14e2eb59c38.bundle"
     },
     {
         "Character": "诺伊斯",
         "ID": "c430",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c430_cutscene_28f4822a5df1895aeacb6e6dfa5de4be.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c430_cutscene_769a4411cfdad85952dbcf356f544fa5.bundle"
     },
     {
         "Character": "诺伊斯",
         "ID": "c430",
         "skin_code": "02",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c430_02_cutscene_fcda6784c45897426f3cab6a00a4e0a0.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c430_02_cutscene_b6ecf223434462fbced4c8dced7bcdbc.bundle"
     },
     {
         "Character": "沃纶姆",
         "ID": "c431",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c431_cutscene_5bcd937f733902d9117df3fe49d167c8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c431_cutscene_7c31226ab80df17ce20cee2f65613b8a.bundle"
     },
     {
         "Character": "阿莉亚",
         "ID": "c432",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c432_cutscene_91f86c63ab5d5fdbb1ddbeb11baf989f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c432_cutscene_cd41ad135b99e3ddaaee3ee52ab38f91.bundle"
     },
     {
         "Character": "阿维斯塔",
         "ID": "c441",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c441_cutscene_0852b1ec9c31b8e21f8317db2fbfa80a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c441_cutscene_71af63fe16a45680d76112f608dd6e10.bundle"
     },
     {
         "Character": "娜嘉",
         "ID": "c450",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c450_cutscene_c411b60113db32bcca1019c8f77daba8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c450_cutscene_9c645c1d0d2b07a02737485abd240c33.bundle"
     },
     {
         "Character": "娜嘉",
         "ID": "c450",
         "skin_code": "02",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c450_02_cutscene_7ca1f0b2dd1e059802fddbe8054204f8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c450_02_cutscene_864112c505b0d69efb19f49762ffbfaf.bundle"
     },
     {
         "Character": "蒂亚",
         "ID": "c451",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c451_cutscene_d46f6da8b047f47e5ee41889b5b13116.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c451_cutscene_ba6a1c76c1835c8cf4254e7ddcdd4726.bundle"
     },
     {
         "Character": "小红帽",
         "ID": "c470",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c470_cutscene_2567fe2629f0121ec0f607ebeb86d202.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c470_cutscene_af0d3202eda38ffe897ea8795c94246e.bundle"
     },
     {
         "Character": "小红帽",
         "ID": "c470",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c470_01_cutscene_03f777c7b2f77d681eca478edcada8d3.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c470_01_cutscene_7e8eb241100a4525e96a3e37e9812806.bundle"
     },
     {
         "Character": "小红帽",
         "ID": "c470",
         "skin_code": "02",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c470_02_cutscene_51296244e749624d0ae4964800788b1f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c470_02_cutscene_dd0e636f0390a581ba3b3bca7fe757ef.bundle"
     },
     {
         "Character": "白雪公主：重型武装",
         "ID": "c471",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c471_cutscene_974c86971584524840cb3133cf2eb91c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c471_cutscene_974c86971584524840cb3133cf2eb91c.bundle"
     },
     {
         "Character": "伊莱格",
         "ID": "c500",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c500_cutscene_db27343a9dc9ba961208e88548100860.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c500_cutscene_38c4a7a3c6a82fe7aee273f95c2c4b7e.bundle"
     },
     {
         "Character": "特罗尼",
         "ID": "c501",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c501_cutscene_aaf83423655607329c6587dc7c12098e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c501_cutscene_b4071144929c7573fd26850b2a515c5c.bundle"
     },
     {
         "Character": "伊莱格：boom与惊吓",
         "ID": "c502",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c502_cutscene_63f3ceb8fba11c583a4db93c65ca7b1e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c502_cutscene_63f3ceb8fba11c583a4db93c65ca7b1e.bundle"
     },
     {
         "Character": "灰姑娘",
         "ID": "c511",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c511_cutscene_3be2fa0627fcc9e674b9add426ae0e68.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c511_cutscene_01472b5e661b6ab468cd520f031762a1.bundle"
     },
     {
         "Character": "灰姑娘",
         "ID": "c511",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c511_01_cutscene_ec2da8467784ab943a01c3f12ecf063d.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c511_01_cutscene_ec2da8467784ab943a01c3f12ecf063d.bundle"
     },
     {
         "Character": "小美人鱼",
         "ID": "c513",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c513_cutscene_84be7244a25e4abfe03135e2a848524a.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c513_cutscene_87f57fa11c6ee4f823859c606147e453.bundle"
     },
     {
         "Character": "小美人鱼",
         "ID": "c513",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c513_01_cutscene_d9400c3acbef5ae6a01a62d84504db58.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c513_01_cutscene_d77a47a159084ffd20fdafb1d7b4b5f7.bundle"
+    },
+    {
+        "Character": "小美人鱼",
+        "ID": "c513",
+        "skin_code": "03",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c513_03_cutscene_a6b674c8552a8be1e9b68fef8725cf92.bundle"
     },
     {
         "Character": "格拉维",
         "ID": "c514",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c514_cutscene_9aebf1265245ca46ff2382cbe8cc6575.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c514_cutscene_17b087e957650f5bd1220ee531d8178e.bundle"
+    },
+    {
+        "Character": "灰姑娘：琉璃波光",
+        "ID": "c515",
+        "skin_code": "00",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c515_cutscene_6f3d96714bb7edc52451f855c4e7c13c.bundle"
     },
     {
         "Character": "布蕾德",
         "ID": "c520",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c520_cutscene_6ca76a3a74e4434bdc20aa263829a27b.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c520_cutscene_553a81a20bc5be99fb441f7c183ddb52.bundle"
     },
     {
         "Character": "克劳斯特",
         "ID": "c521",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c521_cutscene_6a8afa37899e3a20c2477765f9d5795e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c521_cutscene_2c517630358567c761849cbb4d81986a.bundle"
     },
     {
         "Character": "索拉",
         "ID": "c532",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c532_cutscene_437183c96daac01f236203f8d1bf3e89.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c532_cutscene_437183c96daac01f236203f8d1bf3e89.bundle"
     },
     {
         "Character": "贝伊",
         "ID": "c550",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c550_cutscene_4e6ffd148e74ab5986053ef453e20fc0.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c550_cutscene_e44cdb2ba5c13c913a9af1778feb76d7.bundle"
     },
     {
         "Character": "克雷伊",
         "ID": "c551",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c551_cutscene_6fbab94ffdfbd2c4247a5c11f4aaaa97.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c551_cutscene_6fbab94ffdfbd2c4247a5c11f4aaaa97.bundle"
     },
     {
         "Character": "方舟黑色游侠",
         "ID": "c570",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c570_cutscene_9f3dd4d3d955da942383f75cf0c60316.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c570_cutscene_9f3dd4d3d955da942383f75cf0c60316.bundle"
     },
     {
         "Character": "潘托姆",
         "ID": "c580",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c580_cutscene_78acdbb6a61a38bf8ac340c020c14b22.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c580_cutscene_09df0d2a0b9002be9219b1b036afaa50.bundle"
     },
     {
         "Character": "阿尔卡娜",
         "ID": "c581",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c581_cutscene_948bdfa21dcfe3b819aec7e36b3073cb.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c581_cutscene_948bdfa21dcfe3b819aec7e36b3073cb.bundle"
     },
     {
         "Character": "蕾贝儿",
         "ID": "c582",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c582_cutscene_e2b8033ca1ea1849a3892b9525433db7.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c582_cutscene_448288e600303bfebf93abd73de8f9f1.bundle"
     },
     {
         "Character": "阿尔卡娜：命运伴侣",
         "ID": "c583",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c583_cutscene_eb1468813b54c193896e438bc08dfba9.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c583_cutscene_18c5f2326744b3a8e001fd06cc3c12ed.bundle"
     },
     {
         "Character": "莫莉",
         "ID": "c590",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c590_cutscene_288084e2e420174aee3554dcfd2f58f1.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c590_cutscene_23a31097e9710d9a840b23a66890eaa7.bundle"
     },
     {
         "Character": "敏特",
         "ID": "c600",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c600_cutscene_596edaed528b031b364d5cdf5a4fc66c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c600_cutscene_fb5e9eb199cf8282e0d3aea183998754.bundle"
     },
     {
         "Character": "普莉卡",
         "ID": "c601",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c601_cutscene_b09418ada0af50662c4bf54ac488c11e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c601_cutscene_b09418ada0af50662c4bf54ac488c11e.bundle"
     },
     {
         "Character": "机甲神谢芙蒂",
         "ID": "c610",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c610_cutscene_be6163c6fb08952b72e9be669d6bfe94.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c610_cutscene_8d29cab409b4a10a7f6c603d867343cf.bundle"
     },
     {
         "Character": "白鹤",
         "ID": "c620",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c620_cutscene_f6b0915417e5034d16a0421bdbae252f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c620_cutscene_31d34a97f05efcc8d0ddbc0e7ba5333f.bundle"
     },
     {
         "Character": "玛奇玛",
         "ID": "c800",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c800_cutscene_07db559086bf8b08dfe454dc3e2ecd03.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c800_cutscene_cd29656616c65216ce47d6286a578338.bundle"
     },
     {
         "Character": "帕瓦",
         "ID": "c801",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c801_cutscene_841371ba88eb03493686a38c53a6d7b9.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c801_cutscene_48df414a2100944f86d447bac578527d.bundle"
     },
     {
         "Character": "姬野",
         "ID": "c802",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c802_cutscene_ce77dd3f5dd22bc0bf911b5ef93697f3.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c802_cutscene_00836146290e1de08ba6ca362b4eef61.bundle"
     },
     {
         "Character": "2b",
         "ID": "c810",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c810_cutscene_538fbbac97301b0e7fed09821281d0ac.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c810_cutscene_41e8d55bb637257b372488fb54a015c6.bundle"
     },
     {
         "Character": "2b",
         "ID": "c810",
         "skin_code": "02",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c810_02_cutscene_dde61ae11f95c626637366bfc04f8779.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c810_02_cutscene_5f93b369c8466a5e1c2cd1152a7264ce.bundle"
     },
     {
         "Character": "A2",
         "ID": "c811",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c811_cutscene_11b1ad579692bb6275923ce7215dcf66.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c811_cutscene_a2735954e00aec1da9d782bf8a264871.bundle"
     },
     {
         "Character": "帕斯卡",
         "ID": "c812",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c812_cutscene_7650b64e7ac03e21a616bdf6cde20019.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c812_cutscene_649400381e5c8f33ed7f25d39868f53f.bundle"
     },
     {
         "Character": "雷姆",
         "ID": "c820",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c820_cutscene_de95493bb22f806cb3b97061f168d2ed.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c820_cutscene_dc885732e2dc2856e9f9520fa270b2a5.bundle"
     },
     {
         "Character": "爱蜜莉雅",
         "ID": "c821",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c821_cutscene_5f1aed74a72277afdcebe501ef26c0cb.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c821_cutscene_5f1aed74a72277afdcebe501ef26c0cb.bundle"
     },
     {
         "Character": "爱蜜莉雅",
         "ID": "c821",
         "skin_code": "01",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c821_01_cutscene_743e1316b4fa718fb3f29accde15dd19.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c821_01_cutscene_d6c73d5e9f7bc823710ab176aac7bedc.bundle"
     },
     {
         "Character": "拉姆",
         "ID": "c822",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c822_cutscene_456ccfe1eac251332bd96d1f8b1c9668.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c822_cutscene_5e6f35cb66a7c2b5ce9ac2075801791d.bundle"
     },
     {
         "Character": "明日香",
         "ID": "c830",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c830_cutscene_56df2e08657ee00f57306d2750729f85.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c830_cutscene_82ef5e64754a904906212d2724e60a18.bundle"
     },
     {
         "Character": "明日香",
         "ID": "c830",
         "skin_code": "03",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c830_03_cutscene_4e172cb794b12aa17e3a630316e22abc.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c830_03_cutscene_79b685bb4767f358b749616d31f19e11.bundle"
     },
     {
         "Character": "零",
         "ID": "c831",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c831_cutscene_dabb5d3db5a748cb4cb33b7020c4ef75.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c831_cutscene_e37fb467bd278c10240de31535c0eb69.bundle"
     },
     {
         "Character": "真理",
         "ID": "c832",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c832_cutscene_d15cab93bda302b7088e199b07dc3942.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c832_cutscene_d15cab93bda302b7088e199b07dc3942.bundle"
     },
     {
         "Character": "美里",
         "ID": "c833",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c833_cutscene_c60b0f40e5c5a7895269a0207936eb9f.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c833_cutscene_01b22ccdf1785e9c366705ea2863761a.bundle"
     },
     {
         "Character": "零（暂称）",
         "ID": "c834",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c834_cutscene_2e663128c738ce3e30aee81277c2c731.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c834_cutscene_55622a6a058e0cbec243ea5391d0c644.bundle"
     },
     {
         "Character": "明日香：wille",
         "ID": "c835",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c835_cutscene_11e0950650dd1262fe1bd3d9f1ddb80e.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c835_cutscene_a5202482ad530f5968a1e7ab5cf8281b.bundle"
     },
     {
         "Character": "樱",
         "ID": "c836",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c836_cutscene_f9c08d64d0315d23d077c3f471697f66.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c836_cutscene_ff7ed58aa9efd765b5343b7a5c62a59a.bundle"
     },
     {
         "Character": "艾达",
         "ID": "c840",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c840_cutscene_d58e3982eb87b59ff81dc66f95c227b8.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c840_cutscene_b8305486150e23380a37176ae5007eb3.bundle"
     },
     {
         "Character": "吉儿",
         "ID": "c841",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c841_cutscene_2202bcb1991b9fcd7413035502fd7ba6.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c841_cutscene_56d42401c3bff38afb2b8d15fdc33f22.bundle"
     },
     {
         "Character": "克莱尔",
         "ID": "c842",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c842_cutscene_59ad8894ed87a48de5392d12b20d42c7.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c842_cutscene_35b6061fb37b2c414387e0a6f0d4748b.bundle"
     },
     {
         "Character": "伊芙",
         "ID": "c850",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c850_cutscene_31b1601a3404f228d5d83211cbbd8831.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c850_cutscene_31b1601a3404f228d5d83211cbbd8831.bundle"
     },
     {
         "Character": "伊芙",
         "ID": "c850",
         "skin_code": "03",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c850_03_cutscene_0057c6976447a35e8b425be9f8ccd50c.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c850_03_cutscene_33bb8c8eb0721cc76e4eea5070f79617.bundle"
     },
     {
         "Character": "渡鸦",
         "ID": "c851",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c851_cutscene_c342218090e73d2784e4b80bd8fad5ce.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c851_cutscene_c342218090e73d2784e4b80bd8fad5ce.bundle"
     },
     {
         "Character": "百合",
         "ID": "c852",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c852_cutscene_5861b7da2cae42b2ff88b833e52d6a95.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c852_cutscene_c1b581fa126f1ddd510682ae60603680.bundle"
     },
     {
         "Character": "千束",
         "ID": "c860",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c860_cutscene_00892e1b51a9adfd0de619b138616fa6.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c860_cutscene_ce75543cec999073d1969c4fa5bcaa61.bundle"
     },
     {
         "Character": "泷奈",
         "ID": "c861",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c861_cutscene_26412fe0b33fd6bd4d3f63c1c89adf40.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c861_cutscene_6b822fccd128fe421f1aa4a293450165.bundle"
     },
     {
         "Character": "胡桃",
         "ID": "c862",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c862_cutscene_76c2c03c66fa015f6862725edcfc8ee0.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c862_cutscene_76c2c03c66fa015f6862725edcfc8ee0.bundle"
     },
     {
         "Character": "舒恩",
         "ID": "c901",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c901_cutscene_6998658919b14186f68b9f69421ed0de.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c901_cutscene_214db09c434d6f413a05f228ce9d183c.bundle"
     },
     {
         "Character": "谢芙蒂",
         "ID": "c907",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c907_cutscene_41867d544f43101b0ba0858c2af33083.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c907_cutscene_ea4dc9838e2b3bb33b54d2e13d5d96af.bundle"
     },
     {
         "Character": "机甲谢芙蒂",
         "ID": "c993",
         "skin_code": "00",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/147-b98100a456/StandaloneWindows64/pck/core/147.6.b18/livewallpaperprefabs_assets_livewallpaper/eventscene_c993_cutscene_f8c309e943059e56b393448743b8d6ab.bundle"
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/core/148.10.b24/livewallpaperprefabs_assets_livewallpaper/eventscene_c993_cutscene_f8c309e943059e56b393448743b8d6ab.bundle"
     }
 ]
