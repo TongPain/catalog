@@ -1,44 +1,44 @@
-[
-    {
-        "character": "迪塞尔",
-        "file_code": "c072",
-        "skin_code": "04",
-        "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/dp/e7e2988/spinecombatcharactergroup(hd)_assets_spine/combat/c072/04/aim_hd_c2763b5c614bda533e9369adf6837c62.bundle"
-    },
-    {
-        "character": "迪塞尔",
-        "file_code": "c072",
-        "skin_code": "04",
-        "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/dp/e7e2988/spinecombatcharactergroup(hd)_assets_spine/combat/c072/04/cover_hd_e6170a8cf5a54eb1e5323d4b5a858714.bundle"
-    },
-    {
-        "character": "普丽瓦蒂",
-        "file_code": "c170",
-        "skin_code": "04",
-        "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/dp/e7e2988/spinecombatcharactergroup(hd)_assets_spine/combat/c170/04/aim_hd_552a577825fdb19c12eac3cb210cc606.bundle"
-    },
-    {
-        "character": "普丽瓦蒂",
-        "file_code": "c170",
-        "skin_code": "04",
-        "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/dp/e7e2988/spinecombatcharactergroup(hd)_assets_spine/combat/c170/04/cover_hd_a1d64b53da7c0803a77e91bbb492f7d9.bundle"
-    },
-    {
-        "character": "真理",
-        "file_code": "c832",
-        "skin_code": "04",
-        "type": "aim",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/dp/e7e2988/spinecombatcharactergroup(hd)_assets_spine/combat/c832/04/aim_hd_59a7b31bbb4e18fea665155e23923fc1.bundle"
-    },
-    {
-        "character": "真理",
-        "file_code": "c832",
-        "skin_code": "04",
-        "type": "cover",
-        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/dp/e7e2988/spinecombatcharactergroup(hd)_assets_spine/combat/c832/04/cover_hd_6382144ce89f2b2f50b4ab37de48aa8d.bundle"
-    }
+[
+    {
+        "character": "迪塞尔",
+        "file_code": "c072",
+        "skin_code": "04",
+        "type": "aim",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/dp/e7e2988/spinecombatcharactergroup(hd)_assets_spine/combat/c072/04/aim_hd_c2763b5c614bda533e9369adf6837c62.bundle"
+    },
+    {
+        "character": "迪塞尔",
+        "file_code": "c072",
+        "skin_code": "04",
+        "type": "cover",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/dp/e7e2988/spinecombatcharactergroup(hd)_assets_spine/combat/c072/04/cover_hd_e6170a8cf5a54eb1e5323d4b5a858714.bundle"
+    },
+    {
+        "character": "普丽瓦蒂",
+        "file_code": "c170",
+        "skin_code": "04",
+        "type": "aim",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/dp/e7e2988/spinecombatcharactergroup(hd)_assets_spine/combat/c170/04/aim_hd_552a577825fdb19c12eac3cb210cc606.bundle"
+    },
+    {
+        "character": "普丽瓦蒂",
+        "file_code": "c170",
+        "skin_code": "04",
+        "type": "cover",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/dp/e7e2988/spinecombatcharactergroup(hd)_assets_spine/combat/c170/04/cover_hd_a1d64b53da7c0803a77e91bbb492f7d9.bundle"
+    },
+    {
+        "character": "真理",
+        "file_code": "c832",
+        "skin_code": "04",
+        "type": "aim",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/dp/e7e2988/spinecombatcharactergroup(hd)_assets_spine/combat/c832/04/aim_hd_59a7b31bbb4e18fea665155e23923fc1.bundle"
+    },
+    {
+        "character": "真理",
+        "file_code": "c832",
+        "skin_code": "04",
+        "type": "cover",
+        "hashed_name": "https://cloud.nikke-kr.com/prdenv/148-b2b9f2ed34/StandaloneWindows64/pck/dp/e7e2988/spinecombatcharactergroup(hd)_assets_spine/combat/c832/04/cover_hd_6382144ce89f2b2f50b4ab37de48aa8d.bundle"
+    }
 ]
