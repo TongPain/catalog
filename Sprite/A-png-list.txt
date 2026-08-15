@@ -258,6 +258,7 @@ mi_c402_00_s.png
 mi_c403_00_s.png
 mi_c403_01_s.png
 mi_c411_00_s.png
+mi_c411_01_s.png
 mi_c412_00_s.png
 mi_c412_01_s.png
 mi_c430_00_s.png
@@ -320,6 +321,7 @@ mi_c570_99_s.png
 mi_c571_00_s.png
 mi_c572_00_s.png
 mi_c580_00_s.png
+mi_c580_01_s.png
 mi_c581_00_s.png
 mi_c582_00_s.png
 mi_c583_00_s.png
@@ -394,6 +396,12 @@ mi_c861_00_s.png
 mi_c861_01_s.png
 mi_c861_02_s.png
 mi_c862_00_s.png
+mi_c870_00_s.png
+mi_c870_01_s.png
+mi_c870_02_s.png
+mi_c871_00_s.png
+mi_c871_01_s.png
+mi_c871_02_s.png
 mi_c890_00_s.png
 mi_c900_00_s.png
 mi_c901_00_s.png
