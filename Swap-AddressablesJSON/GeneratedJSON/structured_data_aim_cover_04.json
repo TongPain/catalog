@@ -1,44 +1,44 @@
-[
-    {
-        "character": "迪塞尔",
-        "file_code": "c072",
-        "skin_code": "04",
-        "type": "aim",
-        "hashed_name": "c2763b5c614bda533e9369adf6837c62"
-    },
-    {
-        "character": "迪塞尔",
-        "file_code": "c072",
-        "skin_code": "04",
-        "type": "cover",
-        "hashed_name": "e6170a8cf5a54eb1e5323d4b5a858714"
-    },
-    {
-        "character": "普丽瓦蒂",
-        "file_code": "c170",
-        "skin_code": "04",
-        "type": "aim",
-        "hashed_name": "552a577825fdb19c12eac3cb210cc606"
-    },
-    {
-        "character": "普丽瓦蒂",
-        "file_code": "c170",
-        "skin_code": "04",
-        "type": "cover",
-        "hashed_name": "a1d64b53da7c0803a77e91bbb492f7d9"
-    },
-    {
-        "character": "真理",
-        "file_code": "c832",
-        "skin_code": "04",
-        "type": "aim",
-        "hashed_name": "59a7b31bbb4e18fea665155e23923fc1"
-    },
-    {
-        "character": "真理",
-        "file_code": "c832",
-        "skin_code": "04",
-        "type": "cover",
-        "hashed_name": "6382144ce89f2b2f50b4ab37de48aa8d"
-    }
+[
+    {
+        "character": "迪塞尔",
+        "file_code": "c072",
+        "skin_code": "04",
+        "type": "aim",
+        "hashed_name": "c2763b5c614bda533e9369adf6837c62"
+    },
+    {
+        "character": "迪塞尔",
+        "file_code": "c072",
+        "skin_code": "04",
+        "type": "cover",
+        "hashed_name": "e6170a8cf5a54eb1e5323d4b5a858714"
+    },
+    {
+        "character": "普丽瓦蒂",
+        "file_code": "c170",
+        "skin_code": "04",
+        "type": "aim",
+        "hashed_name": "552a577825fdb19c12eac3cb210cc606"
+    },
+    {
+        "character": "普丽瓦蒂",
+        "file_code": "c170",
+        "skin_code": "04",
+        "type": "cover",
+        "hashed_name": "a1d64b53da7c0803a77e91bbb492f7d9"
+    },
+    {
+        "character": "真理",
+        "file_code": "c832",
+        "skin_code": "04",
+        "type": "aim",
+        "hashed_name": "59a7b31bbb4e18fea665155e23923fc1"
+    },
+    {
+        "character": "真理",
+        "file_code": "c832",
+        "skin_code": "04",
+        "type": "cover",
+        "hashed_name": "6382144ce89f2b2f50b4ab37de48aa8d"
+    }
 ]
