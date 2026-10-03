@@ -68,4 +68,4 @@ Improved various error messages and adjusted some rarely used trigger logic.
 Improved performance when handling a large number of Mods, reducing excessive loading times and persistent UI stuttering. (Experimental)
 Added a search box to all interfaces that use "Select from Mod List".
 Improved various other issues found during troubleshooting and testing.
-limit=0
+limit=1
