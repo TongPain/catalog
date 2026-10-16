@@ -1,71 +1,53 @@
-version=1.1.7-26.10.1
-announcement=新增 "修复大厅/爆裂紫色"功能，可在界面中修复显示紫色问题的lobby、burst类型的mod
-新增 皮肤交换中的action(简易技能动画)类型的交换逻辑
-新增 皮肤交换-物理修复功能(修复角色/皮肤交换后导致角色战斗时的贴图异常抖动问题)
-新增 故障排查-彻底卸载Mod和NMM运行时文件功能
-新增 Mod列表-筛选功能，可在当前列表按规则筛选出想要显示的Mod列表
-新增 重新打包-重新打包到指定角色功能(可将Mod效果打包到指定角色上)
-新增 游戏资源文件夹定位失败时，可手动在界面中按教程定位文件夹位置
-修复 热应用Mod(运行时应用Mod)无法生效的问题
-修复 预览界面编辑骨骼导出失败的一些问题
-修复 预览-编辑骨骼/图集-隐藏骨骼后导出后损坏mod的问题
-修复 全屏动画背景扩大-导入写回时异常报错的问题
-修复 皮肤交换中，部分角色交换后生成的文件和预期不符的问题
-修复 特殊类型/命名的Mod被应用时跳过的问题
-优化 Action类型的Mod的应用逻辑
-优化 总览界面和维护通知的一些问题
-优化 重新打包的整体流程，修复部分Mod打包后仍无法使用的问题
-优化 重新打包界面的操作逻辑，使其更便捷
-优化 NMM环境异常时的引导和文案
-优化 窗口边缘缩放拖动操作不灵敏的问题
-优化 部分报错信息和部分不常用的触发逻辑
-优化 Mod数量过多时，加载时间太慢或界面持续卡顿的问题(测试)
-优化 在所有"从Mod列表中选择"的界面中添加搜索框
-优化 其他排查到的部分问题
-announcement_tw=新增 "修復大廳/爆裂紫色"功能，可在界面中修復顯示紫色問題的lobby、burst類型的mod
-新增 皮膚交換中的action(簡易技能動畫)類型的交換邏輯
-新增 皮膚交換-物理修復功能(修復角色/皮膚交換後導致角色戰鬥時的貼圖異常抖動問題)
-新增 故障排查-徹底卸載Mod和NMM運行時文件功能
-新增 Mod列表-篩選功能，可在當前列表按規則篩選出想要顯示的Mod列表
-新增 重新打包-重新打包到指定角色功能(可將Mod效果打包到指定角色上)
-新增 遊戲資源文件夾定位失敗時，可手動在界面中按教程定位文件夾位置
-修復 熱應用Mod(運行時應用Mod)無法生效的問題
-修復 預覽界面編輯骨骼導出失敗的一些問題
-修復 預覽-編輯骨骼/圖集-隱藏骨骼後導出後損壞mod的問題
-修復 全屏動畫背景擴大-導入寫回時異常報錯的問題
-修復 皮膚交換中，部分角色交換後生成的文件和預期不符的問題
-修復 特殊類型/命名的Mod被應用時跳過的問題
-優化 Action類型的Mod的應用邏輯
-優化 總覽界面和維護通知的一些問題
-優化 重新打包的整體流程，修復部分Mod打包後仍無法使用的問題
-優化 重新打包界面的操作邏輯，使其更便捷
-優化 NMM環境異常時的引導和文案
-優化 窗口邊緣縮放拖動操作不靈敏的問題
-優化 部分報錯信息和部分不常用的觸發邏輯
-優化 Mod數量過多時，加載時間太慢或界面持續卡頓的問題(測試)
-優化 在所有"從Mod列表中選擇"的界面中添加搜索框
-優化 其他排查到的部分問題
-announcement_en=Added a "Fix Lobby/Burst Purple Issue" feature, allowing lobby and burst type Mods with purple display issues to be repaired directly from the interface.
-Added Skin Swap support for action type assets (simplified skill animations).
-Added a Skin Swap - Physics Fix feature to fix abnormal texture jitter during combat caused by character/skin swaps.
-Added a Troubleshooting - Completely Uninstall Mods and NMM Runtime Files feature.
-Added a filtering feature to the Mod List, allowing Mods in the current list to be filtered based on specified rules.
-Added a Repacking - Repack to Specified Character feature, allowing Mod effects to be repacked for a selected character.
-Added support for manually locating the game resource folder through the interface by following the provided guide when automatic folder detection fails.
-Fixed an issue where Hot Mod Application (applying Mods while the game is running) did not take effect.
-Fixed several issues that could cause skeleton exports to fail after editing them in the Preview interface.
-Fixed an issue where Mods could become corrupted after exporting from Preview - Edit Skeleton/Atlas with hidden bones enabled.
-Fixed an issue where importing and writing back data for the Fullscreen Animation Background Expansion feature could cause unexpected errors.
-Fixed an issue in Skin Swap where files generated after swapping certain characters did not match the expected results.
-Fixed an issue where Mods with special types or naming formats could be skipped when applying Mods.
-Improved the Mod application logic for Action type Mods.
-Improved several issues related to the Overview interface and maintenance notifications.
-Improved the overall Repacking process and fixed cases where some Mods still could not be used after being repacked.
-Improved the workflow of the Repacking interface to make it more convenient to use.
-Improved guidance and related text shown when issues are detected in the NMM environment.
-Improved the responsiveness of resizing windows by dragging their edges.
-Improved various error messages and adjusted some rarely used trigger logic.
-Improved performance when handling a large number of Mods, reducing excessive loading times and persistent UI stuttering. (Experimental)
-Added a search box to all interfaces that use "Select from Mod List".
-Improved various other issues found during troubleshooting and testing.
+version=1.1.8-26.10.16
+announcement=新增 预览-编辑骨骼/图集界面中添加可输入RPG数值的功能
+新增 管理器设置界面新增调整缩放方式的功能
+新增 重新打包到指定角色、重新打包为初始皮肤逻辑中添加音效替换逻辑
+新增 头像交换、物理修复的预设中添加从文本文件导入的功能
+新增 支持应用full（角色剪影-进入角色详细页面时的蓝色剪影）类型Mod并添加其命名规则
+新增 皮肤交换中新增full（角色剪影）类型的交换功能
+新增 右键任意Mod-导出PNG预览图（静态）功能
+优化 部分信息的本地化文本并补齐缺失部分
+优化 部分界面显示样式
+优化 重新打包导致损坏Mod的问题
+优化 修复大厅/爆裂紫色 逻辑中，增加检测修复环境，如果缺少运行环境会提示下载
+优化 角色头像/立绘/其他预览图的检测逻辑，防止每次启动NMM时都弹出缺少预览图
+优化 角色头像/立绘/其他预览图的检测逻辑，如果超过两次弹出缺少图片则第三次可以跳过检测逻辑（游戏更新后会再次触发检测）
+修复 皮肤交换中的standing、aim、cover类型的音效未替换的问题
+修复 部分语言环境下的角色名称显示异常的问题
+修复 皮肤交换界面初始化加载显示异常的问题
+修复 重新打包为初始皮肤、重新打包到指定角色功能导致的缺失背景问题
+announcement_tw=新增 預覽-編輯骨骼/圖集界面中添加可輸入RPG數值的功能
+新增 管理器設置界面新增調整縮放方式的功能
+新增 重新打包到指定角色、重新打包爲初始皮膚邏輯中添加音效替換邏輯
+新增 頭像交換、物理修復的預設中添加從文本文件導入的功能
+新增 支持應用full（角色剪影-進入角色詳細頁面時的藍色剪影）類型Mod並添加其命名規則
+新增 皮膚交換中新增full（角色剪影）類型的交換功能
+新增 右鍵任意Mod-導出PNG預覽圖（靜態）功能
+優化 部分信息的本地化文本並補齊缺失部分
+優化 部分界面顯示樣式
+優化 重新打包導致損壞Mod的問題
+優化 修復大廳/爆裂紫色 邏輯中，增加檢測修復環境，如果缺少運行環境會提示下載
+優化 角色頭像/立繪/其他預覽圖的檢測邏輯，防止每次啓動NMM時都彈出缺少預覽圖
+優化 角色頭像/立繪/其他預覽圖的檢測邏輯，如果超過兩次彈出缺少圖片則第三次可以跳過檢測邏輯（遊戲更新後會再次觸發檢測）
+修復 皮膚交換中的standing、aim、cover類型的音效未替換的問題
+修復 部分語言環境下的角色名稱顯示異常的問題
+修復 皮膚交換界面初始化加載顯示異常的問題
+修復 重新打包爲初始皮膚、重新打包到指定角色功能導致的缺失背景問題
+announcement_en=Added support for entering RPG values in the **Preview - Edit Skeleton/Atlas** interface.
+Added a new option to adjust the UI scaling mode in the Manager Settings interface.
+Added sound effect replacement logic to the **Repack to Specified Character** and **Repack as Default Skin** features.
+Added support for importing presets from text files in the **Portrait Swap** and **Physics Fix** features.
+Added support for applying `full` type Mods (character silhouettes — the blue silhouettes displayed when entering a character's details page), along with corresponding naming rules.
+Added support for swapping `full` type assets (character silhouettes) in Skin Swap.
+Added a **Right-click Mod - Export PNG Preview (Static)** feature, allowing static PNG previews to be exported from any Mod.
+Improved localization text and filled in missing translations.
+Improved the visual appearance of several interfaces.
+Improved the Repacking logic to prevent Mods from becoming corrupted during the process.
+Improved the **Fix Lobby/Burst Purple Issue** feature by adding environment checks. If required runtime components are missing, users will be prompted to download them.
+Improved the detection logic for character portraits, character artwork, and other preview images to prevent missing-preview warnings from appearing every time NMM starts.
+Improved the missing-preview detection logic. If missing-image warnings appear more than twice, users can skip the detection process on the third occurrence. (Detection will be triggered again after a game update.)
+Fixed an issue where sound effects for `standing`, `aim`, and `cover` type assets were not replaced during Skin Swap.
+Fixed an issue where character names were displayed incorrectly under certain language settings.
+Fixed an issue where the Skin Swap interface displayed incorrectly during initialization.
+Fixed an issue where the **Repack as Default Skin** and **Repack to Specified Character** features could cause background assets to go missing.
 limit=1
