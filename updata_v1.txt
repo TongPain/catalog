@@ -50,4 +50,4 @@ Fixed an issue where sound effects for `standing`, `aim`, and `cover` type asset
 Fixed an issue where character names were displayed incorrectly under certain language settings.
 Fixed an issue where the Skin Swap interface displayed incorrectly during initialization.
 Fixed an issue where the **Repack as Default Skin** and **Repack to Specified Character** features could cause background assets to go missing.
-limit=1
+limit=0
