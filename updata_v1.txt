@@ -29,4 +29,4 @@ Fixed several issues related to game resource synchronization and switching betw
 Improved the download logic during game resource synchronization.
 Added support for **Particle Atlas Mode** in the **Fullscreen Animation Background Expansion** feature.
 Added a new **NIKKE 4th Anniversary** theme across the entire NMM interface.
-limit=0
+limit=1
