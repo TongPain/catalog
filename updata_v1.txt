@@ -1,53 +1,32 @@
-version=1.1.8-26.10.16
-announcement=新增 预览-编辑骨骼/图集界面中添加可输入RPG数值的功能
-新增 管理器设置界面新增调整缩放方式的功能
-新增 重新打包到指定角色、重新打包为初始皮肤逻辑中添加音效替换逻辑
-新增 头像交换、物理修复的预设中添加从文本文件导入的功能
-新增 支持应用full（角色剪影-进入角色详细页面时的蓝色剪影）类型Mod并添加其命名规则
-新增 皮肤交换中新增full（角色剪影）类型的交换功能
-新增 右键任意Mod-导出PNG预览图（静态）功能
-优化 部分信息的本地化文本并补齐缺失部分
-优化 部分界面显示样式
-优化 重新打包导致损坏Mod的问题
-优化 修复大厅/爆裂紫色 逻辑中，增加检测修复环境，如果缺少运行环境会提示下载
-优化 角色头像/立绘/其他预览图的检测逻辑，防止每次启动NMM时都弹出缺少预览图
-优化 角色头像/立绘/其他预览图的检测逻辑，如果超过两次弹出缺少图片则第三次可以跳过检测逻辑（游戏更新后会再次触发检测）
-修复 皮肤交换中的standing、aim、cover类型的音效未替换的问题
-修复 部分语言环境下的角色名称显示异常的问题
-修复 皮肤交换界面初始化加载显示异常的问题
-修复 重新打包为初始皮肤、重新打包到指定角色功能导致的缺失背景问题
-announcement_tw=新增 預覽-編輯骨骼/圖集界面中添加可輸入RPG數值的功能
-新增 管理器設置界面新增調整縮放方式的功能
-新增 重新打包到指定角色、重新打包爲初始皮膚邏輯中添加音效替換邏輯
-新增 頭像交換、物理修復的預設中添加從文本文件導入的功能
-新增 支持應用full（角色剪影-進入角色詳細頁面時的藍色剪影）類型Mod並添加其命名規則
-新增 皮膚交換中新增full（角色剪影）類型的交換功能
-新增 右鍵任意Mod-導出PNG預覽圖（靜態）功能
-優化 部分信息的本地化文本並補齊缺失部分
-優化 部分界面顯示樣式
-優化 重新打包導致損壞Mod的問題
-優化 修復大廳/爆裂紫色 邏輯中，增加檢測修復環境，如果缺少運行環境會提示下載
-優化 角色頭像/立繪/其他預覽圖的檢測邏輯，防止每次啓動NMM時都彈出缺少預覽圖
-優化 角色頭像/立繪/其他預覽圖的檢測邏輯，如果超過兩次彈出缺少圖片則第三次可以跳過檢測邏輯（遊戲更新後會再次觸發檢測）
-修復 皮膚交換中的standing、aim、cover類型的音效未替換的問題
-修復 部分語言環境下的角色名稱顯示異常的問題
-修復 皮膚交換界面初始化加載顯示異常的問題
-修復 重新打包爲初始皮膚、重新打包到指定角色功能導致的缺失背景問題
-announcement_en=Added support for entering RPG values in the **Preview - Edit Skeleton/Atlas** interface.
-Added a new option to adjust the UI scaling mode in the Manager Settings interface.
-Added sound effect replacement logic to the **Repack to Specified Character** and **Repack as Default Skin** features.
-Added support for importing presets from text files in the **Portrait Swap** and **Physics Fix** features.
-Added support for applying `full` type Mods (character silhouettes — the blue silhouettes displayed when entering a character's details page), along with corresponding naming rules.
-Added support for swapping `full` type assets (character silhouettes) in Skin Swap.
-Added a **Right-click Mod - Export PNG Preview (Static)** feature, allowing static PNG previews to be exported from any Mod.
-Improved localization text and filled in missing translations.
-Improved the visual appearance of several interfaces.
-Improved the Repacking logic to prevent Mods from becoming corrupted during the process.
-Improved the **Fix Lobby/Burst Purple Issue** feature by adding environment checks. If required runtime components are missing, users will be prompted to download them.
-Improved the detection logic for character portraits, character artwork, and other preview images to prevent missing-preview warnings from appearing every time NMM starts.
-Improved the missing-preview detection logic. If missing-image warnings appear more than twice, users can skip the detection process on the third occurrence. (Detection will be triggered again after a game update.)
-Fixed an issue where sound effects for `standing`, `aim`, and `cover` type assets were not replaced during Skin Swap.
-Fixed an issue where character names were displayed incorrectly under certain language settings.
-Fixed an issue where the Skin Swap interface displayed incorrectly during initialization.
-Fixed an issue where the **Repack as Default Skin** and **Repack to Specified Character** features could cause background assets to go missing.
+version=1.2.1-26.10.31
+announcement=修复 NIKKE四周年更新后导致NMM无法同步资源的问题
+修复 皮肤交换-full（角色剪影）类型的成品显示异常问题
+修复 重新打包-音效同步导致重新打包失败的问题
+修复 重新打包-多PNG导致重新打包失败的问题
+修复 预览Mod-编辑-导出时lz4压缩报错的问题
+修复 左上角导航栏的版本海报不更新的问题
+修复 同步游戏资源、切换资源提取方式时的一些问题
+优化 同步游戏资源时的下载逻辑
+新增 全屏动画背景扩大-粒子图集模式-的处理方式
+新增 NIKKE-四周年全界面主题样式
+announcement_tw=修復 NIKKE 四週年更新後導致 NMM 無法同步遊戲資源的問題
+修復皮膚交換中 `full`（角色剪影）類型的成品顯示異常問題
+修復重新打包時音效同步導致重新打包失敗的問題
+修復重新打包時因包含多個 PNG 檔案而導致重新打包失敗的問題
+修復預覽 Mod - 編輯 - 匯出時發生 LZ4 壓縮錯誤的問題
+修復左上角導覽列中的版本海報未更新的問題
+修復同步遊戲資源及切換資源提取方式時的部分問題
+優化同步遊戲資源時的下載邏輯
+新增「全螢幕動畫背景擴大」功能中的「粒子圖集模式」處理方式
+新增 NIKKE 四週年全介面主題樣式
+announcement_en=Fixed an issue where NMM could not synchronize game resources after the NIKKE 4th Anniversary update.
+Fixed an issue where the final output of `full` type assets (character silhouettes) was displayed incorrectly after Skin Swap.
+Fixed an issue where sound effect synchronization could cause Repacking to fail.
+Fixed an issue where Mods containing multiple PNG files could cause Repacking to fail.
+Fixed an LZ4 compression error that occurred when exporting edited Mods from the Preview interface.
+Fixed an issue where the version banner in the top-left navigation bar was not updating.
+Fixed several issues related to game resource synchronization and switching between resource extraction methods.
+Improved the download logic during game resource synchronization.
+Added support for **Particle Atlas Mode** in the **Fullscreen Animation Background Expansion** feature.
+Added a new **NIKKE 4th Anniversary** theme across the entire NMM interface.
 limit=0
