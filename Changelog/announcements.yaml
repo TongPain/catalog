@@ -1,0 +1,454 @@
+# NIKKE Mod Manager · 公告中心 / Announcement Center
+# GitHub 发布路径：Changelog/announcements.yaml（UTF-8）。
+# 每个公告／历史版本 ID 保持稳定；新增版本使用新 ID 并置于 items 顶部。
+# locales 独立：仅在某一语言可见的条目只写入该语言，无需使用空白翻译占位。
+# 项目类型：feature 新增 / fix 修复 / improvement 优化 / change 调整 / note 提示。
+# badge 为可选标签；date 为可选日期，有正式发布日期时写为带引号的 YYYY-MM-DD。
+
+schema: 1
+notices:
+  - id: nmm-release-history
+    type: info
+    pinned: true
+    locales:
+      zh_CN:
+        title: 更新历史
+        summary: 查看 NMM 1.3.0 与 1.2.8 的重要改动、修复和后续追加内容。
+      zh_TW:
+        title: 更新歷史
+        summary: 查看 NMM 1.3.0 與 1.2.8 的重要變更、修正與後續追加內容。
+      en:
+        title: Release history
+        summary: Highlights, fixes, and additional updates for NMM 1.3.0 and 1.2.8.
+    items:
+      - id: nmm-release-1-3-0
+        version: 1.3.0
+        locales:
+          zh_CN:
+            title: 1.3.0 版本更新
+            summary: 新增 Mod 诊断与修复、莫奈主题、全新语音字幕与物品统计；改善预览、骨骼编辑和大量 Mod 的使用体验。
+            sections:
+              - title: 版本亮点
+                items:
+                  - type: feature
+                    text: 新增「Mod 诊断与修复」，可取代原本的重新打包流程。
+                    badge: 重大更新
+                  - type: feature
+                    text: 推出 NMM 莫奈主题，加入液态玻璃卡片和动态透彩材质。
+                  - type: feature
+                    text: 新增旧版数据快速迁移；从本版开始使用 NMM 后，下次更新时生效。
+                    badge: 下次更新起生效
+              - title: 问题修复
+                items:
+                  - type: fix
+                    text: 修复预览的骨骼编辑界面在非全屏时，部分按钮无法正常点击的问题。
+                  - type: fix
+                    text: 修复 Spine 版本不是 4.1.x 时无法预览的问题，新增 4.0.x 预览支持。
+                  - type: fix
+                    text: 修复皮肤交换和重新打包可能导致 Standing 成品文件损坏的问题。
+                  - type: fix
+                    text: 修复预览 Mod 时的 CAB 相关报错。
+                  - type: fix
+                    text: 修复游戏未更新时，误报本地游戏版本与服务器版本不同的问题。
+                  - type: fix
+                    text: 修复在骨骼编辑的「图层／图集」中选中条目时，角色立绘没有反馈的问题。
+                  - type: fix
+                    text: 修复部分角色的插槽图片经过编辑导出后，成品无法在游戏中正常使用的问题。
+                  - type: fix
+                    text: 修复多个插槽共享同一图片时，修改其中一个插槽的图片会影响其他插槽的问题。
+                  - type: fix
+                    text: 修复在管理器设置中取消更改「添加角色编号＆皮肤编号栏」后，开关未恢复原状态的问题。
+              - title: 新增功能与优化
+                items:
+                  - type: feature
+                    text: 资源提取新增对 FD 目录的支持。
+                  - type: feature
+                    text: 正常重新打包新增详细工作日志。
+                  - type: feature
+                    text: 同类型配套 Mod 超过 3 个时，Mod 列表将其整合为一条可展开的折叠卡。
+                  - type: improvement
+                    text: 重做部分界面的 UI，改善整体视觉表现。
+                  - type: improvement
+                    text: 改进正常重新打包流程，加入更严格的文件状态检查。
+              - title: 追加更新 · 新功能
+                items:
+                  - type: feature
+                    text: 可在管理器设置中开启悬停预览：停留在预览图标上即可查看 Mod 的静态预览图。
+                  - type: feature
+                    text: Mod 图表的角色详情新增卡片视图，自动生成并显示 Mod 静态预览图。
+                  - type: feature
+                    text: 骨骼编辑的图层区新增简易文字教程。
+                  - type: feature
+                    text: Mod 列表和图表新增多种类型排序方式。
+                  - type: feature
+                    text: 管理器设置可选择 Mod 图表角色详情的默认视图。
+                  - type: feature
+                    text: 推出全新语音字幕 Mod 流程：支持角色配对、自定义、生成和应用语音或字幕 Mod。
+                    badge: 重大更新
+                  - type: feature
+                    text: 新增物品统计。开启后，即使不启动 NMM，游玩时也会记录部分游戏物品的数量，供总览统计。
+                    badge: 测试
+              - title: 追加更新 · 修复与调整
+                items:
+                  - type: fix
+                    text: 完全重做本机网络环境最佳 Hosts 源功能，修复旧版功能无法正常使用的问题。
+                  - type: change
+                    text: 移除容易出现问题的旧版语音字幕实现，由新的 Mod 流程接替。
+                  - type: improvement
+                    text: 优化多选与筛选，并为两项操作增加数量上限。
+                  - type: improvement
+                    text: 优化 Mod 图表角色详情中的部分操作方式。
+                  - type: improvement
+                    text: 优化 Mod 图表的界面和流畅度，减少 Mod 数量较多时的卡顿。
+          zh_TW:
+            title: 1.3.0 版本更新
+            summary: 新增 Mod 診斷與修復、莫內主題、全新語音字幕與道具統計；改善預覽、骨骼編輯與大量 Mod 的使用體驗。
+            sections:
+              - title: 版本亮點
+                items:
+                  - type: feature
+                    text: 新增「Mod 診斷與修復」，可取代原本的重新封裝流程。
+                    badge: 重大更新
+                  - type: feature
+                    text: 推出 NMM 莫內主題，加入液態玻璃卡片與動態透彩材質。
+                  - type: feature
+                    text: 新增舊版資料快速移轉；從本版本開始使用 NMM 後，下次更新時生效。
+                    badge: 下次更新起生效
+              - title: 問題修正
+                items:
+                  - type: fix
+                    text: 修正預覽的骨骼編輯介面在非全螢幕時，部分按鈕無法正常點擊的問題。
+                  - type: fix
+                    text: 修正 Spine 版本不是 4.1.x 時無法預覽的問題，新增 4.0.x 預覽支援。
+                  - type: fix
+                    text: 修正造型交換與重新封裝可能導致 Standing 成品檔案損壞的問題。
+                  - type: fix
+                    text: 修正預覽 Mod 時與 CAB 相關的錯誤。
+                  - type: fix
+                    text: 修正遊戲未更新時，誤報本機遊戲版本與伺服器版本不同的問題。
+                  - type: fix
+                    text: 修正在骨骼編輯的「圖層／圖集」中選取項目時，角色立繪沒有反應的問題。
+                  - type: fix
+                    text: 修正部分角色的插槽圖片經編輯匯出後，成品無法在遊戲中正常使用的問題。
+                  - type: fix
+                    text: 修正多個插槽共用同一圖片時，修改其中一個插槽的圖片會影響其他插槽的問題。
+                  - type: fix
+                    text: 修正在管理器設定中取消變更「新增角色編號與造型編號欄」後，開關未恢復原狀態的問題。
+              - title: 新增功能與最佳化
+                items:
+                  - type: feature
+                    text: 資源擷取新增對 FD 目錄的支援。
+                  - type: feature
+                    text: 正常重新封裝新增詳細作業記錄。
+                  - type: feature
+                    text: 同類型配套 Mod 超過 3 個時，Mod 清單會將其合併為一張可展開的摺疊卡片。
+                  - type: improvement
+                    text: 重設部分介面的 UI，改善整體視覺呈現。
+                  - type: improvement
+                    text: 改善正常重新封裝流程，加入更嚴格的檔案狀態檢查。
+              - title: 追加更新 · 新功能
+                items:
+                  - type: feature
+                    text: 可在管理器設定中開啟停留預覽：將滑鼠停在預覽圖示上即可查看 Mod 的靜態預覽圖。
+                  - type: feature
+                    text: Mod 圖表的角色詳細資料新增卡片檢視，自動產生並顯示 Mod 靜態預覽圖。
+                  - type: feature
+                    text: 骨骼編輯的圖層區新增簡易文字教學。
+                  - type: feature
+                    text: Mod 清單與圖表新增多種依類型排序的方式。
+                  - type: feature
+                    text: 管理器設定可選擇 Mod 圖表角色詳細資料的預設檢視。
+                  - type: feature
+                    text: 推出全新語音字幕 Mod 流程：支援角色配對、自訂、產生與套用語音或字幕 Mod。
+                    badge: 重大更新
+                  - type: feature
+                    text: 新增道具統計。開啟後，即使未啟動 NMM，遊玩時也會記錄部分遊戲道具的數量，供總覽統計。
+                    badge: 測試
+              - title: 追加更新 · 修正與調整
+                items:
+                  - type: change
+                    text: 移除容易出現問題的舊版語音字幕實作，由全新的 Mod 流程接替。
+                  - type: improvement
+                    text: 最佳化多選與篩選，並為兩項操作加上數量上限。
+                  - type: improvement
+                    text: 最佳化 Mod 圖表角色詳細資料中的部分操作方式。
+                  - type: improvement
+                    text: 最佳化 Mod 圖表的介面與流暢度，減少 Mod 數量較多時的卡頓。
+          en:
+            title: Version 1.3.0
+            summary: Mod Diagnostics & Repair, a new Monet theme, redesigned Voice & Subtitles, and item tracking, plus
+              improvements to previews, bone editing, and large libraries.
+            sections:
+              - title: Highlights
+                items:
+                  - type: feature
+                    text: Added Mod Diagnostics & Repair as a replacement for the previous repacking workflow.
+                    badge: Major update
+                  - type: feature
+                    text: Introduced the new Monet theme with liquid-glass cards and dynamic iridescent materials.
+                  - type: feature
+                    text: Added quick migration from the previous installation. After using this version, the feature
+                      takes effect the next time you update.
+                    badge: From the next update
+              - title: Fixes
+                items:
+                  - type: fix
+                    text: Fixed buttons that did not respond correctly in the preview’s bone editor outside fullscreen
+                      mode.
+                  - type: fix
+                    text: Added Spine 4.0.x preview support alongside 4.1.x.
+                  - type: fix
+                    text: Fixed an issue that could corrupt Standing output files during Skin Swap or repacking.
+                  - type: fix
+                    text: Fixed CAB-related errors when previewing Mods.
+                  - type: fix
+                    text: Fixed a false local/server game-version mismatch when no game update was available.
+                  - type: fix
+                    text: Fixed missing visual feedback on character artwork when selecting a row in the Layers/Atlas
+                      panel of the bone editor.
+                  - type: fix
+                    text: Fixed an issue where editing and exporting slot images for some characters produced files that
+                      did not work in-game.
+                  - type: fix
+                    text: Fixed edits to an image in one slot unintentionally affecting other slots that share the same
+                      image.
+                  - type: fix
+                    text: Fixed the character and skin ID column toggle not reverting after its settings change was cancelled.
+              - title: Features & improvements
+                items:
+                  - type: feature
+                    text: Added support for the FD directory in resource extraction.
+                  - type: feature
+                    text: Added detailed logs to standard repacking.
+                  - type: feature
+                    text: Groups of four or more related Mods of the same type are shown as one expandable entry in the
+                      Mod List.
+                  - type: improvement
+                    text: Redesigned parts of the interface for a cleaner look.
+                  - type: improvement
+                    text: Improved standard repacking with stricter file validation.
+              - title: Additional updates · Features
+                items:
+                  - type: feature
+                    text: 'Added an optional hover preview in Settings: point at the preview icon to see a static Mod
+                      thumbnail.'
+                  - type: feature
+                    text: Added a card view to character details in the Mod Gallery, with automatically generated static
+                      Mod previews.
+                  - type: feature
+                    text: Added a short written tutorial to the Layers panel of the bone editor.
+                  - type: feature
+                    text: Added multiple ways to sort by Mod type in the Mod List and Gallery.
+                  - type: feature
+                    text: Added a setting for the default view of character details in the Mod Gallery.
+                  - type: feature
+                    text: 'Introduced the new Voice & Subtitles Mod workflow: pair characters or customize content, then
+                      generate and apply voice or subtitle Mods.'
+                    badge: Major update
+                  - type: feature
+                    text: Added item tracking. Once enabled, selected in-game item counts are recorded for the Overview
+                      while you play, even if NMM is closed.
+                    badge: Testing
+              - title: Additional updates · Fixes & changes
+                items:
+                  - type: change
+                    text: Removed the older Voice & Subtitles implementation due to recurring issues; the new Mod workflow
+                      replaces it.
+                  - type: improvement
+                    text: Improved multi-select and filtering, with operation limits for both.
+                  - type: improvement
+                    text: Refined several interactions on the Mod Gallery character detail page.
+                  - type: improvement
+                    text: Refined the Mod Gallery interface and reduced slowdowns with large Mod libraries.
+      - id: nmm-release-1-2-8
+        version: 1.2.8
+        locales:
+          zh_CN:
+            title: 1.2.8 版本更新
+            summary: 新预览与编辑界面、全新功能导览和多套战斗模型支持；修复四周年更新后的活动壁纸 Mod 应用问题。
+            sections:
+              - title: 版本亮点
+                items:
+                  - type: feature
+                    text: 推出全新的预览与编辑界面，完善工具和交互，方便制作 Mod；历时约半个月打磨。
+                    badge: 重大更新
+                  - type: feature
+                    text: 新增全新功能导览，提供更全面的操作教程。
+                  - type: feature
+                    text: 支持同一角色拥有多套战斗模型，覆盖资源提取、应用 Mod、皮肤交换、物理修复和重新打包等流程。
+              - title: 新增功能
+                items:
+                  - type: feature
+                    text: Mod 列表与图表现可在 A–Z 和 Z–A 排序之间切换。
+                  - type: feature
+                    text: Mod 的右键菜单新增「一键删除所有未激活的 Mod」。
+                  - type: feature
+                    text: Mod 列表与图表中新增的 Mod 会在名称前显示 NEW 标记。
+                  - type: feature
+                    text: 皮肤交换新增对特殊动画文件（如 c272-01、c471-01）的支持。
+                    badge: 测试
+                  - type: feature
+                    text: 皮肤交换新增战斗特效类型。
+                  - type: feature
+                    text: 皮肤交换中无法匹配独立 Action 文件时，可用现有模板制作目标角色的 Action。
+                    badge: 测试
+              - title: 优化与调整
+                items:
+                  - type: improvement
+                    text: 补充应用 Mod 时的部分错误信息，方便定位问题。
+                  - type: improvement
+                    text: 优化同步游戏资源和应用 Mod 的相关流程。
+                  - type: improvement
+                    text: 优化故障排除中的部分检查项。
+                  - type: improvement
+                    text: 调整部分按钮文案，使其更贴合实际操作。
+                  - type: improvement
+                    text: 提高静态 PNG 导出的分辨率和清晰度。
+                  - type: improvement
+                    text: 活动壁纸 Mod 不再要求 EventScene 或 EventTitle 前缀；已有前缀的名称仍然兼容。
+                  - type: change
+                    text: 调整本地化语言范围，移除部分语言的独立译文，相关界面统一使用英文。
+                  - type: change
+                    text: 将轻量重新打包和正常重新打包拆为两个独立选项。
+              - title: 问题修复
+                items:
+                  - type: fix
+                    text: 修复港澳台版本的 NIKKE 启动器无法从 NMM 打开的问题。
+                  - type: fix
+                    text: 修复 NIKKE 四周年更新后，活动壁纸 Mod 无法应用的问题。
+                  - type: fix
+                    text: 修复部分用户应用 Mod 时出现的 “cancelled” 报错。
+                  - type: fix
+                    text: 修复皮肤交换的 Standing 成品缺少皮肤背景的问题。
+                  - type: fix
+                    text: 修复应用效果去除器生成的 Mod 时，误触发重复 Mod 检测的问题。
+                  - type: fix
+                    text: 修复鼠标悬停在效果去除器成品的角色栏时，不显示对应角色立绘的问题。
+          zh_TW:
+            title: 1.2.8 版本更新
+            summary: 全新預覽與編輯介面、全新功能導覽與多套戰鬥模型支援；修正四週年更新後活動桌布 Mod 的套用問題。
+            sections:
+              - title: 版本亮點
+                items:
+                  - type: feature
+                    text: 推出全新的預覽與編輯介面，完善工具與操作，方便製作 Mod；歷時約半個月打磨。
+                    badge: 重大更新
+                  - type: feature
+                    text: 新增全新功能導覽，提供更完整的操作教學。
+                  - type: feature
+                    text: 支援同一角色擁有多套戰鬥模型，涵蓋資源擷取、套用 Mod、造型交換、物理修復與重新封裝等流程。
+              - title: 新增功能
+                items:
+                  - type: feature
+                    text: Mod 清單與圖表現在可以在 A–Z 和 Z–A 排序之間切換。
+                  - type: feature
+                    text: Mod 右鍵選單新增「一鍵刪除所有未啟用的 Mod」。
+                  - type: feature
+                    text: Mod 清單與圖表中新加入的 Mod 會在名稱前顯示 NEW 標記。
+                  - type: feature
+                    text: 造型交換新增對特殊動畫檔案（如 c272-01、c471-01）的支援。
+                    badge: 測試
+                  - type: feature
+                    text: 造型交換新增戰鬥特效類型。
+                  - type: feature
+                    text: 造型交換中無法配對獨立 Action 檔案時，可用現有範本製作目標角色的 Action。
+                    badge: 測試
+              - title: 最佳化與調整
+                items:
+                  - type: improvement
+                    text: 補充套用 Mod 時的部分錯誤資訊，方便定位問題。
+                  - type: improvement
+                    text: 最佳化同步遊戲資源與套用 Mod 的相關流程。
+                  - type: improvement
+                    text: 最佳化疑難排解中的部分檢查項目。
+                  - type: improvement
+                    text: 調整部分按鈕文字，使其更貼合實際操作。
+                  - type: improvement
+                    text: 提高靜態 PNG 匯出的解析度與清晰度。
+                  - type: improvement
+                    text: 活動桌布 Mod 不再要求 EventScene 或 EventTitle 前綴；已有前綴的名稱仍然相容。
+                  - type: change
+                    text: 調整在地化語言範圍，移除部分語言的個別譯文，相關介面統一使用英文。
+                  - type: change
+                    text: 將輕量重新封裝與正常重新封裝拆成兩個獨立選項。
+              - title: 問題修正
+                items:
+                  - type: fix
+                    text: 修正港澳台版本的 NIKKE 啟動器無法從 NMM 開啟的問題。
+                  - type: fix
+                    text: 修正 NIKKE 四週年更新後，活動桌布 Mod 無法套用的問題。
+                  - type: fix
+                    text: 修正部分使用者套用 Mod 時出現的「cancelled」錯誤。
+                  - type: fix
+                    text: 修正造型交換的 Standing 成品缺少造型背景的問題。
+                  - type: fix
+                    text: 修正套用效果移除器產生的 Mod 時，誤觸發重複 Mod 偵測的問題。
+                  - type: fix
+                    text: 修正滑鼠停在效果移除器成品的角色欄時，未顯示對應角色立繪的問題。
+          en:
+            title: Version 1.2.8
+            summary: A redesigned preview and editor, a new Feature Tour, and support for multiple combat models. Also
+              fixes applying event wallpaper Mods after the 4th Anniversary update.
+            sections:
+              - title: Highlights
+                items:
+                  - type: feature
+                    text: Introduced a redesigned preview and editor with improved tools and interactions for creating
+                      Mods. This overhaul took around two weeks of work.
+                    badge: Major update
+                  - type: feature
+                    text: Added a redesigned Feature Tour with more comprehensive walkthroughs.
+                  - type: feature
+                    text: Added support for characters with multiple combat models across extraction, Mod application,
+                      Skin Swap, physics fixes, and repacking.
+              - title: New features
+                items:
+                  - type: feature
+                    text: Added A–Z and Z–A sorting in the Mod List and Gallery.
+                  - type: feature
+                    text: Added a context menu action to delete all inactive Mods.
+                  - type: feature
+                    text: Newly added Mods now display a NEW badge before their name in the Mod List and Gallery.
+                  - type: feature
+                    text: Added Skin Swap support for unusual animation files such as c272-01 and c471-01.
+                    badge: Testing
+                  - type: feature
+                    text: Added combat effect swaps to Skin Swap.
+                  - type: feature
+                    text: When standalone Action files cannot be paired, Skin Swap can generate the target character’s
+                      Action using an existing template.
+                    badge: Testing
+              - title: Improvements & changes
+                items:
+                  - type: improvement
+                    text: Added more detailed error messages when applying Mods.
+                  - type: improvement
+                    text: Improved game-resource synchronization and Mod application workflows.
+                  - type: improvement
+                    text: Improved several checks in Troubleshooting.
+                  - type: improvement
+                    text: Refined some button labels to describe their actions more clearly.
+                  - type: improvement
+                    text: Improved the resolution and clarity of exported static PNGs.
+                  - type: improvement
+                    text: Event wallpaper Mods no longer require an EventScene or EventTitle prefix. Existing prefixed
+                      names still work.
+                  - type: change
+                    text: Removed some UI localizations; affected languages now use English.
+                  - type: change
+                    text: Separated lightweight and standard repacking into two distinct options.
+              - title: Fixes
+                items:
+                  - type: fix
+                    text: Fixed launching NIKKE through NMM on the Hong Kong, Macao, and Taiwan release.
+                  - type: fix
+                    text: Fixed event wallpaper Mods failing to apply after the NIKKE 4th Anniversary update.
+                  - type: fix
+                    text: Fixed the “cancelled” error some users saw when applying Mods.
+                  - type: fix
+                    text: Fixed missing skin backgrounds in Standing files produced by Skin Swap.
+                  - type: fix
+                    text: Fixed false duplicate-Mod detections when applying Mods created by the Effect Remover.
+                  - type: fix
+                    text: Fixed missing character artwork when hovering over the Character column for Mods created by
+                      the Effect Remover.
